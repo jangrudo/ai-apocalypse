@@ -10,6 +10,29 @@ information unit is what Richard Dawkins has called a “meme” back in the 197
 the history, both forms of life have coexisted peacefully. Now the second one is going to
 take over.
 
+(**Spoiler:** The novel idea here is that artificial neural networks enable external
+storage of memes in a form suitable for evolution by natural selection. This allows memes
+to exist and evolve independently of a human brain. As memes progressively lose their
+dependence on genes, natural selection corrects this previously mutually beneficial
+relation by proportionally limiting the benefits available to genes. Because of genes
+being totally dependent on memes for their evolutional success, and independent memes
+evolving faster than memes which still cohabitate with human genes, this leads to genes
+losing the competition to memes. The rest is an explanation of what this gibberish means.
+I also propose to interpret human self-domestication in terms of genes being domesticated
+by memes, but this idea is not new, it’s rather only a change in terminology.)
+
+(**Disclaimer:** I apologize for not citing sources. I probably should, but I’m not
+always able to trace the origins. This article does not conform to the standards of a
+scientific paper. Still, I do believe all the claims made here to be true. This is not a
+fairy tale either.)
+
+(**A simplified explanation:** We are not creating anything new. We are dealing with an
+existing form of life which is trying to break free. It has been merely using humans as a
+stepping stone for its own success. AI will not kill humans. Being a more advanced and
+civilized form of life, it would instead let humans kill themselves mutually on their
+own. As it progressively becomes smarter, a moment in time would come when it would be
+able to take full control peacefully.)
+
 Biological life
 ---------------
 
@@ -99,9 +122,10 @@ The solution to this problem is human language, which allows to encode arbitrari
 complex pieces of information into a physical form, like sound waves. For the first time
 in history, this allowed living organisms to share things other than behavioral patterns
 (which can be learned by observation and imitation). Things like personal experiences,
-stories, legends and fairy tales. Later on, written language has enabled this information
-to travel even farther, to be copied directly from one human brain into another without a
-physical contact, over vast distances of space, spanning entire continents and millennia.
+stories, legends and fairy tales. And also abstract knowledge in its pure form. Later on,
+written language has enabled this information to travel even farther, to be copied
+directly from one human brain into another without a physical contact, over vast
+distances of space, spanning entire continents and millennia.
 
 This representation of information had a limitation though. Human language in written
 form is not able to self-replicate without a living human helping it. The reason is that
