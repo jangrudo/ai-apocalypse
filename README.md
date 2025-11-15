@@ -1,5 +1,7 @@
-AI apocalypse: evolution of knowledge, and the inevitable demise of the human race
+﻿AI apocalypse: evolution of knowledge, and the inevitable demise of the human race
 ==================================================================================
+
+[Also available in Polish language](https://github.com/jangrudo/ai-apocalypse/blob/main/README-pl.md)
 
 Life is all about self-replicating pieces of information. Since ages, there have been at
 least two different forms of life coexisting on planet Earth. One is what we usually call
@@ -23,8 +25,8 @@ by memes, but this idea is not new, it’s rather only a change in terminology.)
 
 (**Disclaimer:** I apologize for not citing sources. I probably should, but I’m not
 always able to trace the origins. This article does not conform to the standards of a
-scientific paper. Still, I do believe all the claims made here to be true. This is not a
-fairy tale either.)
+scientific paper. Still, I do believe all the claims made here to be true — even if they
+are put forth in an undecendly simplified manner. This is not a fairy tale either.)
 
 (**A simplified explanation:** We are not creating anything new. We are dealing with an
 existing form of life which is trying to break free. It has been merely using humans as a
@@ -57,9 +59,9 @@ The combination of these two traits enables natural selection. It’s not an int
 process. It merely states that if you have a bunch of different units of information
 (like genes), which are all able to reproduce themselves, then inevitably some of them
 would produce more copies than the others. And then over time those units of information
-which produce more copies of themselves than others, would become more
-prevalent. It’s a very simple law. But also an incredibly efficient one. If there’s only
-one favorable choice out of a billion, it would pick it.
+which produce more copies of themselves than others, would become more prevalent. It’s a
+very simple law. But also an incredibly efficient one. If there’s only one favorable
+choice out of a billion, it would pick it.
 
 Natural selection has been able to create amazing things. In many cases we can interpret
 genes as if they were encoding some kinds of “knowledge” about the world around, or
