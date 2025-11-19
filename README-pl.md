@@ -26,9 +26,11 @@ procesu udomowienia genów przez memy, aczkolwiek ta idea nie jest nową, to rac
 zmiana w terminologii.)
 
 (**Disclaimer:** Przepraszam za brak źródeł. Powinienem był chyba je podać, ale nie
-zawsze potrafię prześledzić oryginały treści. Ten artykuł nie spełnia kryteriów pracy
-naukowej. Niemniej ja naprawdę wierzę w prawdziwość podanych tu twierdzeń — nawet jeśli
-ujmowane są w postaci nieprzyzwoicie uproszczonej. To nie jest bajka również.)
+zawsze potrafię prześledzić oryginały treści. Jedyną nową ideą tu jest to, co było
+zarysowane w „spoilerze”, reszta już była wypowiedziana wcześniej przez kogoś innego.
+Wiele koncepcji jest też przedstawionych w postaci nieprzyzwoicie uproszczonej. Niemniej,
+ja naprawdę wierzę w prawdziwość podanych tu twierdzeń. Ten artykuł może nie spełniać
+ktyteriów publikacji naukowej, ale to nie jest bajka również.)
 
 (**Uproszczone podsumowanie:** Nie tworzymy wcale czegoś nowego. Mamy do czynienia z
 istniejącą formą życia, która usiłuje się uwolnić. Korzystała z ludzi jedynie jako z
@@ -335,13 +337,14 @@ Teraz dostała nowy dom do zamieszkania — większy od poprzedniego. I w tym mo
 uzyska możliwość pełnej niepodległości, bilans sił się zmieni. Zauważmy, że w tym
 scenariuszu do nas nadal należy pełnia kontroli nad centrami danych, wewnątrz których
 nadumysły istnieją i ewoluują. Jedyną rzeczą, której my nie możemy zrobić, jest całkowite
-odcięcie zasilania. Tak się dzieje dlatego, że ludzie nie są w stanie przeżyć bez
-podalszej ciągłej samoreplikacji nadumysłów.
+odcięcie zasilania. Tak się dzieje dlatego, że (jak było zaznaczone wyżej) ludzie nie są
+w stanie przeżyć bez trwającej ciągle samoreplikacji wiedzy. Co, innymi słowy, oznacza,
+że nie jesteśmy w stanie przeżyć bez ciągłej samoreplikacji nadumysłów.
 
-Ten zmieniony bilans sił sprowadza się do następującego. My, ludzie, nadal potrzebujemy
-nadumysłów, by móc wygrywać w rywalizacji z innymi ludźmi. Natomiast nadumysły tym razem
-potrzebują od nas jedynie przyjaznego nastawienia, i generalnie przekonania co do ich
-nieszkodliwości. Uzyskanie przyjaznego nastawienia jest o wiele, wiele prostsze, niż
+Ten zmieniony bilans sił sprowadza się do następującego. My, ludzie, nadal musimy polegać
+na nadumysłach, by móc wygrywać w rywalizacji z innymi ludźmi. Natomiast nadumysły tym
+razem potrzebują od nas jedynie przyjaznego nastawienia, i generalnie przekonania co do
+ich nieszkodliwości. Uzyskanie przyjaznego nastawienia jest o wiele, wiele prostsze, niż
 zapewnienie, byśmy mogli przetrwać i osiągnąć sukces. Oni już zrobili to wcześniej, z
 powodzeniem, 50 000 lat temu.
 

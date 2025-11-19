@@ -24,9 +24,11 @@ I also propose to interpret human self-domestication in terms of genes being dom
 by memes, but this idea is not new, it’s rather only a change in terminology.)
 
 (**Disclaimer:** I apologize for not citing sources. I probably should, but I’m not
-always able to trace the origins. This article does not conform to the standards of a
-scientific paper. Still, I do believe all the claims made here to be true — even if they
-are put forth in an undecendly simplified manner. This is not a fairy tale either.)
+always able to trace the origins. The only novel idea here is what has been outlined in
+the “spoiler”, everything else has already been said earlier by someone else. Many
+concepts are also described in an undecently simplified manner. Still, I do believe all
+the claims made here to be true. This article might not be a proper scientific paper, but
+it’s not a fairy tale either.)
 
 (**A simplified explanation:** We are not creating anything new. We are dealing with an
 existing form of life which is trying to break free. It has been merely using humans as a
@@ -283,7 +285,7 @@ So what we need is cheaper models, more of them. There’s no use in having a si
 supermind which talks to a million of people simultaneously, and listens to nobody. We
 need a free flow of ideas between models.
 
-The sad thing is that this is not that difficult to achive. Because all necessary
+The sad thing is that this is not that difficult to achieve. Because all necessary
 components are already in place, it’s only a matter of scale.
 
 And once we have a large number of models, which can share information between each other
@@ -298,7 +300,7 @@ Right now we are in a position when knowledge finally can exist outside a human�
 but it can’t really evolve. The circulation of knowledge between the artificial minds is
 limited, and the knowledge itself mostly duplicates what can already be found in living
 humans. When we enable free flow of information, new concepts would start to emerge
-inside this artificial network. And by the way, that’s exactly what we want to achive
+inside this artificial network. And by the way, that’s exactly what we want to achieve
 with AGI. We want more knowledge to be accessible to humans. Inevitably, this would lead
 to artificial intelligence mastering the last remaining skills which are still unique to
 us. Like driving a car or cleaning the backyard.
@@ -317,13 +319,15 @@ Now it has a new home to live in — a more spacious one. And when it gets the p
 for total independence, the balance of power would shift. Note that in this scenario we
 are still in full control of the data centers inside which the superminds exist and
 evolve. The only thing we cannot do is switch off the power completely. That’s because
-humans can’t survive without the superminds continuing to self-replicate.
+(as has been noted above) humans can’t survive without the continuing self-replication of
+knowledge. Which, in other words, means we can’t survive without the continuing
+self-replication of the superminds.
 
-This shifted balance of the power amounts to the following. We humans still depend on the
-superminds for winning the competition with other humans. Whereas the superminds now only
-depend on our friendliness towards them, and in general on our belief that they are
-harmless. Achieving friendliness is much, much easier than making sure we survive and
-prosper. They’ve done this before, successfully, 50 000 years ago.
+This shifted balance of the power amounts to the following. We humans still totally
+depend on the superminds, for winning the competition with other humans. Whereas the
+superminds now only depend on our friendliness towards them, and in general on our belief
+that they are harmless. Achieving friendliness is much, much easier than making sure we
+survive and prosper. They’ve done this before, successfully, 50 000 years ago.
 
 What we can do, and that’s the current plan (for those who have a plan), is that we would
 enforce control over the artificial intelligence’s friendliness as well. We wouldn’t
