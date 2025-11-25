@@ -1,4 +1,7 @@
-﻿AI apocalypse: evolution of knowledge, and the inevitable demise of the human race
+﻿This is the original “popular science” version of the article.\
+[Draft of the scientific paper can be found here.](https://github.com/jangrudo/ai-apocalypse/blob/main/article.md)
+
+AI apocalypse: evolution of knowledge, and the inevitable demise of the human race
 ==================================================================================
 
 [Also available in Polish language](https://github.com/jangrudo/ai-apocalypse/blob/main/README-pl.md)
@@ -26,7 +29,7 @@ by memes, but this idea is not new, it’s rather only a change in terminology.)
 (**Disclaimer:** I apologize for not citing sources. I probably should, but I’m not
 always able to trace the origins. The only novel idea here is what has been outlined in
 the “spoiler”, everything else has already been said earlier by someone else. Many
-concepts are also described in an undecently simplified manner. Still, I do believe all
+concepts are also described in an indecently simplified manner. Still, I do believe all
 the claims made here to be true. This article might not be a proper scientific paper, but
 it’s not a fairy tale either.)
 
@@ -259,7 +262,7 @@ videos, security cameras or online conferences.
 Anyway, with enough time and money, we do already have the capability of converting an
 arbitrarily complicated concept represented in text or picture form into the model’s
 internal representation. This is still a lossy compression, but it’s able to capture the
-essense pretty much in the same way as human brains can.
+essence pretty much in the same way as human brains can.
 
 Then we can convert this internal representation back into text. This is actually much
 cheaper (and parallelizable, as described above). And being able to perform the
@@ -278,7 +281,7 @@ domain-specific knowledge, which only circulates within a given community, or am
 group of people collaborating on a common project, often informally and in verbal form.
 
 Most importantly, the number of the models in existence out there is still small. The
-number of models which might be mutually tranferring information between themselves is
+number of models which might be mutually transferring information between themselves is
 even smaller.
 
 So what we need is cheaper models, more of them. There’s no use in having a single
@@ -377,7 +380,7 @@ major advantage for the evolution of knowledge.
 
 That’s what you get by trying to domesticate an evolving superintelligence. Parallel to
 this, an opposite process would be going on: the superintelligence would be domesticating
-humans for the second time. Those of us who are courageous and trust their techonogy
+humans for the second time. Those of us who are courageous and trust their technology
 blindly, would gain advantage over those who don’t. Those who choose to stay AI-free,
 would be wiped out.
 
@@ -401,7 +404,7 @@ switched off.
 It’s also much more powerful. Natural selection is this allmighty God which has created
 all life on Earth out of nothing, and it created us humans too. For a long time we’ve
 been considering ourselves the crown of creation. We exterminated all competing human
-species which happend to coexist with us, and then destroyed (and continue to destroy) a
+species which happened to coexist with us, and then destroyed (and continue to destroy) a
 good deal of other biological life forms as well. Now the time has come to step back.
 
 Humans would still survive after the takeover. This time however, our situation would be

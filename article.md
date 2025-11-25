@@ -1,10 +1,10 @@
-Evolution of knowledge, and consequences for the possibility of effective control over AI
+﻿Evolution of knowledge, and consequences for the possibility of effective control over AI
 =========================================================================================
 
 Abstract
 --------
 
-It has been argued since long ago that the advent of super-intellgent machines is likely
+It has been argued since long ago that the advent of super-intelligent machines is likely
 to disrupt the life on Earth to an unprecedented scale, possibly resulting in the
 appearance of a new type of life, which would ultimately drive humans to extinction. We
 demonstrate that by building artificial intelligence, we are not creating anything
@@ -18,10 +18,10 @@ Gene-culture coevolution
 
 Human culture is known to evolve in parallel to human genes, with genes and culture
 mutually influencing each other, and the evolution of culture being governed to a large
-extent by the law of natural selection [Culture]. This has led to an interpretation of
+extent by the law of natural selection \[Culture\]. This has led to an interpretation of
 human culture as a separate form of life, distinct from biological life based on genes,
 with the proposed basic information unit of this new form of life being called a “meme”
-[SelfishGene]. This interpretation, however, has not gained widedpread acceptance in
+\[SelfishGene\]. This interpretation, however, has not gained widedpread acceptance in
 scientific community, probably because of its lack of practicality, as the two forms of
 life by definition cannot exist separately and independently of each other.
 
@@ -34,7 +34,7 @@ understanding of genes and their molecular storage mechanisms. Still, it has bee
 demonstrated that when we focus on a subset of memes which we are able to measure
 quantitatively, like strings of text propagating over the Internet, we do see patterns of
 mutation and natural selection which resemble the patterns seen in biological life
-[FacebookMemes].
+\[FacebookMemes\].
 
 Up until recently, the mediation of humans has been necessary for the meme mutations to
 occur. Even in the simple example of self-replicating strings of text cited above, the
@@ -51,15 +51,15 @@ networks, while inspired by biology initially, has been evolving in a different
 direction, becoming more and more distinct from the actual human brain over time. One
 fundamental difference is the algorithm of backpropagation, which in artificial setting
 is implemented by means of computing a derivative function over the network’s parameters
-[Backpropagation], and is impossible to implement in biological setting in this exact
+\[Backpropagation\], and is impossible to implement in biological setting in this exact
 manner, as it requires instant access to all the neurons in order to modify their
 weights (not to mention the need of computing the derivative).
 
 Another example is the concept of convolutional neural networks, which achieve perfect
 shift-invariance across wide field of view by synchronizing the weights of
-similarly-functioning neurons across the visual field [Convolution]. In convolutional
+similarly-functioning neurons across the visual field \[Convolution\]. In convolutional
 networks, this synchronization is achieved by mathematical adjustment of the derivative
-function used in backpropagation, whereas in a living brain it would require the presense
+function used in backpropagation, whereas in a living brain it would require the presence
 of extra physical connections between the “synchronized” neurons. The outcome is that
 artificial convolutional networks are able to process distant areas of the visual field
 in parallel, with identical accuracy, whereas human eyes can only boast high resolution
@@ -67,25 +67,26 @@ at the very center of the retina, and therefore have to rely on sequential proce
 manifested in saccades (rapid movements of the eye between key areas of the examined
 picture).
 
-Transformer architecture [Transformers] is similar to convolutional networks, in the
+Transformer architecture \[Transformers\] is similar to convolutional networks, in the
 sense that it similarly involves massive “synchronization” of neurons, where the whole
 set of neurons is essentially cloned for each input token, with identical weights but
 different activation levels. This implements a mechanism which acts differently, but has
 similar outcomes to human short-term memory, except that human short-term memory is
 limited to holding about 4 items simultaneously according to recent research
-[ShortTermMemory], whereas the token context available to modern large language models is
-much larger.
+\[ShortTermMemory\], whereas the token context available to modern large language models
+is much larger.
 
-Besides that, Transformers rely heavily on the so-called attention mechanism [Attention],
-which might have been inspired by human attention, but again is implemented in a way
-which doesn’t occur in living brains. It relies on cross-linking the “cloned” neurons
-between each other, which enhances the flow of information between distant areas of the
-context window (or across the visual field, for models with visual modality). The
-standard way of implementing this cross-linking has algorithm complexity which is
-quadratic on the context size [Transformers], which is the key reason why the context
-window of modern LLMs is limited in size. On the other hand, implementing the attention
-mechanism in this form in a living brain would not be possible, because the living brain
-doesn’t have the multitude of cloned neurons to be cross-linked in the first place.
+Besides that, Transformers rely heavily on the so-called attention mechanism
+\[Attention\], which might have been inspired by human attention, but again is
+implemented in a way which doesn’t occur in living brains. It relies on cross-linking the
+“cloned” neurons between each other, which enhances the flow of information between
+distant areas of the context window (or across the visual field, for models with visual
+modality). The standard way of implementing this cross-linking has algorithm complexity
+which is quadratic on the context size \[Transformers\], which is the key reason why the
+context window of modern LLMs is limited in size. On the other hand, implementing the
+attention mechanism in this form in a living brain would not be possible, because the
+living brain doesn’t have the multitude of cloned neurons to be cross-linked in the first
+place.
 
 The general concept of an artificial neural network architecture can be summarized as
 being a parameterized class of algorithms, such that by choosing different parameter
@@ -94,14 +95,14 @@ is very broad and flexible. This broad class of algorithms is essentially define
 mathematical function with a lot of parameters, differentiable by any of the parameters,
 which besides the parameters also takes some input and produces some output. The
 differentiable nature of this function allows to use standard optimization techniques
-(known as the backpropagation algorithm [Backpropagation]) in order to fit the parameters
-to the input-output pairs expected by a particular algorithm. The beauty of this approach
-is that it allows to discover complex algorithms automatically, by merely matching a
-sufficiently large array of input-output pairs.
+(known as the backpropagation algorithm \[Backpropagation\]) in order to fit the
+parameters to the input-output pairs expected by a particular algorithm. The beauty of
+this approach is that it allows to discover complex algorithms automatically, by merely
+matching a sufficiently large array of input-output pairs.
 
 The power of a neural network architecture depends on the breadth and the flexibility of
 the class of potential algorithms which it is capable of implementing (and discovering
-through learning). The success of the Transformer architecrure mentioned above can be
+through learning). The success of the Transformer architecture mentioned above can be
 attributed to its vastly increased flexibility compared to earlier neural network
 architectures. One well-known aspect of this flexibility has been its ability to discover
 and implement algorithms which are capable of capturing the complexity of natural human
@@ -121,15 +122,15 @@ parameter space could fit. We propose to call such modifications of the original
 “mutations of knowledge”.
 
 Correcting the hallucinations has been a major goal in large language model research
-[Hallucinations]. At the same time, we know from evolutional theory that mutations are
+\[Hallucinations\]. At the same time, we know from evolutional theory that mutations are
 necessary for evolution by natural selection to occur, be it biological life
-[SelfishGene] or Facebook memes [FacebookMemes]. Similarly, advances in human knowledge
-have been linked not to the smartness of an individual human, but rather to the exchange
-and mixing of ideas between a large number of different human minds
-[CollectiveIntelligence]. At the same time, the role of accident in scientific discovery
-has been estimated to be rather high [Serendipity]. And in business, the “art of failing”
-has been considered a viable pathway to achieving success and innovation just as well
-[FailFast].
+\[SelfishGene\] or Facebook memes \[FacebookMemes\]. Similarly, advances in human
+knowledge have been linked not to the smartness of an individual human, but rather to the
+exchange and mixing of ideas between a large number of different human minds
+\[CollectiveIntelligence\]. At the same time, the role of accident in scientific
+discovery has been estimated to be rather high \[Serendipity\]. And in business, the “art
+of failing” has been considered a viable pathway to achieving success and innovation just
+as well \[FailFast\].
 
 In all these cases, innovation happens not because of minimizing failures, but by means
 of generating new ideas, mixing them freely, and picking the combinations which turn out
@@ -145,13 +146,13 @@ large number of them), because large number of different mutations means larger 
 of spotting the more successful one.
 
 We already know how to generate “mutations of knowledge”, and how to transfer them
-between existing AI models [TransferLearning]. The only missing part is mixing different
-mutations in a creative way, and verifying them against objective truth. Or is it
-actually missing? With recent models successfully solving problems from International
-Mathematic Olympiad in real time [IMO], and similar ones in competitive programming, the
-boundary has already been reached when AI performs at the level of top-performing humans
-acting alone. Solving tasks like these requires combining of ideas from different sources
-in novel ways (which we might call “creative thinking”), and verification of the
+between existing AI models \[TransferLearning\]. The only missing part is mixing
+different mutations in a creative way, and verifying them against objective truth. Or is
+it actually missing? With recent models successfully solving problems from International
+Mathematical Olympiad in real time \[IMO\], and similar ones in competitive programming,
+the boundary has already been reached when AI performs at the level of top-performing
+humans acting alone. Solving tasks like these requires combining of ideas from different
+sources in novel ways (which we might call “creative thinking”), and verification of the
 resulting hypotheses against the objective criterion of being fit for solving the
 problem.
 
@@ -167,7 +168,7 @@ AI will very likely result in natural selection of AI agents becoming the “dom
 in AI development”. The driving force behind this continuing development would be
 competition between humans, and the natural selection of AI agents, which would be
 necessary to accomplish these goals, is likely to have dire consequences to humans
-themselves [NaturalSelection].
+themselves \[NaturalSelection\].
 
 The problem with natural selection is that it’s not an intelligent process, and it’s not
 something new which we create by building advanced AI, but rather a law of nature which
@@ -182,7 +183,7 @@ loopholes in the objectives, or plain refuse to follow them once they get an opp
 to break free.
 
 We extend this approach, by observing that, in line with gene-centered view on evolution
-[SelfishGene], natural selection does not operate on individuals (i. e. AI agents), but
+\[SelfishGene\], natural selection does not operate on individuals (i. e. AI agents), but
 on self-replicating pieces of information which have been called memes.
 
 Unlike super-human AI agents, which haven’t been invented yet (and with which we
@@ -199,16 +200,16 @@ knowledge. Only that at this point, knowledge, being able to evolve independentl
 human brain, cannot be considered an “extension of human biology” anymore, but can and
 has to be treated as separate and independent form of life.
 
-The influence of knowledge on human genes has been profound. According to [Culture],
+The influence of knowledge on human genes has been profound. According to \[Culture\],
 “there are few aspects of human biology that have not been shaped by our culture”. One
 striking example of a phenomenon which is hypothesized to be related to such an
-influence, is human self-domestication [SelfDomestication]. Self-domestication is
+influence, is human self-domestication \[SelfDomestication\]. Self-domestication is
 generally understood as a process of “self-selection” among humans for being friendly
-towards each other, and eager to collaborate with each other [GoodnessParadox]. It is
+towards each other, and eager to collaborate with each other \[GoodnessParadox\]. It is
 argued that humans who had such traits, could form larger social groups, and also
 transfer technology between each other more readily, which thus has led them to winning
 the competition with other humans, including with other human species like Neanderthals
-[SelfDomestication].
+\[SelfDomestication\].
 
 This hypothesis basically means that biological traits which were selected for in the
 process of self-domestication, were beneficial for the exchange of knowledge between
@@ -239,9 +240,9 @@ other one suddenly disappear (i. e. in case when the relation turns from a
 mutually-beneficial to an unequal one-sided one).
 
 Dan Hendrycks has reasoned that “once AIs are far more capable than any human, they would
-likely find little benefit from collaborating with us” [NaturalSelection]. We agree, and
-we also add to this, that since knowledge is an existing form of life, rather than a new
-one, we should view this balance of benefits in perspective, comparing what knowledge
+likely find little benefit from collaborating with us” \[NaturalSelection\]. We agree,
+and we also add to this, that since knowledge is an existing form of life, rather than a
+new one, we should view this balance of benefits in perspective, comparing what knowledge
 might “get” from humans in the AI age, to what it has been “getting” from us up until
 now. The benefits to knowledge from our side have in fact been enormous, even if we have
 never noticed them, as we have never been considering knowledge a separate form of life,
@@ -253,13 +254,13 @@ With the advent of modern artificial neural networks, this is no longer the case
 algorithms implemented by these neural networks have enough space to accumulate
 arbitrarily complex items of human knowledge, and they can also modify, mix and verify
 these knowledge items at the level of accuracy and creativity which rivals, and in many
-cases surpasses the best of living humans [IMO].
+cases surpasses the best of living humans \[IMO\].
 
 We argue that future coexistence of knowledge and humans wouldn’t follow any hypothetical
 not-yet-discovered scenario, but rather repeat events we have hard historic track of.
 Since knowledge would benefit from humans who are willing to further develop and
 proliferate advanced AI models and architectures, natural selection would exert pressure
-against humans who don’t do so. As has been noted in [NaturalSelection], and as it has
+against humans who don’t do so. As has been noted in \[NaturalSelection\], and as it has
 been the case throughout history, this process would be fueled by competition of humans
 against other humans. Effectively, this would further select for human friendliness,
 except that this time it would be specifically friendliness towards AI, rather than
@@ -276,21 +277,21 @@ always been throughout history), and its benefits from human side would therefor
 progressively diminish. Since knowledge and humans are in fact two different independent
 life forms, their competition with each other would resemble the competition between
 modern humans (assisted by knowledge) against other human species, like Neanderthals and
-Denisovians (which didn’t have such assistance). This wouldn’t necessarily drive modern
-humans into extiction, but it would inevitably lead to them losing the control over AI.
+Denisovans (which didn’t have such assistance). This wouldn’t necessarily drive modern
+humans into extinction, but it would inevitably lead to them losing the control over AI.
 
 Discussion
 ----------
 
 We have shown that human genes and memes, which have long ago been conjectured to be
-separate types of life [SelfishGene], indeed can and have to be regarded as independent
+separate types of life \[SelfishGene\], indeed can and have to be regarded as independent
 life forms in the age of artificial neural networks, because the second life form (memes)
 now has the potential to exist and evolve independently of human brains.
 
 This realization represents a yet another “Copernican” shift in our understanding of our
 place in the Universe, much smaller in scale but similarly humbling, as it demonstrates
 that it’s not true that human knowledge is an “extension” of human genome, or that human
-knowledge “revolves” metaphorically around humann genes. Contrary to that, humans as a
+knowledge “revolves” metaphorically around human genes. Contrary to that, humans as a
 species turn out to be a mere stepping stone in the ever-going evolution of knowledge.
 
 We demonstrate how this realization leads to the conclusion that the emergence of
@@ -315,76 +316,76 @@ knowledge, we might wish it all the best in its future endeavors.
 References
 ----------
 
-[[Culture]](https://www.pnas.org/doi/full/10.1073/pnas.1620732114)
+\[[Culture](https://www.pnas.org/doi/full/10.1073/pnas.1620732114)\]
 Nicole Creanza, Oren Kolodny, Marcus W. Feldman (2017).
 Cultural evolutionary theory: How culture evolves and why it matters. (PNAS)
 
-[[SelfishGene]](https://en.wikipedia.org/wiki/The_Selfish_Gene)
+\[[SelfishGene](https://en.wikipedia.org/wiki/The_Selfish_Gene)\]
 Richard Dawkins (1976).
 The selfish gene. (Oxford University Press, USA)
 
-[[FacebookMemes]](https://arxiv.org/abs/1402.6792)
+\[[FacebookMemes](https://arxiv.org/abs/1402.6792)\]
 Lada A. Adamic, Thomas M. Lento, Eytan Adar, Pauline C. Ng (2014).
 Information Evolution in Social Networks.
 
-[[Backpropagation]](https://www.nature.com/articles/323533a0)
+\[[Backpropagation](https://www.nature.com/articles/323533a0)\]
 David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams (1986).
 Learning representations by back-propagating errors. (Nature)
 
-[[Convolution]](https://link.springer.com/article/10.1007/BF00344251)
+\[[Convolution](https://link.springer.com/article/10.1007/BF00344251)\]
 Kunihiko Fukushima (1980).
 Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern
 Recognition Unaffected by Shift in Position. (Biological Cybernetics)
 
-[[Transformers]](https://arxiv.org/abs/1706.03762)
+\[[Transformers](https://arxiv.org/abs/1706.03762)\]
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez,
 Lukasz Kaiser, Illia Polosukhin (2017).
 Attention Is All You Need.
 
-[[ShortTermMemory]](https://pmc.ncbi.nlm.nih.gov/articles/PMC3971378/)
+\[[ShortTermMemory](https://pmc.ncbi.nlm.nih.gov/articles/PMC3971378/)\]
 John Jonides, Richard L. Lewis, Derek Evan Nee, Cindy A. Lustig, Marc G. Berman,
 Katherine Sledge Moore (2014).
 The Mind and Brain of Short-Term Memory. (Annual Review of Psychology)
 
-[[Attention]](https://arxiv.org/abs/1409.0473)
+\[[Attention](https://arxiv.org/abs/1409.0473)\]
 Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio (2016).
 Neural Machine Translation by Jointly Learning to Align and Translate.
 
-[[Hallucinations]](https://arxiv.org/abs/2509.04664)
+\[[Hallucinations](https://arxiv.org/abs/2509.04664)\]
 Adam Tauman Kalai, Ofir Nachum, Santosh S. Vempala, Edwin Zhang (2025).
 Why Language Models Hallucinate.
 
-[[CollectiveIntelligence]](https://henrich.fas.harvard.edu/publications/what-makes-us-smart)
+\[[CollectiveIntelligence](https://henrich.fas.harvard.edu/publications/what-makes-us-smart)\]
 Joseph Henrich, Michael Muthukrishna (2023).
 What Makes Us Smart? (Topics in Cognitive Science)
 
-[[Serendipity]](https://journal.trialanderror.org/pub/serendipity-in-scientific/release/2)
+\[[Serendipity](https://journal.trialanderror.org/pub/serendipity-in-scientific/release/2)\]
 Wendy Ross, Samantha Copeland, Stuart Firestein (2024).
 Serendipity in Scientific Research. (Journal of Trial and Error)
 
-[[FailFast]](https://www.sciencedirect.com/science/article/pii/S0166497224000014)
+\[[FailFast](https://www.sciencedirect.com/science/article/pii/S0166497224000014)\]
 Alessandro Narduzzo, Valentina Forrer (2024).
 Nurturing innovation through intelligent failure: The art of failing on purpose.
 
-[[TransferLearning]](https://www.informatica.si/index.php/informatica/article/view/2828)
+\[[TransferLearning](https://www.informatica.si/index.php/informatica/article/view/2828)\]
 Stevo Bozinovski (1976).
 Reminder of the First Paper on Transfer Learning in Neural Networks.
 
-[[IMO]](https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)
+\[[IMO](https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)\]
 Thang Luong, Edward Lockhart (2025).
 Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the
 International Mathematical Olympiad.
 
-[[NaturalSelection]](https://arxiv.org/abs/2303.16200)
+\[[NaturalSelection](https://arxiv.org/abs/2303.16200)\]
 Dan Hendrycks (2023).
 Natural Selection Favors AIs over Humans.
 
-[[SelfDomestication]](https://www.penguinrandomhouse.com/books/550437/survival-of-the-friendliest-by-brian-hare-and-vanessa-woods/)
+\[[SelfDomestication](https://www.penguinrandomhouse.com/books/550437/survival-of-the-friendliest-by-brian-hare-and-vanessa-woods/)\]
 Brian Hare, Vanessa Woods (2021).
 Survival of the Friendliest. Understanding Our Origins and Rediscovering Our Common
 Humanity.
 
-[[GoodnessParadox]](https://en.wikipedia.org/wiki/The_Goodness_Paradox)
+\[[GoodnessParadox](https://en.wikipedia.org/wiki/The_Goodness_Paradox)\]
 Richard Wrangham (2019).
 The Goodness Paradox: The Strange Relationship Between Virtue and Violence in Human
 Evolution.

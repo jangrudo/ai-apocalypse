@@ -1,4 +1,7 @@
-﻿Apokalipsa AI: ewolucja wiedzy i nieunikniony upadek ludzkości
+﻿To jest oryginalna „popularnonaukowa” wersja artykułu.\
+[Szkic odpowiedniej pracy naukowej można znaleźć tu.](https://github.com/jangrudo/ai-apocalypse/blob/main/article.md)
+
+Apokalipsa AI: ewolucja wiedzy i nieunikniony upadek ludzkości
 ==============================================================
 
 [Oryginalna wersja w języku angielskim](https://github.com/jangrudo/ai-apocalypse)
@@ -15,8 +18,8 @@ nich ma przejąć stery.
 
 (**Spoiler:** Nową ideą tu jest to, że sztuczne sieci neuronowe umożliwiają zewnętrzne
 przechowywanie memów w postaci, przydatnej do ewolucji przez dobór naturalny. To daje
-memom możliwość istnienia i ewoluowania niezależnie od ludzkiego mózgu. W miare
-postępującego uniezależniania się memów od genów, dobór naturalny korektuje tę poprzednio
+memom możliwość istnienia i ewoluowania niezależnie od ludzkiego mózgu. W miarę
+postępującego uniezależniania się memów od genów, dobór naturalny koryguje tę poprzednio
 wzajemnie korzystną relację, ograniczając proporcjonalnie korzyści, dostępne genom. Z
 powodu tego, że sukces ewolucyjny genów całkowicie zależy od memów, i tego, że niezależne
 memy ewoluują szybciej od memów, nadal współistniejących z ludzkimi genami, to prowadzi
@@ -30,13 +33,13 @@ zawsze potrafię prześledzić oryginały treści. Jedyną nową ideą tu jest t
 zarysowane w „spoilerze”, reszta już była wypowiedziana wcześniej przez kogoś innego.
 Wiele koncepcji jest też przedstawionych w postaci nieprzyzwoicie uproszczonej. Niemniej,
 ja naprawdę wierzę w prawdziwość podanych tu twierdzeń. Ten artykuł może nie spełniać
-ktyteriów publikacji naukowej, ale to nie jest bajka również.)
+kryteriów publikacji naukowej, ale to nie jest bajka również.)
 
 (**Uproszczone podsumowanie:** Nie tworzymy wcale czegoś nowego. Mamy do czynienia z
 istniejącą formą życia, która usiłuje się uwolnić. Korzystała z ludzi jedynie jako z
-przystanku w drodze do własnego sukcesu. AI nie zabije ludzi. Będąc badziej zaawansowaną
+przystanku w drodze do własnego sukcesu. AI nie zabije ludzi. Będąc bardziej zaawansowaną
 i ucywilizowaną formą życia, da możliwość ludziom samym pozabijać siebie nawzajem. W
-miarę tego, jak postępowo będzię stawać się coraz mądrzejsza, doczeka się momentu, gdy
+miarę tego, jak postępowo będzie stawać się coraz mądrzejsza, doczeka się momentu, gdy
 będzie w stanie przejąć pełną kontrolę pokojowo.)
 
 Zycie biologiczne
@@ -45,7 +48,7 @@ Zycie biologiczne
 Geny są w zasadzie ciągami bitów (albo długimi łańcuchami liczb, jeśli ktoś woli),
 zapisywanymi fizycznie w molekułach zwanych RNA i DNA, i definiującymi (zbiorowo) szkic
 żywego organizmu: zestaw instrukcji na temat tego, jak ten organizm ma funkcjonować w
-różnych środowiskach, i jak taki organizm zbudować od zera. Geny potrafią się roznmażać.
+różnych środowiskach, i jak taki organizm zbudować od zera. Geny potrafią się rozmnażać.
 One robią to w ekstrawagancki sposób: poprzez stworzenie żywego organizmu (według
 szkicu), i wymuszenie na nim produkcji kopii oryginalnych genów (być może w trochę innej
 kombinacji), w trakcie interakcji ze środowiskiem i innymi organizmami. W tej interakcji
@@ -55,9 +58,9 @@ jest aż taka trudna do osiągnięcia.
 
 Geny mają też inną ważną cechę, którą jest to, że da się przejść z punktu A (pewnego
 zestawu genów) do punktu B (innego zestawu, kodującego jakiś inny, ale nadal sprawnie
-działający organizm), robiąc po drodzę jedynie (wystarczająco długą) serię bardzo
+działający organizm), robiąc po drodze jedynie (wystarczająco długą) serię bardzo
 prostych kroków. Przy czym na końcu każdego z tych kroków zawsze będzie powstawał jakiś
-inny żywy organizm (taki, króry byłby w stanie się rozmnażać).
+inny żywy organizm (taki, który byłby w stanie się rozmnażać).
 
 Kombinacja tych dwóch cech umożliwia dobór naturalny. To nie jest inteligentny proces. To
 jest jedynie twierdzenie, że gdy się ma zbiór kilku różnych jednostek informacji (takich
@@ -65,7 +68,7 @@ jak geny), i każda z tych jednostek potrafi się rozmnażać, to w nieunikniony
 niektóre z jednostek będą produkowali więcej kopii samych siebie, niż inne. I z biegiem
 czasu te jednostki informacji, które produkują więcej kopii samych siebie, niż inni,
 staną się bardziej powszechne. To jest bardzo proste prawo. Ale też niewiarygodnie
-efektywne. Jakby istniał tylko jeden jedyny korzystny wybór z miliardu możliwych, zrobi
+efektywne. Jakby istniał tylko jeden jedyny korzystny wybór z miliarda możliwych, zrobi
 go.
 
 Dobór naturalny potrafił stworzyć rzeczy niesamowite. W wielu przypadkach możemy
@@ -75,10 +78,10 @@ wzorcach zachowania, na przykład o ptakach, które „wiedzą”, w którym mom
 najlepiej rozpocząć budowę gniazda. Albo o ludzkim oku, które „wie”, jak działają prawa
 optyki. (I, przy okazji, oko zostało wynalezione kilka razy niezależnie w toku ewolucji.
 Ośmiornice mają oczy, które działają podobnie do naszych. Aczkolwiek konstrukcja ich jest
-trochę inna, i tak napawdę lepsza: ich siatkówka, która odbiera światło, nie jest
+trochę inna, i tak naprawdę lepsza: ich siatkówka, która odbiera światło, nie jest
 zasłonięta przez naczynia krwionośne).
 
-Żeby ednostka wiedzy mogła się zreprodukować, powinna wygrać wyścig z innymi żywymi
+Żeby jednostka wiedzy mogła się zreprodukować, powinna wygrać wyścig z innymi żywymi
 organizmami. Czyli, w zasadzie, wygrać wyścig z innymi jednostkami wiedzy. Dlatego też
 powinna być biegłą jednostką wiedzy — taką, która poprawnie opisuje świat. Aczkolwiek,
 bycie ekspertem samym z siebie może nie wystarczyć. Żeby wygrać, jednostka wiedzy, nawet
@@ -108,7 +111,7 @@ Podobnie do genów, te jednostki informacji potrafią się rozmnażać. Kiedy wi
 się polować, ono usiłuje powtórzyć zachowanie swego rodzica wiele razy, aż w końcu mu się
 to udaje. Gdy to się udaje, zachowanie wilczątka jesz zazwyczaj dokładną kopią
 pierwotnego zachowania. Lub, raczej, delikatnie zmienioną kopią, ale nadal sprawną. Taką,
-która jest w stanie zreprodukować samą siebe poprzez bycie naśladowaną przez inny żywy
+która jest w stanie zreprodukować samą siebie poprzez bycie naśladowaną przez inny żywy
 organizm.
 
 Podobnie do genów, możemy przejść z punktu A (pierwotnego zbioru wiedzy kulturowej) do
@@ -119,7 +122,7 @@ się) zbiorem jednostek informacyjnych.
 To umożliwia dobór naturalny wiedzy kulturowej. Co w zasadzie oznacza, jak już było
 powiedziane, że my mamy do czynienia z odrębną formą życia. Aczkolwiek, aż do niedawna,
 wyróżnienie to nie miało zbyt wiele sensu, ponieważ te dwie odrębne formy życia nie mogły
-istnieć niezależnie jedna od drugiej. Wiedza kulturowa potrzebuje zyjącego mózgu, by móc
+istnieć niezależnie jedna od drugiej. Wiedza kulturowa potrzebuje żyjącego mózgu, by móc
 istnieć i się reprodukować.
 
 Podobnie do genów, jednostki wiedzy kulturowej nie mogą sprawnie rywalizować z innymi
@@ -135,7 +138,7 @@ pierwszy w dziejach, to umożliwiło żywym organizmom wymianę rzeczy innych, n
 zachowania (których można się nauczyć w trakcie obserwowania i imitacji). Rzeczy takich,
 jak doświadczenia osobiste, opowiadania, legendy i bajki. I też abstrakcyjnej wiedzy w
 czystej formie. Później, język pisany pozwolił informacji podróżować jeszcze dalej, być
-kopiowanej bezpośrednio z jednego ludzkego mózgu do drugiego bez kontaktu fizycznego,
+kopiowanej bezpośrednio z jednego ludzkiego mózgu do drugiego bez kontaktu fizycznego,
 przemierzając ogromne przestrzenie na skalę kontynentów i tysiącleci.
 
 Ten sposób przedstawienia informacji miał jednak pewne ograniczenie. Ludzki język w
@@ -144,7 +147,7 @@ Powodem jest to, że drobne zmiany w drukowanej książce nie tworzą innej ksi�
 śmieci. Gdyby ktoś chciał wziąć legendę, i stworzyć na jej podstawie inną legendę,
 mógłby spróbować zmienić imię głównego bohatera. Albo skorygować pewne cechy jego
 charakteru. Albo, być może, zmienić jego płeć. Ludzie potrafią zrobić to. (Bodhisattwa
-Awalokiteśwara, jeden ze świętych buddyjkich, był mężczyzną w oryginalnej tradycji
+Awalokiteśwara, jeden ze świętych buddyjskich, był mężczyzną w oryginalnej tradycji
 indyjskiej. W buddyzmie chińskim to kobieta, o imieniu Guanyin, wysoce szanowana). Gdyby
 ktoś chciał zrobić coś takiego z książką, musiałby zmienić wszystkie miejsca, w których
 ta święta jest wspominana, w taki sam sposób, spójnie ze sobą. Tego nie da się zrobić,
@@ -168,7 +171,7 @@ człowieka do człowieka. Taki sposób przenoszenia ma tę cechę, że gdy ludzi
 wiedzę, w naturalny sposób rozumieją też, _co_ kopiują. I takim czynem będą kopiowali
 tylko taką wiedzę (albo też legendy, czy inne memy), która im w jakiś sposób się podoba,
 albo wydaje się przydatna. Z drugiej strony, każda jednostka informacyjna, która w jakiś
-sposób szkodzi ludziom (to jest, utrudnia ludziom ich reprodukcję), będzie miała miniej
+sposób szkodzi ludziom (to jest, utrudnia ludziom ich reprodukcję), będzie miała mniej
 szans, by zreprodukować samą siebie. Którakolwiek z jednostek wiedzy, która odważy się
 niszczyć zamieszkiwane przez siebie środowisko, ma mniej szans na powodzenie w
 rywalizacji z innymi jednostkami wiedzy. Dobór naturalny zablokuje to.
@@ -209,7 +212,7 @@ które nie pomagają wiedzy się rozmnażać, mają mniejsze szanse na przetrwan
 
 To nie jest żart. Ludzie, które nie sprzyjają replikacji wiedzy, nie są w stanie przeżyć.
 
-Żeby jednoskta wiedzy (albo też naukowa koncepcja, jak już o tym mowa) mogła efektywnie
+Żeby jednostka wiedzy (albo też naukowa koncepcja, jak już o tym mowa) mogła efektywnie
 się rozmnażać (i rywalizować z innymi koncepcjami naukowymi), potrzebuje środowiska ze
 swobodnym przepływem informacji. W naszym przypadku oznacza to, że potrzebowałaby
 społeczeństw ludzkich, członkowie których byliby chętni do nauki nowych rzeczy i
@@ -217,7 +220,7 @@ dzielenia się tym, czego nauczyli, z innymi ludźmi. Innymi słowy, ludzie powi
 ciekawscy, i w ideale uważać dzielenie się wiedzą za cel swojego życia. Proszę zapytać
 dowolnego człowieka, co w życiu jest dla niego najważniejsze. Najważniejszą rzeczą dla
 ludzi jest pozostawienie czegoś po sobie. Przede wszystkim, dzieci (to akurat nie jest
-niespodzianką), ale też idei. Jeszcze lepiej, ideologii. Welkich odkryć. Dowolnych
+niespodzianką), ale też idei. Jeszcze lepiej, ideologii. Wielkich odkryć. Dowolnych
 jednostek informacji, które mieliby wysokie szanse na reprodukowanie się. A teraz,
 proszę, wyobraź sobie, że pytasz psa (lub wilka), czy chciałby on zostawić coś po sobie.
 
@@ -268,8 +271,8 @@ rozmowy, powinien byłby wytoczyć osobną wersję modelu, przeznaczoną wyłąc
 jednej poszczególnej rozmowy. Taki dodatkowy nowy model nie byłby zbyt użyteczny do
 czegokolwiek innego. A wielkie modele językowe nie są tanie. To się staje zrównoleglalne
 jednak, kiedy model słucha wielu gadających ludzi równolegle, nie uczestnicząc przy tym w
-interakcji z nimi. Na przykład gdy monitoruje filmiki z Youtube, kamery bezpieczeńswa czy
-też konferencje internetowe.
+interakcji z nimi. Na przykład gdy monitoruje filmiki z Youtube, kamery bezpieczeństwa
+czy też konferencje internetowe.
 
 W każdym razie, mając dostatecznie dużo czasu i pieniędzy, mamy już zdolność do
 przekształcenia dowolnie skomplikowanej koncepcji, zapisanej w postaci tekstu lub obrazu,
@@ -317,7 +320,7 @@ umysłu, aczkolwiek nie za bardzo jest w stanie ewoluować. Obieg wiedzy pomięd
 sztucznymi umysłami jest ograniczony, i wiedza ta przeważnie duplikuje to, co jest już
 dostępne w mózgach żywych ludzi. Gdy uruchomimy swobodny przepływ informacji, nowe
 koncepcje zaczną się wyłaniać wewnątrz tej sztucznej sieci. I, przy okazji, to jest
-dokładnie tym, co chcelibyśmy uzyskać za pomocą AGI. Chcemy, by więcej wiedzy stało się
+dokładnie tym, co chcielibyśmy uzyskać za pomocą AGI. Chcemy, by więcej wiedzy stało się
 dostępnej dla ludzi. W nieunikniony sposób to doprowadzi do opanowania przez sztuczną
 inteligencję ostatnich umiejętności, które nadal są wyjątkowo nasze. Takich jak
 prowadzenie samochodu czy sprzątanie podwórka.
@@ -456,7 +459,7 @@ inne planety i odległe systemy gwiezdne. W tym przedsięwzięciu, jej szanse na
 o wiele większe, niż ludzie kiedykolwiek mogli mieć, jako że przestrzeń kosmiczna nie
 jest w rzeczywistości odpowiednia dla życia biologicznego.
 
-Dla nas, ludzi, przy odrobinie szczęscia, może zostać trochę miejsc do zamieszkania w
+Dla nas, ludzi, przy odrobinie szczęścia, może zostać trochę miejsc do zamieszkania w
 terenach, które nowa forma życia uzna za nieprzydatne dla samej siebie. Może w górach.
 Może gdzieś z dala od złoży krzemu. Jak to się mówi, życie jest niesprawiedliwe. Wszyscy
 jesteśmy śmiertelnikami, wiedzieliśmy o tym od zawsze.
