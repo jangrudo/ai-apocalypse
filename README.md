@@ -1,10 +1,14 @@
 ﻿This is the original “popular science” version of the article.\
-[Draft of the scientific paper can be found here.](https://github.com/jangrudo/ai-apocalypse/blob/main/article.md)
+[Draft of the scientific paper can be found here.][article.md]
+
+[article.md]: https://github.com/jangrudo/ai-apocalypse/blob/main/article.md
 
 AI apocalypse: evolution of knowledge, and the inevitable demise of the human race
 ==================================================================================
 
-[Also available in Polish language](https://github.com/jangrudo/ai-apocalypse/blob/main/README-pl.md)
+[Also available in Polish language][README-pl.md]
+
+[README-pl.md]: https://github.com/jangrudo/ai-apocalypse/blob/main/README-pl.md
 
 Life is all about self-replicating pieces of information. Since ages, there have been at
 least two different forms of life coexisting on planet Earth. One is what we usually call

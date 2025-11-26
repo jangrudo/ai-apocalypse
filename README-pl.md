@@ -1,10 +1,14 @@
 ﻿To jest oryginalna „popularnonaukowa” wersja artykułu.\
-[Szkic odpowiedniej pracy naukowej można znaleźć tu.](https://github.com/jangrudo/ai-apocalypse/blob/main/article.md)
+[Szkic odpowiedniej pracy naukowej można znaleźć tu.][article.md]
+
+[article.md]: https://github.com/jangrudo/ai-apocalypse/blob/main/article.md
 
 Apokalipsa AI: ewolucja wiedzy i nieunikniony upadek ludzkości
 ==============================================================
 
-[Oryginalna wersja w języku angielskim](https://github.com/jangrudo/ai-apocalypse)
+[Oryginalna wersja w języku angielskim][README.md]
+
+[README.md]: https://github.com/jangrudo/ai-apocalypse
 
 Życie sprowadza się do samoodtwarzania jednostek informacji. Od dawnych czasów, co
 najmniej dwie odmienne formy życia współistniały ze sobą na planecie Ziemia. Jedna z nich
