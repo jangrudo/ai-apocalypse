@@ -318,6 +318,11 @@ uncontrollable progress of knowledge. On the positive side, either one of us wou
 If it would be humans, we would be happy to have survived. If it would be the progress of
 knowledge, we might wish it all the best in its future endeavors.
 
+Acknowledgements
+----------------
+
+Thanks for comments and suggestions to Krzysztof Roszkowski.
+
 References
 ----------
 
@@ -449,3 +454,10 @@ Evolution.
 [GoodnessParadox]: https://en.wikipedia.org/wiki/The_Goodness_Paradox
 (The Goodness Paradox: The Strange Relationship Between Virtue and Violence in Human
 Evolution)
+
+\
+\
+[![CC BY 4.0][CC-BY]](https://creativecommons.org/licenses/by/4.0/)
+
+[CC-BY]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg
+(Creative Commons Attribution 4.0 International)

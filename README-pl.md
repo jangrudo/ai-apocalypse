@@ -467,3 +467,10 @@ Dla nas, ludzi, przy odrobinie szczęścia, może zostać trochę miejsc do zami
 terenach, które nowa forma życia uzna za nieprzydatne dla samej siebie. Może w górach.
 Może gdzieś z dala od złoży krzemu. Jak to się mówi, życie jest niesprawiedliwe. Wszyscy
 jesteśmy śmiertelnikami, wiedzieliśmy o tym od zawsze.
+
+\
+\
+[![CC0 1.0][CС0]](https://creativecommons.org/publicdomain/zero/1.0/deed.pl)
+
+[CС0]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
+(Brak praw autorskich \(Domena publiczna\))

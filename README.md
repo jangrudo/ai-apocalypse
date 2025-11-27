@@ -443,3 +443,10 @@ For us humans, if we are lucky, there might be some space left to live in areas 
 the new life form would consider unsuitable for itself. Maybe mountains. Maybe some
 places far away from silicon deposits. As they say, life is not fair. We all are mortal,
 after all. We always knew this.
+
+\
+\
+[![CC0 1.0][CС0]](https://creativecommons.org/publicdomain/zero/1.0/)
+
+[CС0]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
+(No Copyright \(Public Domain\))
