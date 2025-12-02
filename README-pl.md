@@ -3,6 +3,8 @@
 
 [article.md]: https://github.com/jangrudo/ai-apocalypse/blob/main/article.md
 
+[Pytania i komentarze](https://github.com/jangrudo/ai-apocalypse/discussions)
+
 Apokalipsa AI: ewolucja wiedzy i nieunikniony upadek ludzkości
 ==============================================================
 

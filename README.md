@@ -3,6 +3,8 @@
 
 [article.md]: https://github.com/jangrudo/ai-apocalypse/blob/main/article.md
 
+[Questions and comments](https://github.com/jangrudo/ai-apocalypse/discussions)
+
 AI apocalypse: evolution of knowledge, and the inevitable demise of the human race
 ==================================================================================
 
