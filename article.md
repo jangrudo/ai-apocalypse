@@ -183,9 +183,9 @@ We therefore suggest that in order to mimic human success, and achieve a true su
 AI, we would need to enable the AI models to freely exchange ideas between themselves,
 and filter inevitable mutations by comparing them to some objective truth, like physical
 reality or reputable published sources. In this process, proliferation of mutations is
-actually beneficial for the final goal (provided that we can generate a sufficiently
-large number of them), because large number of different mutations means larger chances
-of spotting the more successful one.
+actually beneficial for the final goal (provided that they are sufficiently diverse),
+because large number of different mutations means larger chances of spotting the more
+successful one.
 
 We already know how to generate “mutations of knowledge”, and we have known for quite a
 long time how to transfer knowledge between existing AI models, by means of “transfer
@@ -483,7 +483,7 @@ happening, we are already in a situation of uncontrolled arms race between peopl
 don’t understand what they are doing.
 
 We are not sure about social network content suggestion algorithms. They are addictive,
-however thay have been explicitly designed to be addictive (“maximize engagement”) by
+however they have been explicitly designed to be addictive (“maximize engagement”) by
 their human creators, and they were introduced before Transformers, i. e. before
 Generative AI. More research is definitely needed on this topic, however we suggest that
 the addictive nature of social networks has probably been the result of conscious intent,
