@@ -536,153 +536,183 @@ Acknowledgements
 
 Thanks for comments and suggestions to Krzysztof Roszkowski.
 
+No AI tools were used while writing this article.
+
 References
 ----------
 
 \[[Culture][Culture]\]
 Nicole Creanza, Oren Kolodny, Marcus W. Feldman (2017).
-Cultural evolutionary theory: How culture evolves and why it matters. (PNAS)
+“Cultural evolutionary theory: How culture evolves and why it matters”.
+_Proceedings of the National Academy of Sciences_ 114(30).
+DOI: `10.1073/pnas.1620732114`
 
-[Culture]: https://www.pnas.org/doi/full/10.1073/pnas.1620732114
+[Culture]: https://www.pnas.org/doi/abs/10.1073/pnas.1620732114
 (Cultural evolutionary theory: How culture evolves and why it matters)
 
 \[[SelfishGene][SelfishGene]\]
 Richard Dawkins (1976).
-The selfish gene. (Oxford University Press)
+_The selfish gene_ (Oxford University Press).
+ISBN: `978-0-19-857519-1`
 
 [SelfishGene]: https://en.wikipedia.org/wiki/The_Selfish_Gene
 (The selfish gene)
 
 \[[FacebookMemes][FacebookMemes]\]
 Lada A. Adamic, Thomas M. Lento, Eytan Adar, Pauline C. Ng (2014).
-Information Evolution in Social Networks. (arXiv)
+“Information evolution in social networks”.
+`arXiv:1402.6792 [cs.SI]`
 
 [FacebookMemes]: https://arxiv.org/abs/1402.6792
-(Information Evolution in Social Networks)
+(Information evolution in social networks)
 
 \[[GeoffreyHinton][GeoffreyHinton]\]
-Geoffrey Hinton (2023).
-“Godfather of AI” Geoffrey Hinton: The 60 Minutes Interview. (60 Minutes, YouTube)
+“60 Minutes” (2023).
+_“Godfather of AI” Geoffrey Hinton: The 60 Minutes Interview_ (YouTube).
+`https://www.youtube.com/watch?v=qrvK_KuIeJk`
 
 [GeoffreyHinton]: https://www.youtube.com/watch?v=qrvK_KuIeJk
 (“Godfather of AI” Geoffrey Hinton: The 60 Minutes Interview)
 
 \[[3Blue1Brown][3Blue1Brown]\]
 Grant Sanderson (2024).
-Transformers, the tech behind LLMs. Deep Learning Chapter 5 (3Blue1Brown, YouTube)
+_Transformers, the tech behind LLMs. Deep Learning Chapter 5_ (YouTube).
+`https://www.youtube.com/watch?v=wjZofJX0v4M`
 
 [3Blue1Brown]: https://www.youtube.com/watch?v=wjZofJX0v4M
 (Transformers, the tech behind LLMs. Deep Learning Chapter 5)
 
 \[[SynapticPlasticity][SynapticPlasticity]\]
 Wickliffe C. Abraham, Owen D. Jones, David L. Glanzman (2019).
-Is plasticity of synapses the mechanism of long-term memory storage? (Nature)
+“Is plasticity of synapses the mechanism of long-term memory storage?”
+_NPJ Science of Learning_ 4.
+DOI: `10.1038/s41539-019-0048-y`
 
 [SynapticPlasticity]: https://www.nature.com/articles/s41539-019-0048-y
 (Is plasticity of synapses the mechanism of long-term memory storage?)
 
 \[[Backpropagation][Backpropagation]\]
-David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams (1986).
-Learning representations by back-propagating errors. (Nature)
+David E. Rumelhart, Geoffrey E. Hinton, Ronald J. Williams (1986).
+“Learning representations by back-propagating errors”.
+_Nature_ 323.
+DOI: `10.1038/323533a0`
 
 [Backpropagation]: https://www.nature.com/articles/323533a0
 (Learning representations by back-propagating errors)
 
 \[[Convolution][Convolution]\]
 Kunihiko Fukushima (1980).
-Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern
-Recognition Unaffected by Shift in Position. (Biological Cybernetics)
+“Neocognitron: A self-organizing neural network model for a mechanism of pattern
+recognition unaffected by shift in position”.
+_Biological Cybernetics_ 36.
+DOI: `10.1007/BF00344251`
 
 [Convolution]: https://link.springer.com/article/10.1007/BF00344251
-(Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern
-Recognition Unaffected by Shift in Position)
+(Neocognitron: A self-organizing neural network model for a mechanism of pattern
+recognition unaffected by shift in position)
 
 \[[Saccades][Saccades]\]
 Debaleena Basu, Naveen Sendhilnathan, Aditya Murthy (2021).
-Neural mechanisms underlying the temporal control of sequential saccade planning in the
-frontal eye field. (PNAS)
+“Neural mechanisms underlying the temporal control of sequential saccade planning in the
+frontal eye field”.
+_Proceedings of the National Academy of Sciences_ 118(40).
+DOI: `10.1073/pnas.2108922118`
 
-[Saccades]: https://www.pnas.org/doi/10.1073/pnas.2108922118
+[Saccades]: https://www.pnas.org/doi/abs/10.1073/pnas.2108922118
 (Neural mechanisms underlying the temporal control of sequential saccade planning in the
 frontal eye field)
 
 \[[Transformers][Transformers]\]
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez,
 Lukasz Kaiser, Illia Polosukhin (2017).
-Attention Is All You Need. (arXiv)
+“Attention is all you need”.
+`arXiv:1706.03762 [cs.CL]`
 
 [Transformers]: https://arxiv.org/abs/1706.03762
-(Attention Is All You Need)
+(Attention is all you need)
 
 \[[Attention][Attention]\]
 Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio (2016).
-Neural Machine Translation by Jointly Learning to Align and Translate. (arXiv)
+“Neural machine translation by jointly learning to align and translate”.
+`arXiv:1409.0473 [cs.CL]`
 
 [Attention]: https://arxiv.org/abs/1409.0473
-(Neural Machine Translation by Jointly Learning to Align and Translate)
+(Neural machine translation by jointly learning to align and translate)
 
 \[[Undecidability][Undecidability]\]
 Alan M. Turing (1937).
-On Computable Numbers, with an Application to the Entscheidungsproblem. (Proceedings of
-the London Mathematical Society)
+“On computable numbers, with an application to the Entscheidungsproblem”.
+_Proceedings of the London Mathematical Society_ 42.
+DOI: `10.1112/plms/s2-42.1.230`
 
 [Undecidability]: https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-42.1.230
-(On Computable Numbers, with an Application to the Entscheidungsproblem)
+(On computable numbers, with an application to the Entscheidungsproblem)
 
 \[[Multimodality][Multimodality]\]
 Shakti N. Wadekar, Abhishek Chaurasia, Aman Chadha, Eugenio Culurciello (2024).
-The Evolution of Multimodal Model Architectures. (arXiv)
+“The evolution of multimodal model architectures”. (arXiv)
+`arXiv:2405.17927 [cs.AI]`
 
 [Multimodality]: https://arxiv.org/abs/2405.17927
-(The Evolution of Multimodal Model Architectures)
+(The evolution of multimodal model architectures)
 
 \[[Hallucinations][Hallucinations]\]
 Adam Tauman Kalai, Ofir Nachum, Santosh S. Vempala, Edwin Zhang (2025).
-Why Language Models Hallucinate. (arXiv)
+“Why language models hallucinate”.
+`arXiv:2509.04664 [cs.CL]`
 
 [Hallucinations]: https://arxiv.org/abs/2509.04664
-(Why Language Models Hallucinate)
+(Why language models hallucinate)
 
 \[[Compression][Compression]\]
 Ted Chiang (2023).
-ChatGPT Is a Blurry JPEG of the Web. (The New Yorker)
+_ChatGPT is a blurry JPEG of the Web_ (The New Yorker).
+`https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web`
 
 [Compression]: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
-(ChatGPT Is a Blurry JPEG of the Web)
+(ChatGPT is a blurry JPEG of the Web)
 
 \[[CollectiveIntelligence][CollectiveIntelligence]\]
 Joseph Henrich, Michael Muthukrishna (2023).
-What Makes Us Smart? (Topics in Cognitive Science)
+“What makes us smart?”
+_Topics in Cognitive Science_ 16(2).
+DOI: `10.1111/tops.12656`
 
-[CollectiveIntelligence]: https://henrich.fas.harvard.edu/publications/what-makes-us-smart
-(What Makes Us Smart?)
+[CollectiveIntelligence]: https://onlinelibrary.wiley.com/doi/abs/10.1111/tops.12656
+(What makes us smart?)
 
 \[[Serendipity][Serendipity]\]
 Wendy Ross, Samantha Copeland, Stuart Firestein (2024).
-Serendipity in Scientific Research. (Journal of Trial and Error)
+“Serendipity in scientific research”.
+_Journal of Trial and Error_.
+DOI: `10.36850/v91j-7541`
 
 [Serendipity]: https://journal.trialanderror.org/pub/serendipity-in-scientific/release/2
-(Serendipity in Scientific Research)
+(Serendipity in scientific research)
 
 \[[IntelligentFailure][IntelligentFailure]\]
 Alessandro Narduzzo, Valentina Forrer (2024).
-Nurturing innovation through intelligent failure: The art of failing on purpose.
-(Technovation)
+“Nurturing innovation through intelligent failure: The art of failing on purpose”.
+_Technovation_ 131.
+DOI: `10.1016/j.technovation.2024.102951`
 
 [IntelligentFailure]: https://www.sciencedirect.com/science/article/pii/S0166497224000014
 (Nurturing innovation through intelligent failure: The art of failing on purpose)
 
 \[[TransferLearning][TransferLearning]\]
 Stevo Bozinovski (1976).
-Reminder of the First Paper on Transfer Learning in Neural Networks. (Informatica)
+“Reminder of the first paper on transfer learning in neural networks”. (Informatica)
+_Informatica_ 44(3).
+DOI: `10.31449/inf.v44i3.2828`
 
 [TransferLearning]: https://www.informatica.si/index.php/informatica/article/view/2828
-(Reminder of the First Paper on Transfer Learning in Neural Networks)
+(Reminder of the first paper on transfer learning in neural networks)
 
 \[[IMO][IMO]\]
 Thang Luong, Edward Lockhart (2025).
-Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the
-International Mathematical Olympiad. (Google)
+_Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the
+International Mathematical Olympiad_ (Google).
+`https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/`
 
 [IMO]: https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/
 (Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the
@@ -690,8 +720,9 @@ International Mathematical Olympiad)
 
 \[[ICPC][ICPC]\]
 Hanzhao (Maggie) Lin, Heng-Tze Cheng (2025).
-Gemini achieves gold-medal level at the International Collegiate Programming Contest
-World Finals. (Google)
+_Gemini achieves gold-medal level at the International Collegiate Programming Contest
+World Finals_ (Google).
+`https://deepmind.google/blog/gemini-achieves-gold-medal-level-at-the-international-collegiate-programming-contest-world-finals/`
 
 [ICPC]: https://deepmind.google/blog/gemini-achieves-gold-medal-level-at-the-international-collegiate-programming-contest-world-finals/
 (Gemini achieves gold-medal level at the International Collegiate Programming Contest
@@ -699,45 +730,51 @@ World Finals)
 
 \[[NaturalSelection][NaturalSelection]\]
 Dan Hendrycks (2023).
-Natural Selection Favors AIs over Humans. (arXiv)
+“Natural selection favors AIs over humans”.
+`arXiv:2303.16200 [cs.CY]`
 
 [NaturalSelection]: https://arxiv.org/abs/2303.16200
-(Natural Selection Favors AIs over Humans)
+(Natural selection favors AIs over humans)
 
 \[[GenesFirst][GenesFirst]\]
 George C. Williams (1966).
-Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought.
-(Princeton University Press)
+_Adaptation and natural selection: A critique of some current evolutionary thought_
+(Princeton University Press).
+ISBN: `978-0-691-02357-1`
 
 [GenesFirst]: https://en.wikipedia.org/wiki/Adaptation_and_Natural_Selection
-(Adaptation and Natural Selection: A Critique of Some Current Evolutionary Thought)
+(Adaptation and natural selection: A critique of some current evolutionary thought)
 
 \[[SelfDomestication][SelfDomestication]\]
 Brian Hare, Vanessa Woods (2021).
-Survival of the Friendliest. Understanding Our Origins and Rediscovering Our Common
-Humanity. (Penguin Random House)
+_Survival of the friendliest. Understanding our origins and rediscovering our common
+humanity_ (Penguin Random House).
+ISBN: `978-0-399-59068-9`
 
 [SelfDomestication]: https://www.penguinrandomhouse.com/books/550437/survival-of-the-friendliest-by-brian-hare-and-vanessa-woods/
-(Survival of the Friendliest. Understanding Our Origins and Rediscovering Our Common
-Humanity)
+(Survival of the friendliest. Understanding our origins and rediscovering our common
+humanity)
 
 \[[GoodnessParadox][GoodnessParadox]\]
 Richard Wrangham (2019).
-The Goodness Paradox: The Strange Relationship Between Virtue and Violence in Human
-Evolution. (Profile Books)
+_The goodness paradox: The strange relationship between virtue and violence in human
+evolution_ (Pantheon).
+ISBN: `978-1-101-87090-7`
 
 [GoodnessParadox]: https://en.wikipedia.org/wiki/The_Goodness_Paradox
-(The Goodness Paradox: The Strange Relationship Between Virtue and Violence in Human
-Evolution)
+(The goodness paradox: The strange relationship between virtue and violence in human
+evolution)
 
 \[[Addiction][Addiction]\]
 Ala Yankouskaya, Magnus Liebherr, Raian Ali (2025).
-Can ChatGPT Be Addictive? A Call to Examine the Shift from Support to Dependence in AI
-Conversational Large Language Models. (Human-Centric Intelligent Systems)
+“Can ChatGPT be addictive? A call to examine the shift from support to dependence in AI
+conversational large language models”.
+_Human-Centric Intelligent Systems_ 5.
+DOI: `10.1007/s44230-025-00090-w`
 
 [Addiction]: https://link.springer.com/article/10.1007/s44230-025-00090-w
-(Can ChatGPT Be Addictive? A Call to Examine the Shift from Support to Dependence in AI
-Conversational Large Language Models)
+(Can ChatGPT be addictive? A call to examine the shift from support to dependence in AI
+conversational large language models)
 
 \
 \
