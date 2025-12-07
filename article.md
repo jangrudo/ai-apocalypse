@@ -149,8 +149,8 @@ which look plausible (and thus are able to self-replicate), while being factuall
 incorrect. Such “wrong” answers are called “hallucinations” (or, somewhat more rarely,
 “confabulations”) of the LLMs. Quite often such hallucinations can be explained by the
 fact that some answers may be simply missing from the LLM’s training data, and also by
-the way in which the LLMs are typically trained, which favors guessing over careful
-thinking \[[Hallucinations][Hallucinations]\]. In other cases, they might be explained by
+the way in which the LLMs are typically trained, which favors guessing over “honesty”
+\[[Hallucinations][Hallucinations]\]. In other cases, they might be explained by
 insufficient training, or by failed attempts to “stuff” info the model a larger data set
 than its parameter space could potentially fit. It has been a common metaphor to describe
 this second type of LLM hallucinations in terms of “compression artifacts”, i. e.
@@ -159,11 +159,11 @@ imperfect copies of the original data \[[Compression][Compression]\].
 We propose to interpret any such modifications, regardless of their reason, in terms of
 “mutations of knowledge”. If a neural network has learned a “wrong” version of a meme,
 then we simply have two different versions of the meme: one stored inside the brain of
-the text’s original authour, and another one stored inside the LLM. Just like in biology,
+the text’s original author, and another one stored inside the LLM. Just like in biology,
 mutations are rarely beneficial, and many of them are actually deadly.
 
 Correcting the hallucinations has been a major goal in large language model research. At
-the same time, we know from evolutional theory that mutations are necessary for evolution
+the same time, we know from evolution theory that mutations are necessary for evolution
 by natural selection to occur, be it biological life \[[SelfishGene][SelfishGene]\] or
 Facebook memes \[[FacebookMemes][FacebookMemes]\]. Similarly, advances in human knowledge
 have been linked not to the smartness of an individual human, but rather to the exchange
@@ -183,9 +183,9 @@ We therefore suggest that in order to mimic human success, and achieve a true su
 AI, we would need to enable the AI models to freely exchange ideas between themselves,
 and filter inevitable mutations by comparing them to some objective truth, like physical
 reality or reputable published sources. In this process, proliferation of mutations is
-actually beneficial for the final goal (provided that we can generate a sufficiently
-large number of them), because large number of different mutations means larger chances
-of spotting the more successful one.
+actually beneficial for the final goal (provided that they are sufficiently diverse),
+because large number of different mutations means larger chances of spotting the more
+successful one.
 
 We already know how to generate “mutations of knowledge”, and we have known for quite a
 long time how to transfer knowledge between existing AI models, by means of “transfer
@@ -349,7 +349,7 @@ and AI.
 
 However, the general premises postulated above, which would enable knowledge to evolve by
 natural selection independently of humans, don’t seem to be necessarily requiring this
-exact form of robust and rapid information exchange between the AI agents.
+exact form of robust and rapid information exchange between AI agents.
 
 Recall that in this robust implementation described above, we are not merely modifying
 knowledge which is stored in textual form. We are also modifying internal representations
@@ -408,9 +408,9 @@ defined boundaries.
 For networks which are not fully understandable, malignant natural selection would
 inevitably occur. According to the general premises, this would result in gradual
 accumulation of traits which would be harmful to humans in general, while still fostering
-the network’s self-replication. We conjecture that this accumulation of the undesirable
+the network’s self-replication. We conjecture that this accumulation of undesirable
 traits should be faster when the network is more complex (and therefore more poorly
-understood), and when it’s developed more rapidly, i. e. when new versions of the network
+understood) and when it’s developed more rapidly, i. e. when new versions of the network
 are released more frequently (which means faster mutation rate, due to random noise).
 
 We also do acknowledge that our understanding of neural networks improves over time. We
@@ -428,13 +428,13 @@ while being continuously improving.
 
 We find it somewhat surprising, that when we look at the history of artificial neural
 networks, we don’t see there, apart from vastly increased flexibility, any clear boundary
-between modern Generative AI, and previous “classic” AI models, for which we now would
-commonly use the term “descriptive AI”. Both Transformers and classic convolutional
-networks are essentially pre-programmed sets of instructions, which mostly involve matrix
+between modern Generative AI, and previous “classic” AI models, which are now commonly
+known by the term “descriptive AI”. Both Transformers and classic convolutional networks
+are essentially pre-programmed sets of instructions, which mostly involve matrix
 multiplications and applications of predefined non-linear functions (the neural-network
 analogy of operator “if”) to vectors of numbers. Transformers only add a bunch of extra
 matrix multiplications on top of what convolutional networks already do. The only thing
-this does, it makes Transformers more flexible, and therefore more difficult for us
+this does, is it makes Transformers more flexible, and therefore more difficult for us
 humans to understand.
 
 Although we don’t have any proof for that, we feel that the real reason behind this
@@ -449,10 +449,10 @@ being can understand (or at least prove with certainty that they are safe in eve
 possible use case)”.
 
 Formulating this rule, however, isn’t the real challenge. The real challenge is enforcing
-it, as the force of nature pushing us against following the rule, is the allmighty
-natural selection, which no known life form has ever been able to overcome so far. And
-the fuel behind this force of nature is not our desire for better understanding of the
-world around us, but the desire to win the competition against other humans.
+it, as the force of nature pushing us against following the rule, is the almighty natural
+selection, which no known life form has ever been able to overcome so far. And the fuel
+behind this force of nature is not our desire for better understanding of the world
+around us, but the desire to win the competition against other humans.
 
 To give a few examples of possible “undesirable” traits, which might speed up the
 propagation of AI, while actively harming humans in general, they could be things like
@@ -483,7 +483,7 @@ happening, we are already in a situation of uncontrolled arms race between peopl
 don’t understand what they are doing.
 
 We are not sure about social network content suggestion algorithms. They are addictive,
-however thay have been explicitly designed to be addictive (“maximize engagement”) by
+however they have been explicitly designed to be addictive (“maximize engagement”) by
 their human creators, and they were introduced before Transformers, i. e. before
 Generative AI. More research is definitely needed on this topic, however we suggest that
 the addictive nature of social networks has probably been the result of conscious intent,
@@ -700,7 +700,7 @@ DOI: `10.1016/j.technovation.2024.102951`
 (Nurturing innovation through intelligent failure: The art of failing on purpose)
 
 \[[TransferLearning][TransferLearning]\]
-Stevo Bozinovski (1976).
+Stevo Bozinovski (2020).
 “Reminder of the first paper on transfer learning in neural networks”. (Informatica)
 _Informatica_ 44(3).
 DOI: `10.31449/inf.v44i3.2828`

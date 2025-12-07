@@ -407,7 +407,7 @@ Our enemy is not artificial intelligence, nor any other kind of intelligence. Ou
 is natural selection. It’s not intelligent. It doesn’t have intent. It also cannot be
 switched off.
 
-It’s also much more powerful. Natural selection is this allmighty God which has created
+It’s also much more powerful. Natural selection is this almighty God which has created
 all life on Earth out of nothing, and it created us humans too. For a long time we’ve
 been considering ourselves the crown of creation. We exterminated all competing human
 species which happened to coexist with us, and then destroyed (and continue to destroy) a
