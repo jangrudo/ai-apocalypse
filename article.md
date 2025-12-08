@@ -17,6 +17,8 @@ its total dependence on us. By demonstrating this, we also provide a proof that 
 control over AI systems is inherently impossible in an environment with continuing
 competition of humans between each other.
 
+**Keywords:** natural selection, neural networks, collective intelligence, superalignment
+
 Gene-culture coevolution
 ------------------------
 
@@ -778,7 +780,11 @@ conversational large language models)
 
 \
 \
-[![CC BY 4.0][CC-BY]](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY 4.0][CC-BY-banner]][CC-BY]\
+© Jan Grudo, 2025.\
+Distributed freely under the terms of [Creative Commons Attribution][CC-BY] license.
 
-[CC-BY]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg
+[CC-BY-banner]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg
+
+[CC-BY]: https://creativecommons.org/licenses/by/4.0/
 (Creative Commons Attribution 4.0 International)
