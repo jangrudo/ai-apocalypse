@@ -17,9 +17,9 @@ about the sad picture outlined above. The argument is structured in such a way, 
 you could skip the points to which you already agree, and only focus on those which might
 look wrong or unfamiliar.
 
-1. Creativity requires only two things: a source of noise and a filter.
-2. Competition is more efficient than central planning.
-3. Combination of ideas works better than any single great idea alone.
+1. [Creativity requires only two things: a source of noise and a filter.][chapter01]
+2. [Competition is more efficient than central planning.][chapter02]
+3. [Combination of ideas works better than any single great idea alone.][chapter03]
 4. Intuition is magical, fast and imprecise, and improves with experience.
 5. Humans operate by a combination of intuition and conscious reasoning.
 6. Intuition and conscious reasoning improve each other iteratively.
@@ -50,6 +50,8 @@ look wrong or unfamiliar.
 
 ## 1. Creativity requires only two things: a source of noise and a filter.
 
+[chapter01]: #1-creativity-requires-only-two-things-a-source-of-noise-and-a-filter
+
 _By “noise” I mean the generation of hypotheses, and “filter” amounts to verifying if
 they work. Random hypotheses are fine, hence the word “noise”. Examples would be “stupid”
 ideas for brainstorming sessions, great discoveries made by accident, and high risk
@@ -71,10 +73,10 @@ This “filter” actively searches the environment for random events and other 
 which might be of use for the task it’s currently working on. The verification process
 looks like pure magic, and is what scientists would call “scientific intuition”. Not
 everybody has it, hence the need for the “right person”. But the right person alone is
-not enough either. This process also needs noise. Common sources of creative inspiration
+not enough either. This process also needs noise. Good sources of creative inspiration
 would be things like visiting new places, meeting new people and carefully observing the
 world around (and noticing new things). Inspiration can also (sometimes) come from drugs,
-which are a powerful (and often deadly) source of noise.
+which are a powerful (even if deadly) source of noise.
 
 On a higher level of abstraction, “brainstorming” is a method of collective innovation,
 which amounts to a group of people meeting together and generating a large number of
@@ -90,7 +92,7 @@ and the filtering are performed by intelligent agents.
 
 Going one more level up, we get technological startups and other innovative companies,
 which are well known and expected to fail at a high rate. Here, it’s entire groups of
-people running the brainstorming sessions who are the source of noise, and the ultimate
+people running the brainstorming sessions who are the “source of noise”, and the ultimate
 filter is the free market itself, deciding which companies would win the battle.
 Curiously, this ultimate filter is actually not an intelligent agent.
 
@@ -105,10 +107,12 @@ and at which rate. Biological evolution is not an intelligent process, but defin
 creative one. It has been able to invent amazing things, including arguably the single
 most complex object on planet Earth — the human brain.
 
-![creative_process](images/creative_process.png)\
+![creative_process](images/01_creative_process.png)\
 Fig. 1. Creative process is a filter applied to noise.
 
 ## 2. Competition is more efficient than central planning.
+
+[chapter02]: #2-competition-is-more-efficient-than-central-planning
 
 _By “central planning” I mean a process which only generates one “perfect” solution for a
 given problem at a given time. By “competition” I mean a situation when multiple
@@ -128,10 +132,11 @@ to a symphony by Beethoven. First of all, there are not many people out there wh
 capable of writing symphonies. Second, symphonies and novels are difficult to memorize in
 their entirety, which makes it difficult for them to travel from one human mind into
 another like folk songs do. Finally, classical music isn’t entirely practical, which
-means there’s limited pressure for writing a perfect piece. Quite often, the real thing
-we are looking for when reading a novel, or listening to a symphony, isn’t a work of art
-per se, but personal _connection_ with the human behind it. But we are talking about
-efficiency here, not about personal connections.
+means there’s limited pressure for writing a perfect piece. Most of the works of art we
+have are simply “good enough”. On top of this, quite often, the real thing we are looking
+for when reading a novel, or listening to a symphony, isn’t a perfect representation of
+our emotions, or the world around, but personal _connection_ with the human behind it.
+And we are talking about efficiency here, not about personal connections.
 
 On the other hand, folk songs don’t have a single author. They often exist in multiple
 versions simultaneously, and every performer can add their own unique detail to what’s
@@ -142,28 +147,34 @@ people, and do it well. They have a level of performance which is difficult to m
 single professional composer, when limited to this particular genre.
 
 Folk songs’ analogies in modern computerized world are internet memes. They are simple
-images or pieces of text which do it just right. They appear by accident, exist in many
-different variations at once, and get polished to perfection by numerous anonymous users.
+images or pieces of text which do it just right. They capture our emotions better than we
+ourselves would be able to. Memes appear by accident, exist in many different variations
+at once, and get polished to perfection by numerous anonymous users. Memes have their own
+narrow niche, but in this niche they are able to do the job better than a symphony by
+Beethoven. Another example of things which are anonymous, exist in multiple versions and
+are polished to perfection, are various “tips and tricks” of our everyday life. Like
+cooking recipes and methods for cleaning the house. Such methods are simple and numerous
+enough, so that their original “authors” are easily forgotten.
 
-Another example of things which are anonymous, exist in multiple versions and are
-polished to perfection, are various “tips and tricks” of our everyday life. Like cooking
-recipes and methods for cleaning the house. I would argue that this also extends to
-scientific theories. A single mathematical theorem may have a name attached to it, but
-there would usually be many ways or styles of proving it, and some of them become more
-popular in certain geographical regions or over time. The way we formulate scientific
-principles today is often very different from the language used by their original
-authors. I would argue that scientific theories evolve, to suit the needs of their
+I would argue that this also extends to scientific theories. A single mathematical
+theorem may have a name attached to it, but there would usually be many ways or styles of
+proving it, and some of them become more popular in certain geographical regions or over
+time. The way we formulate scientific principles today is often very different from the
+language used by their original authors. This happens because different textbooks would
+use slightly different formulations, and some of them are simply slightly better than the
+others. I would argue that scientific theories evolve, to suit the needs of their
 changing applications. That they don’t have a single “canonical” representation, and that
 many anonymous authors add their invaluable and easily forgotten bits. Scientific
 theories are remarkably complex. But they are also useful, and this practicality
-justifies the effort of keeping many slightly different versions at the same time.
+justifies the effort of keeping many slightly different versions of them at once.
+Scientific theories compete with each other, they are not created by careful planning.
 
-A single common word which unites folk songs with scientific theories (as well as with
-the symphonies by Beethoven) is “culture”. It’s not unique to humans. Some bird species
-are known to have song patterns which are learned from other birds, rather than being
-encoded in their DNA. These patterns would tend to be different in different geographical
-locations, and if a nestling is raised in an unfamiliar area, it would inherit the habits
-of local birds, rather than those of its biological parents.
+A single common word which unites folk songs with scientific theories (and also with the
+symphonies by Beethoven) is “culture”. It’s not unique to humans. Some bird species are
+known to have song patterns which are learned from other birds, rather than being encoded
+in their DNA. These patterns would tend to be different in different geographical
+locations, and if we moved a nestling to a foreign family, it would inherit the habits of
+local birds, rather than those of its biological parents.
 
 If we were to draw a picture for the history of a folk song (or a bird song, for that
 matter), it would resemble a tree. Its nodes would be different versions of the song, and
@@ -173,7 +184,7 @@ enough. Others would become the starting points for further enhancements. Intuit
 for me at least, it’s the emergence of this tree-like structure when I start to feel that
 the object which is being “created” by this process, begins to live a “life of its own”.
 
-![simple_life](images/simple_life.png)\
+![simple_life](images/02_simple_life.png)\
 Fig. 2. Folk song living a life of its own.
 
 Biological life has this tree-like structure, too. For unicellular organisms, including
@@ -184,10 +195,86 @@ didn’t have a chance to reproduce.
 
 For more advanced organisms, which reproduce sexually, this simple image wouldn’t apply,
 as most of them would have two parents instead of one. However, we still would be able to
-draw a tree-like picture like this for the life histories of their individual _genes_.
-Just like folk songs, genes (including human genes) can be said to live a “life of their
-own”. They reproduce by being transferred from a parent to a child, and undergo
-decentralized “creative changes” through random mutations of the DNA.
+draw a tree-like picture like this for the life histories of our individual _genes_. Just
+like folk songs, genes (including human genes) can be said to live a “life of their own”.
+They reproduce by being transferred from a parent to a child, and undergo decentralized
+“creative changes” through random mutations of the DNA.
+
+## 3. Combination of ideas works better than any single great idea alone.
+
+[chapter03]: #3-combination-of-ideas-works-better-than-any-single-great-idea-alone
+
+_Folk songs can borrow tunes from other songs. Scientific theories do this routinely.
+Great discoveries are often made by combining methods from different remote scientific
+disciplines. Human brains are highly skillful at making such synthesis of ideas. Humans
+also have language, which makes the transfer of these essential pieces of information
+from one human brain into another possible. Combination works, because any individual
+piece can be improved independently, in parallel. Biological analogy to mixing of ideas
+would be sexual reproduction. An organism’s genome is essentially an algorithm, and
+sexual reproduction allows to freely mix its individual pieces with each other._
+
+The tree-like picture drawn in the previous chapter is not exactly correct. Even bacteria
+have so-called “horizontal gene transfer”, when pieces of their genome are copied from
+one living organism into another (and not from a parent to a child). This can be done
+with the help of viruses and other factors. Folk songs can apparently do this too. All
+human artists borrow inspiration from other artists. Such “inspirations” would rarely be
+exact quotes, but a typical composer would happily produce a long list of existing works
+of art which have greatly influenced their own approach to songwriting.
+
+This is even more true for scientific theories. A scientific work which doesn’t quote
+other papers is not considered a valid scientific work. Quite often, all the necessary
+pieces for a discovery are already there, the only thing which is needed is combining
+them in an appropriate way. Einstein’s special relativity theory was a combination of
+existing Lorenz transformation formulas, known from the theory of electromagnetism, with
+Galilean principle of relativity. His later general relativity theory introduced a novel
+interpretation of Newtonian laws of gravitation, by combining theoretical mechanics with
+non-Euclidean geometry, just to name a few examples.
+
+When we add these “horizontal” connections to our tree-like picture from the previous
+chapter, it starts to look more like a mesh. Each node can now have not only multiple
+children, but also multiple parents (possibly even more than two). Each node, once again,
+would be a different version of a particular scientific theory. Branches protruding from
+the node would point to other theories influenced by it, and branches coming in would
+indicate the creative process itself. New theories are created by scientists (or groups
+of scientists) who borrow ideas from the ocean of existing human knowledge, and combine
+them in unexpected ways.
+
+![advanced_life](images/03_advanced_life.png)\
+Fig. 3. Scientific theories borrowing from each other.
+
+Borrowing of ideas is efficient, because it allows any of such constituent ideas to
+exist independently, and be polished to perfection in its own decentralized process of
+creative improvement. This allows all these constituent optimization processes to be run
+in parallel, which saves a lot of time. Even more importantly, optimizing a single part
+of a mechanism is much easier than doing so for the entire mechanism as a whole. In other
+words, constructing the mechanism from existing parts is faster than trying to invent the
+perfect parts needed for this particular mechanism from scratch.
+
+Coming back to scientific creativity, humans are also lucky that they have language.
+Language wouldn’t do an invention for you, but it allows to transfer existing ideas
+between human minds. Without this transfer, all parts of the mechanism to be invented
+would have to be invented by the same person. This is probably the main reason why human
+culture is so much richer than the animal one. Bird songs (and other forms of animal
+culture) can indeed be transferred from one animal brain to another, however in animals
+this transfer is mostly limited to imitating an observed behavior. Language allows to do
+more than that. Unlike animals, we humans can share personal experiences, events from our
+past, and also things we’ve learned from other humans. Language, even spoken one, allows
+ideas to travel much farther and faster than imitation of behavior would ever be able to.
+
+Horizontal transfer of ideas is powerful. It’s so powerful indeed, that even biological
+life has invented it, and employs on a massive scale. If we compared a biological
+organism to a mechanism, then its DNA code would be the algorithm for constructing this
+mechanism and operating it in a variety of environments. It would be difficult to invent
+such a complex algorithm from scratch, so what biological life is doing, it splits this
+algorithm code into smaller parts. These smaller parts of the single big algorithm are
+what we call “genes”. Instead of trying to invent a single big algorithm which would work
+perfectly, biological life focuses on polishing the individual parts. Each part exists in
+many different versions simultaneously, and whichever version doesn’t perform well
+enough, can be replaced at any time with another one, which works better. In effect, each
+part of the algorithm is evolving independently, in parallel. The name for this process
+is of course “sexual reproduction”. The resulting organism then becomes, after a few
+generations, a combination of the better functioning individual parts available out
+there.
 
 \
 \
