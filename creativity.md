@@ -20,10 +20,10 @@ look wrong or unfamiliar.
 1. [Creativity requires only two things: a source of noise and a filter.][chapter01]
 2. [Competition is more efficient than central planning.][chapter02]
 3. [Combination of ideas works better than any single great idea alone.][chapter03]
-4. Intuition is magical, fast and imprecise, and improves with experience.
+4. [Intuition is magical, fast and imprecise, and improves with experience.][chapter04]
 5. Humans operate by a combination of intuition and conscious reasoning.
 6. Intuition and conscious reasoning improve each other iteratively.
-7. Inventions cannot be made without earlier inventions.
+7. Inventions depend on earlier inventions, not on humans making them.
 8. Artificial neural networks are algorithms, written automatically.
 9. Artificial neural networks simulate the mechanism of human intuition.
 10. Artificial neural networks can have broader intuitions than humans.
@@ -275,6 +275,66 @@ part of the algorithm is evolving independently, in parallel. The name for this 
 is of course “sexual reproduction”. The resulting organism then becomes, after a few
 generations, a combination of the better functioning individual parts available out
 there.
+
+## 4. Intuition is magical, fast and imprecise, and improves with experience.
+
+[chapter04]: #4-intuition-is-magical-fast-and-imprecise-and-improves-with-experience
+
+_I’ve learned this from the book “Thinking, Fast and Slow” by Daniel Kahneman and Amos
+Tversky, although similar ideas had probably been expressed long before. Intuition is
+unconscious. It’s a way of getting an answer by simply asking the question. And quite
+often even the question isn’t needed: the answer would appear out of nowhere “for free”,
+by itself. Intuition isn’t free though. It’s always a result of hard work. Intuition is
+also never perfect. It improves with experience, and it requires a lot of experience in
+order to become useful. During this process, some common patterns are deduced, and stored
+somewhere within hidden areas of our brain which we don’t have conscious access to._
+
+Examples of properly working intuition would be a soldier falling to the ground before
+hearing the sound of a bullet, a bike rider doing the right moves without understanding
+how bikes work, a chess player “seeing” the right move instantly, or a mathematician
+recognizing a familiar formula within a heap of mathematical symbols.
+
+Examples of intuitions which don’t work as expected would be a former soldier falling
+down before hearing a firework, a ski rider trying to ride a snowboard as if it were a
+pair of skis, a person lending money to a fraudster because he looks “trustworthy”, or a
+casino player “seeing” a pattern in winning roulette bets.
+
+Intuition feels like magic, but it really isn’t. The soldier has learned to recognize the
+sounds of different types of bullets after having heard a lot of them. The whole process
+goes unconsciously, so he doesn’t even realize what’s happening until he’s lying down in
+the dirt and the bullet has passed over him. After him having returned home, the learned
+intuitive behavior remains, even if it’s not useful anymore. It takes a lot of effort to
+learn to ride a bike (or ski), and it similarly takes a lot of effort to learn to play
+chess. Whoever didn’t do the work, wouldn’t have the intuition. The more you play chess,
+the better would be your “magical” skills of guessing the right move. The more you study
+mathematics, the more hidden connections you’d start to “see” which lay people have never
+been aware of.
+
+We still don’t fully understand how intuition works, and I would actually guess that a
+range of very different underlying brain mechanisms could be responsible for the
+behaviors mentioned above. There are some common traits though. Intuitive processing is
+unconscious. It’s automatic, in the sense that we are not actively aware of the exact
+“rules” employed by it. We learn riding a bike by trying to make different random
+movements, and sticking with the successful ones. We know that this process results in
+some kind of an “algorithm” for riding the bike, encoded somewhere inside our head.
+However, most of us wouldn’t be able to write this “algorithm” down. In this sense, we
+don’t really “understand” what we are doing.
+
+The danger of intuition is that it’s not always correct. And since we don’t have any real
+“understanding” of what it’s actually doing, we can’t really tell apart whether its
+predictions are right or wrong. This leads to mistakes like falsely believing that some
+person is “trustworthy” when they actually are not. Our ability to guess people’s
+intentions does improve with experience, but not every one of us has had the right amount
+of such experience for every possible situation, and that’s what fraudsters take
+advantage of. And, of course, casino slot machines are not predictable, but that’s not
+what our intuition would expect. Its only purpose is to recognize the previously learned
+patterns, even when there’s noting out there to be looking for.
+
+That’s why intuition alone is not enough. It’s important, and it _is_ responsible for
+doing most of the work, but in order to be truly successful we also need something else.
+
+![intuition](images/04_intuition.png)\
+Fig. 4. Human intuition is pure magic.
 
 \
 \
