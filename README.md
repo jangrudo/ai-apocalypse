@@ -36,7 +36,7 @@ look wrong or unfamiliar.
 3. [Combination of ideas works better than any single great idea alone.][chapter03]
 4. [Intuition is magical, fast and imprecise, and improves with experience.][chapter04]
 5. [Humans operate by a combination of intuition and conscious reasoning.][chapter05]
-6. Intuition and conscious reasoning improve each other iteratively.
+6. [Intuition and conscious reasoning improve each other iteratively.][chapter06]
 7. Inventions depend on earlier inventions, not on humans making them.
 8. Artificial neural networks are algorithms, written automatically.
 9. Artificial neural networks simulate the mechanism of human intuition.
@@ -368,14 +368,14 @@ they call it “slow thinking”._
 Humans can do many different things at once. You can simultaneously drive a car, enjoy a
 song played by the radio and eat a burger, all while talking to a friend sitting nearby.
 However, you can only do all the four things at once provided that nothing interesting or
-unexpected ever happens with any of the first three of these activities. If a rabbit
-suddenly jumps out of the bush, or an important announcement is made on the radio, or if
-you happen to choke on your burger for whatever reason, you wouldn’t be able to
-understand what your friend is saying anymore. This happens because the first three of
-these activities are automatic. Unlike the conversation with the friend, neither driving,
-listening to music nor eating requires your conscious attention. And conscious attention
-(in humans at least) has this peculiar property that it can only be engaged into one
-single process at a time.
+unexpected ever happens with any of the first three of these activities. If you suddenly
+notice a rabbit jumping out of the bush at some distance ahead of you, or an important
+announcement is made on the radio, or if you happen to choke on your burger for whatever
+reason, you wouldn’t be able to understand what your friend is saying anymore. This
+happens because the first three of these activities are automatic. Unlike the
+conversation with the friend, neither driving, listening to music nor eating requires
+your conscious attention. And conscious attention (in humans at least) has this peculiar
+property that it can only be engaged into one single process at a time.
 
 This automatic processing is what I’m calling “intuition” here. We intuitively know how
 to drive the car (although this intuition might be of poor quality if we haven’t had
@@ -421,6 +421,68 @@ processed independently by other dedicated modules. And being able to perform th
 verification, this “slow thinking” process seems to be critical for our intuitions to
 develop in the first place. Because intuitions don’t appear out of thin air, they are
 learned though a laborious process of trial and error.
+
+## 6. Intuition and conscious reasoning improve each other iteratively.
+
+[chapter06]: #6-intuition-and-conscious-reasoning-improve-each-other-iteratively
+
+_Conscious reasoning cannot work alone, without intuition, because it’s very slow, and
+besides can only focus on one thing at a time. Good scientific intuition is therefore
+essential for the progress of science. Building the intuition is impossible without
+experience, experience means practicing, and practicing, in scientific disciplines at
+least, involves a lot of conscious reasoning. This means that our intuitions and our
+ability to reason mutually depend on each other, and therefore improve gradually, in a
+positive feedback loop. The basic unit of this iterative process might actually be the
+sleep cycle, as our ability to understand things seems to improve considerably after
+sleeping._
+
+People are often unaware of how powerful their scientific intuitions really are. This
+happens because intuition is unconscious. Things we have already learned seem simply
+“obvious”, even if we don’t really _understand_ how they work. It’s a common trap for
+scientists and other experts to believe that what seems “obvious” to them, should also be
+obvious to everybody else. Intuition feels so effortless that it’s very easy to forget it
+actually requires a lot of hard work.
+
+In philosophy of mathematics, there are two primary approaches to describing what
+mathematicians are actually doing. Some philosophers would argue that mathematicians are
+actively “inventing” new mathematical concepts, whereas their opponents would claim that
+these concepts already exist somewhere (in some “non-material” form), and mathematicians
+are merely “discovering” them. This second concept is called “platonism”, and one of the
+reasons it exists is that there’s evidence supporting it. People started using geometry
+(as well many other mathematical theories) long before they could formulate rigorous
+mathematical foundations for them.
+
+What happens in situations like these is that we get an intuitive understanding of a
+problem or a field of knowledge much earlier than we can formulate the exact rules for
+it. Curiously, when we’ve already got this intuitive understanding, which would by then
+be stored inside some secret area of our brain, we would actually be able to _study_ this
+hidden intuition by simply investigating our own thoughts. We would be able to literally
+cut off any ties with the world, lock ourselves up in a room, and do science while
+sitting there, in solitude.
+
+Sitting up there in the room and trying to carefully write down the exact properties of
+the algorithms which our intuition has managed to come up with by trial and error is one
+way of doing science. But not the only one. When we study mathematics in school, we start
+by learning primitive arithmetic. After we’ve got intuitive understanding of arithmetic,
+we learn algebra. Having reached intuitive understanding of some of algebra, we may start
+learning calculus. It wouldn’t be possible to understand how derivative functions and
+integrals work if the basic operations of addition and multiplication don’t already look
+familiar and obvious enough. We can use our primitive intuitions to solve simple
+problems, learn new intuitions by solving them, then use these enhanced intuitions to
+solve more complicated problems, and so on. It’s a positive feedback loop: the better is
+our knowledge, the easier it is for us to acquire even more knowledge because of the
+improved intuitions.
+
+Intuitions are stored somewhere in our memory. We humans have a lot of different types of
+memory, and their biological mechanisms (once again) are not fully understood. One thing
+most scientists seem to agree though is that sleep plays an important role in
+consolidation of memories formed throughout the day. My own experience would suggest that
+I am often able to understand things much more clearly, and formulate ideas in novel ways
+in the morning, even if I struggled to do so before going to sleep. My intuition, then,
+would be that our intuitions are actually updated during sleep. Which is why solving a
+complex problem might require “sleeping” with it a few times (all while actively working
+on the problem throughout the day). This may be a correct intuition, or a wrong one. In
+any case, it’s a sound foundation for further research.
 
 \
 \
