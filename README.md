@@ -35,7 +35,7 @@ look wrong or unfamiliar.
 2. [Competition is more efficient than central planning.][chapter02]
 3. [Combination of ideas works better than any single great idea alone.][chapter03]
 4. [Intuition is magical, fast and imprecise, and improves with experience.][chapter04]
-5. Humans operate by a combination of intuition and conscious reasoning.
+5. [Humans operate by a combination of intuition and conscious reasoning.][chapter05]
 6. Intuition and conscious reasoning improve each other iteratively.
 7. Inventions depend on earlier inventions, not on humans making them.
 8. Artificial neural networks are algorithms, written automatically.
@@ -121,7 +121,7 @@ and at which rate. Biological evolution is not an intelligent process, but defin
 creative one. It has been able to invent amazing things, including arguably the single
 most complex object on planet Earth — the human brain.
 
-![creative_process](images/01_creative_process.png)\
+![01_creative_process.png](images/01_creative_process.png)\
 Fig. 1. Creative process is a filter applied to noise.
 
 ## 2. Competition is more efficient than central planning.
@@ -198,7 +198,7 @@ enough. Others would become the starting points for further enhancements. Intuit
 for me at least, it’s the emergence of this tree-like structure when I start to feel that
 the object which is being “created” by this process, begins to live a “life of its own”.
 
-![simple_life](images/02_simple_life.png)\
+![02_simple_life.png](images/02_simple_life.png)\
 Fig. 2. Folk song living a life of its own.
 
 Biological life has this tree-like structure, too. For unicellular organisms, including
@@ -253,7 +253,7 @@ indicate the creative process itself. New theories are created by scientists (or
 of scientists) who borrow ideas from the ocean of existing human knowledge, and combine
 them in unexpected ways.
 
-![advanced_life](images/03_advanced_life.png)\
+![03_advanced_life.png](images/03_advanced_life.png)\
 Fig. 3. Scientific theories borrowing from each other.
 
 Borrowing of ideas is efficient, because it allows any of such constituent ideas to
@@ -347,8 +347,80 @@ patterns, even when there’s noting out there to be looking for.
 That’s why intuition alone is not enough. It’s important, and it _is_ responsible for
 doing most of the work, but in order to be truly successful we also need something else.
 
-![intuition](images/04_intuition.png)\
+![04_intuition.png](images/04_intuition.png)\
 Fig. 4. Human intuition is pure magic.
+
+## 5. Humans operate by a combination of intuition and conscious reasoning.
+
+[chapter05]: #5-humans-operate-by-a-combination-of-intuition-and-conscious-reasoning
+
+_I similarly borrow this idea from “Thinking, Fast and Slow”, although it’s not limited
+to this particular book. Human reasoning can roughly be separated into two systems. First
+of them has properties described in the previous chapter: it’s fast, unconscious and
+inherently imprecise. The second system is remarkably different. It’s conscious and
+deliberate. Unlike intuition, it is actually capable of finishing unfamiliar tasks
+correctly and verifying intuitive “hunches” against objective reality of the world
+around. Conscious reasoning is also necessary for complex cognitive processes, like
+proving of mathematical theorems. The problem with this second system is that it can only
+do one thing at a time. It is therefore inherently limited in its capacity, which is why
+they call it “slow thinking”._
+
+Humans can do many different things at once. You can simultaneously drive a car, enjoy a
+song played by the radio and eat a burger, all while talking to a friend sitting nearby.
+However, you can only do all the four things at once provided that nothing interesting or
+unexpected ever happens with any of the first three of these activities. If a rabbit
+suddenly jumps out of the bush, or an important announcement is made on the radio, or if
+you happen to choke on your burger for whatever reason, you wouldn’t be able to
+understand what your friend is saying anymore. This happens because the first three of
+these activities are automatic. Unlike the conversation with the friend, neither driving,
+listening to music nor eating requires your conscious attention. And conscious attention
+(in humans at least) has this peculiar property that it can only be engaged into one
+single process at a time.
+
+This automatic processing is what I’m calling “intuition” here. We intuitively know how
+to drive the car (although this intuition might be of poor quality if we haven’t had
+enough experience with driving yet), and we of course intuitively know how to chew the
+burger. Intuition is also responsible for detecting things which are not expected in the
+given situation. Without us even being aware, hidden areas of our brain are constantly
+monitoring the road and verifying if everything looks familiar. Detection of the rabbit
+happens automatically, and our ability to detect such dangerous situations actually
+improves with experience. At the same time, other hidden areas within our brain are
+constantly monitoring the sound from the radio, and filtering it for the keywords which
+we have learned from our experience to be indicative of an important announcement being
+made.
+
+Trying to understand what our friend is saying though, isn’t automatic. Our intuition
+can’t handle it. This process requires the engagement of this second subsystem, which we
+might call “conscious reasoning”. Whenever our intuition detects a dangerous or otherwise
+important situation which we know it wouldn’t be able to handle by itself, we would
+switch our attention to this new situation, and let our conscious reasoning process solve
+the problem. At the same time, out attention would move away from whatever activity we
+had been doing before, and we’d therefore lose our ability to consciously control this
+previous activity. Switching our attention in such ways is what stage magicians do for a
+living.
+
+If the radio announcement happens to be made at the same moment when the rabbit jumps
+out, you would have to prioritize. Most likely you’d decide (automatically) that evading
+the collision with the rabbit is more important, and therefore wouldn’t be able to hear
+the announcement. If you ever happen to choke on the burger at the exact moment when you
+realize there’s a rabbit on the road, ether you or the rabbit would be in big trouble.
+
+![05_conscious_reasoning.png](images/05_conscious_reasoning.png)\
+Fig. 5. You are free to choose any one of these.
+
+Conscious reasoning is involved in activities like complex arithmetic, understanding of
+human language, proving of mathematical theorems and comparing the prices of similar
+products in a department store. It doesn’t _feel_ like magic, however I would guess that
+biologically, this process is probably much more complicated than any of the processes
+which might underlie the different types of intuition. Conscious reasoning is remarkably
+slower than intuition, which is why they call it “slow thinking”. What it does,
+apparently, it unites the outputs from different independent “intuition modules” within
+our brain, and compares their suggestions with each other. It can, therefore, verify
+imperfect intuitive predictions against objective reality, which is being analyzed and
+processed independently by other dedicated modules. And being able to perform this
+verification, this “slow thinking” process seems to be critical for our intuitions to
+develop in the first place. Because intuitions don’t appear out of thin air, they are
+learned though a laborious process of trial and error.
 
 \
 \
