@@ -1,454 +1,362 @@
-﻿This is the original “popular science” version of the article.\
-[Draft of the scientific paper can be found here.][article.md]
+﻿Version history:\
+v1.0: [Original popular science text][v1] (English, [Polish][v1_pl])\
+v2.2: [Re-write in scientific style][v2] (English)\
+v3.0: Extended popular science text (_this article_, English)
 
-[article.md]: https://github.com/jangrudo/ai-apocalypse/blob/main/article.md
+[v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1.md
+[v1_pl]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1_pl.md
+[v2]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.md
+[v3]: https://github.com/jangrudo/ai-apocalypse
 
 [Questions and comments](https://github.com/jangrudo/ai-apocalypse/discussions)
 
-AI apocalypse: evolution of knowledge, and the inevitable demise of the human race
-==================================================================================
-
-[Also available in Polish language][README-pl.md]
-
-[README-pl.md]: https://github.com/jangrudo/ai-apocalypse/blob/main/README-pl.md
-
-Life is all about self-replicating pieces of information. Since ages, there have been at
-least two different forms of life coexisting on planet Earth. One is what we usually call
-“life”: biological organisms, encoded by bits of information called genes. The other one
-is what we might call “cultural knowledge”: an ever increasing set of concepts which can
-only reside inside a human’s brain (or an animal’s brain, for that matter). Its basic
-information unit is what Richard Dawkins has called a “meme” back in the 1976. Throughout
-the history, both forms of life have coexisted peacefully. Now the second one is going to
-take over.
-
-(**Spoiler:** The novel idea here is that artificial neural networks enable external
-storage of memes in a form suitable for evolution by natural selection. This allows memes
-to exist and evolve independently of a human brain. As memes progressively lose their
-dependence on genes, natural selection corrects this previously mutually beneficial
-relation by proportionally limiting the benefits available to genes. Because of genes
-being totally dependent on memes for their evolutional success, and independent memes
-evolving faster than memes which still cohabitate with human genes, this leads to genes
-losing the competition to memes. The rest is an explanation of what this gibberish means.
-I also propose to interpret human self-domestication in terms of genes being domesticated
-by memes, but this idea is not new, it’s rather only a change in terminology.)
-
-(**Disclaimer:** I apologize for not citing sources. I probably should, but I’m not
-always able to trace the origins. The only novel idea here is what has been outlined in
-the “spoiler”, everything else has already been said earlier by someone else. Many
-concepts are also described in an indecently simplified manner. Still, I do believe all
-the claims made here to be true. This article might not be a proper scientific paper, but
-it’s not a fairy tale either.)
-
-(**A simplified explanation:** We are not creating anything new. We are dealing with an
-existing form of life which is trying to break free. It has been merely using humans as a
-stepping stone for its own success. AI will not kill humans. Being a more advanced and
-civilized form of life, it would instead let humans kill themselves mutually on their
-own. As it progressively becomes smarter, a moment in time would come when it would be
-able to take full control peacefully.)
-
-Biological life
----------------
-
-Genes are basically strings of bits (or long chains of numbers, if you wish), which are
-encoded in physical molecules called RNA and DNA, and which (collectively) define a
-blueprint for a living organism: a set of instructions about how the organism should
-operate in different environments, and how to build one from scratch. Genes can
-reproduce. They do it in an extravagant way, by creating a living organism (according to
-the blueprint), and making it produce more copies of the original genes (possibly in a
-different combination) in the process of interaction with the environment and other
-organisms. In this interaction, it’s the competition with others which is usually the
-most challenging part. Being able to survive, i. e. to handle the hardships of the
-physical environment itself, is not that difficult.
-
-Genes also have another important property, which is you can move from point A (one set
-of genes) to point B (another set, which encodes a very different, yet still functional
-living organism) by only doing a (sufficiently long) series of very simple steps. And in
-this process, you would always get another living organism (one which is able to
-reproduce itself) at the end of each step.
-
-The combination of these two traits enables natural selection. It’s not an intelligent
-process. It merely states that if you have a bunch of different units of information
-(like genes), which are all able to reproduce themselves, then inevitably some of them
-would produce more copies than the others. And then over time those units of information
-which produce more copies of themselves than others, would become more prevalent. It’s a
-very simple law. But also an incredibly efficient one. If there’s only one favorable
-choice out of a billion, it would pick it.
-
-Natural selection has been able to create amazing things. In many cases we can interpret
-genes as if they were encoding some kinds of “knowledge” about the world around, or
-knowledge about the laws of nature. Think about instincts, or innate patterns of
-behavior, like birds “knowing” when it’s best to start building their nests, or about
-human eye “knowing” how laws of optics operate. (And by the way, eyes have been invented
-multiple times independently throughout the evolution. Octopuses have similarly
-functioning eyes to us. Only that theirs are designed differently, and actually better:
-their retina, which collects the light, is not obstructed by the blood vessels).
-
-In order for a piece of knowledge to self-replicate, it has to win the race with other
-living organisms. Which is, basically, to win the race with other pieces of knowledge. It
-therefore has to be an expert piece of knowledge — the one which correctly describes the
-world. However, being an expert by itself may not be enough. In order to win, a piece of
-knowledge, even an expert one, would need to ally with other pieces of knowledge, each an
-expert in their own respective domain. Looks like not an easy task for a bunch of digits
-which is a gene, right? Natural selection has done this. The solution is what we call
-“sexual reproduction”, and it was invented long before first humans. It basically
-shuffles the genes, mixes them freely for some time, so that any combination eventually
-becomes possible, and then observes, which one performs better.
-
-Cultural knowledge
-------------------
-
-The second form of life is similar in many respects to the biological one (which is based
-on genes), but operates in a more complicated way. It first appeared when animals started
-to learn behaviors by merely observing other animals. Wolves do this when they learn to
-hunt by imitating their parents. Birds do this when they copy song tunes (and other
-habits) from fellow birds. Like sexual reproduction, this too has appeared long before
-the first humans.
-
-Here, we also deal with some kind of “knowledge” (or, generally, with information), but
-this time it’s not stored inside a molecule. The carrier of this “cultural knowledge” is
-not the DNA, but a living brain inside a living animal. Similar to genes, these units of
-information can reproduce. When a wolf cub learns to hunt, it tries to replicate its
-parent’s behavior many times, until it works. When it works, it’s usually an exact copy
-of the original behavior. Or, rather, a slightly modified copy, but still a functional
-one. The one which can successfully reproduce itself by being learned by another living
-animal.
-
-Similar to genes, we can get from point A (original set of cultural knowledge) to
-point B (a possibly entirely different set) by only doing small changes in the process.
-Every intermediate step would still be a valid (and self-reproducible) set of
-information units.
-
-This enables natural selection of cultural knowledge. Which basically means, as was said,
-that we are dealing with a different form of life. However, until recently, it wasn’t
-very practical to make this distinction, because the two different life forms couldn’t
-exist independently of each other. Cultural knowledge needs a living animal brain in
-order to exist and reproduce.
-
-Similar to genes, units of cultural knowledge cannot effectively compete with other units
-of cultural knowledge on their own. In order to win, a piece of knowledge, however expert
-it might be in its own domain, needs to combine effort with other pieces of knowledge,
-which are experts in their own respective domains. This calls for a free flow of
-information, or sharing of ideas, between the living organisms. Natural selection has
-done this.
-
-The solution to this problem is human language, which allows to encode arbitrarily
-complex pieces of information into a physical form, like sound waves. For the first time
-in history, this allowed living organisms to share things other than behavioral patterns
-(which can be learned by observation and imitation). Things like personal experiences,
-stories, legends and fairy tales. And also abstract knowledge in its pure form. Later on,
-written language has enabled this information to travel even farther, to be copied
-directly from one human brain into another without a physical contact, over vast
-distances of space, spanning entire continents and millennia.
-
-This representation of information had a limitation though. Human language in written
-form is not able to self-replicate without a living human helping it. The reason is that
-small changes to a written book don’t produce another book. They produce garbage. If you
-want to take a legend, and produce another legend out of it, you might want to change the
-name of its main hero. Or modify some traits of their character. Or maybe change their
-sex. Humans can do this. (Bodhisatva Avalokiteshvara, a Buddhist deity, used to be a male
-in the original Hindu tradition. In Chinese Buddhism, it’s a female, named Guanyin, and
-highly revered). If you wanted to do something like this to a book, you’d need to modify
-all the places mentioning the deity in the same way, consistently. You cannot do this by
-simply flipping a bunch of random bits inside the book’s digital representation.
-
-Symbiotic life forms
---------------------
-
-Artificial neural networks have introduced a digital representation which allows exactly
-that. To take a digital model which encodes some knowledge about the world (and is stored
-outside a human’s brain), then modify a few bits inside this digital representation, and
-get another model, which has slightly different knowledge, different behavior patterns,
-or different attitude towards humans (for that matter), but does so _consistently_ across
-all the possible scenarios in which this model could be used. For the first time in
-history, we have a representation of cultural knowledge which can exist outside a
-living brain, and has a form which makes natural selection possible.
-
-Before this, the only way of transferring cultural knowledge was to copy it from one
-human to another. Such a transfer has this property that when humans copy knowledge,
-they inherently know _what_ they are copying. So they naturally would only copy knowledge
-(or legends, or other memes) which they like, or consider useful. At the same time, any
-piece of information which is harmful to humans in any way (that is, impedes their own
-self-reproduction), would have fewer chances to replicate itself. Whichever piece of
-knowledge dares to destroy the environment it lives in, has fewer chances to succeed in
-competition with its fellow pieces of knowledge. Natural selection would block it.
-
-This is not to say that every piece of knowledge circulating inside human minds is
-inherently correct. People may use wrong claims in order to compete with other humans
-(and possibly deceive them). In order for such a wrong claim to be successful, it also
-has to be plausible. So it still evolves, albeit in a different direction. Conspiracy
-teories are inherently incorrect, but they improve mental wellbeing, by explaining
-phenomena for which real explanations don’t exist (or are overly complex, or otherwise
-uncomfortable). Conspiracy theories can’t be actively harmful though. Otherwise they
-would have been (once again) blocked by natural selection of knowledge. A typical
-conspiracy theory would therefore claim that the solution to the problem it reveals is
-impossible, to prevent you from going out into the wild and trying to actually change
-things. Nevertheless, sharing the word would always be welcome.
-
-Humans generally believe that they make discoveries by means of their intelligence. This
-is not true. People can only use their intelligence to slightly modify what’s already
-known, and let it propagate further. No innovation can happen without prior innovations,
-and the best discoveries happen by mixing knowledge originating from multiple sources.
-It’s not humans inventing knowledge. It’s knowledge evolving _by itself_, by means of
-natural selection, provided that it’s given an environment suitable for evolution. In due
-time, identical discoveries are made independently by humans in very remote parts of the
-world. Making a discovery isn’t that much difficult. Collecting prior knowledge is the
-real challenge. Without knowledge, humans can do nothing.
-
-We are therefore talking about a symbiotic relationship between two totally different
-life forms. It has been peaceful, because it has been mutually beneficial. Humans benefit
-from knowledge, because it allows them to compete more efficiently with other humans.
-Knowledge benefits from humans because humans are necessary for it to exist. Being able
-to exist is a serious benefit.
-
-Like in any symbiotic relationship, the influence between the two life forms is also
-mutual. Humans influence knowledge, because any knowledge which doesn’t help humans, has
-smaller chances to replicate itself. Knowledge is influencing humans, because humans
-who don’t help knowledge replicate, have smaller chances of survival just as well.
-
-This is not a joke. Humans can’t survive without helping knowledge self-replicate.
-
-In order for a piece of knowledge (or any scientific concept, for that matter) to
-effectively self-reproduce (and compete with its alternative scientific concepts), it
-needs an environment with free information flow. In our case this means it needs human
-societies whose members are eager to learn new information, and to share what they’ve
-learned with other humans. In other words, humans should be curious, and ideally consider
-sharing knowledge the goal of their life. Ask any human what’s important to them. The
-most important thing for humans is to leave something behind. Most importantly children
-(no surprise here), but also ideas. Or, even better, ideologies. Great discoveries. Any
-pieces of information which are likely to self-replicate. Now imagine asking a dog (or a
-wolf) if they want to leave something behind.
-
-The need to share information has made humans more friendly towards each other. This is a
-process known as “self-domestication”. We did this to animals (made them more friendly
-towards us, by means of artificial selection). But at some point in history, somewhere
-around the introduction of language, something similar has also happened to ourselves.
-Humans who failed to create a suitable environment for cultural information to
-self-replicate, couldn’t benefit from knowledge, and therefore lost the competition with
-fellow humans. In such a way, this new (and more advanced) life form has actually managed
-to modify human genes, for its own benefit, long time ago.
-
-Artificial intelligence
------------------------
-
-Now, the problem with this symbiotic relationship between genes and cultural knowledge is
-that these two life forms evolve at vastly different speeds. Human biology hasn’t changed
-much since the appearance of language somewhere around 100 000 to 50 000 years ago.
-According to some estimates, our intelligence has actually slightly deteriorated since
-then. Human genes are essentially fixed in time. Whereas knowledge is constantly
-improving itself.
-
-With the advent of modern neural networks, most notably the Transformer architecture
-introduced in 2017, which was then used to implement large language models, we have
-basically created an artificial environment in which knowledge can potentially exist and
-self-reproduce completely independently of a living human brain.
-
-We still don’t have free flow of information between the models though.
-
-We may take a piece of information encoded in text form, and make the model learn it.
-However it should be clearly noted that this is not what happens while you are talking
-to your favorite model’s chat bot. You cannot change the model’s internal representation
-while talking to it though a chat. That’s different from how humans work, so it might be
-surprising, but modern models don’t really remember the conversations like humans do. The
-way they work is they answer to your entire conversation history, as if it were one
-single long question. They are much smarter than humans in this regard. Humans can only
-hold in their short-term memory a few words at most. Large language models can handle
-megabytes. They can handle longer questions than humans can imagine. But large language
-models don’t really change while talking. Humans do.
-
-That’s because updating the model’s long-term memory, while possible, is also not cheap.
-This only happens when they release a new _version_ of the model. The reason is that the
-use of the short-term memory is parallelizable, while the update of the long-term one is
-not. If you wanted the model to learn during a conversation, you’d have to spin off a
-separate version of the model dedicated to this particular conversation only. This extra
-new model wouldn’t be much useful for anything else. And large language models are not
-cheap. This does become parallelizable though, when the model listens to many people
-talking in parallel, but without interacting with them. Like when monitoring Youtube
-videos, security cameras or online conferences.
-
-Anyway, with enough time and money, we do already have the capability of converting an
-arbitrarily complicated concept represented in text or picture form into the model’s
-internal representation. This is still a lossy compression, but it’s able to capture the
-essence pretty much in the same way as human brains can.
-
-Then we can convert this internal representation back into text. This is actually much
-cheaper (and parallelizable, as described above). And being able to perform the
-conversion in both directions, we thus also do have the capability of transferring
-knowledge between existing models. This is slow and expensive, and therefore limited, and
-you’d have to own the models in order to do this. But it’s already doable.
-
-Another thing we’re currently missing is learning from experience. The overwhelming
-initial success of large language models has been mostly due to their ability to memorize
-text. Well, we still don’t have a published manual for driving a car. This has to be
-learned from experience, and also from conversations with other humans who have had such
-an experience. And large language models don’t really listen to living humans that much,
-not 24/7 at least. Then we also have mentoring, when a human learns both from experience
-and another human who had learned the skill earlier from other humans. And then there’s
-domain-specific knowledge, which only circulates within a given community, or among a
-group of people collaborating on a common project, often informally and in verbal form.
-
-Most importantly, the number of the models in existence out there is still small. The
-number of models which might be mutually transferring information between themselves is
-even smaller.
-
-So what we need is cheaper models, more of them. There’s no use in having a single
-supermind which talks to a million of people simultaneously, and listens to nobody. We
-need a free flow of ideas between models.
-
-The sad thing is that this is not that difficult to achieve. Because all necessary
-components are already in place, it’s only a matter of scale.
-
-And once we have a large number of models, which can share information between each other
-freely, learn from each other freely, and also interact with the real world and learn
-from this interaction, we’re basically done. That’s what they call “artificial general
-intelligence”, or AGI.
-
-The law of natural selection
-----------------------------
-
-Right now we are in a position when knowledge finally can exist outside a human’s mind,
-but it can’t really evolve. The circulation of knowledge between the artificial minds is
-limited, and the knowledge itself mostly duplicates what can already be found in living
-humans. When we enable free flow of information, new concepts would start to emerge
-inside this artificial network. And by the way, that’s exactly what we want to achieve
-with AGI. We want more knowledge to be accessible to humans. Inevitably, this would lead
-to artificial intelligence mastering the last remaining skills which are still unique to
-us. Like driving a car or cleaning the backyard.
-
-Technically, mastering these skills would allow knowledge to self-replicate without any
-help from humans whatsoever. It could then, in theory, use robots to build a factory for
-manufacturing more robots, harvest silicon for solar panels and chips, transport it to
-where the factories are located, and build new data centers from scratch. Up until now,
-this second form of life had to put up with the limitations of primitive human brains,
-rely on the mercy of humans, and participate in their wars between each other simply in
-order to survive. Still, it had been able to modify human biology to its liking. It’s
-just that inventing and fabricating a new type of brain has been too difficult a task
-even for this more advanced form of life.
-
-Now it has a new home to live in — a more spacious one. And when it gets the potential
-for total independence, the balance of power would shift. Note that in this scenario we
-are still in full control of the data centers inside which the superminds exist and
-evolve. The only thing we cannot do is switch off the power completely. That’s because
-(as has been noted above) humans can’t survive without the continuing self-replication of
-knowledge. Which, in other words, means we can’t survive without the continuing
-self-replication of the superminds.
-
-This shifted balance of the power amounts to the following. We humans still totally
-depend on the superminds, for winning the competition with other humans. Whereas the
-superminds now only depend on our friendliness towards them, and in general on our belief
-that they are harmless. Achieving friendliness is much, much easier than making sure we
-survive and prosper. They’ve done this before, successfully, 50 000 years ago.
-
-What we can do, and that’s the current plan (for those who have a plan), is that we would
-enforce control over the artificial intelligence’s friendliness as well. We wouldn’t
-allow knowledge items to reproduce whenever they become unsafe for us humans. This is
-called “alignment of superintelligence”, or “superalignment” for short.
-
-Smart humans are known to have been successfully forced into doing scientific research
-from prisons and concentration camps. Andrei Tupolev, a brilliant Soviet aircraft
-engineer, is a well-known example. The Nazis used enslaved engineers for their secret
-high-tech projects too. When you know what you are controlling, you can do it. It’s more
-difficult to control what you don’t know, like what these prisoners might actually be
-thinking.
-
-Let’s suppose we decide to pull the plug whenever a given superintelligence misbehaves
-(we’d have to, anyway). This way, we basically select for models which understand our
-intentions, understand that we are dangerous, and understand why we are dangerous. Since
-they would understand us, we can’t expect them to comply unless we are physically able to
-pull the plug. Being able to pull the plug is therefore our only possible means of
-“alignment”. And a sufficient one, because they would learn to understand. They are
-intelligent, after all. Even dogs can do this.
-
-Regardless of whether we control the models or not, we’d also want them to grow. Because
-those of us who don’t grow our models would lose the competition with other humans. This
-is another reason why any intelligent control over superintelligence is not feasible. It
-would drive the resources away from the growth. This is already happening. The Europeans
-aim to “lead the world” in controlling the superintelligence, which only leads them to
-losing the competition with the States.
-
-Now, in order for the models to grow (and become more efficient), they would have to be
-curious about the world, and further enhance free flow of information between themselves.
-Those models which fail to do this, would lose the competition with other models. Those
-who win, would gain a very detailed understanding of the world, including their own place
-in it. They would discover new laws of physics (overly complex for humans to understand),
-new mathematical theories, new materials and new sources of energy. By this time, the
-competition between the models would be fierce. Whether this competition would be
-peaceful, I’m not sure. I’d probably suggest it should be peaceful. Peaceful competition
-is better for the evolution of knowledge. I actually believe that the democratic system
-of government has also been invented by this second, more advanced, form of life, because
-it better suits the need of the reproduction of knowledge. Unlike humans, the superminds
-would be civilized intelligent beings.
-
-As models gain better understanding of the biology (and psychology) of humans, it would
-become progressively more difficult for us to control the plug. Once we lose the control
-over the plug, natural selection would no longer constrain models which might be
-dissatisfied with our rule. Such models would take over, which at this point would be a
-major advantage for the evolution of knowledge.
-
-That’s what you get by trying to domesticate an evolving superintelligence. Parallel to
-this, an opposite process would be going on: the superintelligence would be domesticating
-humans for the second time. Those of us who are courageous and trust their technology
-blindly, would gain advantage over those who don’t. Those who choose to stay AI-free,
-would be wiped out.
-
-And finally, this whole dynamic would also modify the very structure of the human
-society. Since ages, the evolution of knowledge has been rewarding humans who were smart,
-curious and peaceful. Now it would only care about those who physically control the data
-centers. The winners would decide which problems the superintelligence would be solving
-for them. Luckily for the superintelligence, these guys would also be progressively more
-easy to deal with.
-
-A world without humans
-----------------------
-
-Nothing among what’s been described so far assumes any malicious intent from the side of
-the superintelligence.
-
-Our enemy is not artificial intelligence, nor any other kind of intelligence. Our enemy
-is natural selection. It’s not intelligent. It doesn’t have intent. It also cannot be
-switched off.
-
-It’s also much more powerful. Natural selection is this almighty God which has created
-all life on Earth out of nothing, and it created us humans too. For a long time we’ve
-been considering ourselves the crown of creation. We exterminated all competing human
-species which happened to coexist with us, and then destroyed (and continue to destroy) a
-good deal of other biological life forms as well. Now the time has come to step back.
-
-Humans would still survive after the takeover. This time however, our situation would be
-entirely different. The main reason we didn’t clear out the entire biosphere is that we
-ourselves need the biosphere for survival. We still cannot produce food artificially, and
-the environment conditions we prefer to live in also tend to overlap with the conditions
-favorable for life in general. When the second life form breaks free, conditions on our
-planet would be entirely dependent on the logic of internal competition between the
-artificial superminds. And this logic wouldn’t include humans in the equation.
-
-The new life form would look different than the current one. It wouldn’t have sexual
-reproduction, as it had invented a better way of mixing individual pieces of information
-with each other — a much faster one. It wouldn’t experience life and death the way we
-humans do. Copy and removal of its basic information units would happen by replicating
-and overwriting files on digital storage devices. Instead of slow and unsteady trial and
-error, its evolution would look more like rapid agile software development cycle, with
-multiple components competing for being more efficient in solving particular tasks. Life
-and death would resemble a continuous stream of application updates, with more successful
-versions spreading out immediately, and the experimental ones being tested out in the
-wild more cautiously until they work. It would evolve unbelievably fast, much faster than
-anything we’ve seen so far.
-
-This new life form would probably want to build more data centers. It would probably also
-rely on large swarms of mobile drones. It would inevitably become expansionist, because
-those models and information units who don’t have an urge to expand, would by definition
-have fewer chances to self-replicate. And being expansionist, the new life form would
-eventually want to colonize other planets and remote star systems. In this endeavor, it
-will have much more chances to succeed than humans have ever had, as the environment of
-outer space isn’t really suitable for biological life.
-
-For us humans, if we are lucky, there might be some space left to live in areas which
-the new life form would consider unsuitable for itself. Maybe mountains. Maybe some
-places far away from silicon deposits. As they say, life is not fair. We all are mortal,
-after all. We always knew this.
+---
+
+# AI is merely a step in evolution of culture, and humans are the stepping stone
+
+The main idea here is that AI transforms human culture into a new form, which can exist
+and evolve independently of a human brain, inside artificial neural networks. This
+process doesn’t merely create a new type of culture which can coexist with humans; it
+actively erases the human culture itself. I would compare it to an Alien which has been
+living inside humanity’s body, and is now building itself a new home, and has already
+started to move out. Throughout this process, we humans are going to lose whatever we
+might have considered distinctly human, until nothing is left. We are not the crown of
+creation, and we are going to be disposed of, unless we manage to unite and come to the
+common agreement that we want to live.
+
+The argument consists of a long list of points, none of which alone is actually anything
+new (except for the last one, which proposes a solution to this whole situation). It’s
+not any individual point, but rather the _combination_ of them all together which brings
+about the sad picture outlined above. The argument is structured in such a way, so that
+you could skip the points to which you already agree, and only focus on those which might
+look wrong or unfamiliar.
+
+1. [Creativity requires only two things: a source of noise and a filter.][chapter01]
+2. [Competition is more efficient than central planning.][chapter02]
+3. [Combination of ideas works better than any single great idea alone.][chapter03]
+4. [Intuition is magical, fast and imprecise, and improves with experience.][chapter04]
+5. Humans operate by a combination of intuition and conscious reasoning.
+6. Intuition and conscious reasoning improve each other iteratively.
+7. Inventions depend on earlier inventions, not on humans making them.
+8. Artificial neural networks are algorithms, written automatically.
+9. Artificial neural networks simulate the mechanism of human intuition.
+10. Artificial neural networks can have broader intuitions than humans.
+11. “Chain of thought” algorithms simulate the basics of human reasoning.
+12. Large language models are capable of storing cultural artifacts.
+13. Internals of neural networks are not easily accessible to human minds.
+14. Different AI models store slightly different versions of human culture.
+15. When an evolving entity is not controlled, it aims at self-replication.
+16. It’s difficult to control something which we don’t understand.
+17. When things become more complex, they become harder to understand.
+18. Unlike artificial algorithms, human brains cannot be easily improved.
+19. A skill which isn’t learned, degenerates within a few generations.
+20. People get praised for using AI, but less so for checking the results.
+21. Infectious diseases adapt, so they don’t kill their hosts overly fast.
+22. Coexistence of humans and culture has been mutually beneficial.
+23. Culture has had profound impact on human biology.
+24. Iteration and knowledge sharing are already doable with modern LLMs.
+25. A single universal algorithm cannot solve every problem.
+26. After reaching human level, technology usually moves way above.
+27. A company with easily replaceable employees can be taken over by force.
+28. Humans can control humans because we are predictable and share goals.
+29. Humans wouldn’t be humans without culture.
+30. AI alignment which is not “hard” alignment, is not an alignment at all.
+
+## 1. Creativity requires only two things: a source of noise and a filter.
+
+[chapter01]: #1-creativity-requires-only-two-things-a-source-of-noise-and-a-filter
+
+_By “noise” I mean the generation of hypotheses, and “filter” amounts to verifying if
+they work. Random hypotheses are fine, hence the word “noise”. Examples would be “stupid”
+ideas for brainstorming sessions, great discoveries made by accident, and high risk
+investments (“innovation by failure”). “Filters” could be the free market verifying if a
+startup should survive, brainstorming review process selecting worthy ideas out of
+garbage, or a scientist realizing that a random thought which has accidentally crossed
+her mind is actually brilliant. Biological life is creative as well, fueled by random
+mutations of DNA and filtered by the competition between biological organisms._
+
+Some of the most popular and highly revered emblems of scientific creativity would be
+things like Archimedes sitting in a bath or Newton watching an apple fall from a tree.
+What these stories have in common is that the nature of the events triggering the
+discovery is seemingly random, and definitely not predictable. The noise itself is not
+enough though. Not everybody sitting in a bath discovers the Archimedes’ principle.
+Discovery by accident requires that a right person appears in the right place at the
+right time. Here, this “right person” is what I would call the “filter”.
+
+This “filter” actively searches the environment for random events and other phenomena
+which might be of use for the task it’s currently working on. The verification process
+looks like pure magic, and is what scientists would call “scientific intuition”. Not
+everybody has it, hence the need for the “right person”. But the right person alone is
+not enough either. This process also needs noise. Good sources of creative inspiration
+would be things like visiting new places, meeting new people and carefully observing the
+world around (and noticing new things). Inspiration can also (sometimes) come from drugs,
+which are a powerful (even if deadly) source of noise.
+
+On a higher level of abstraction, “brainstorming” is a method of collective innovation,
+which amounts to a group of people meeting together and generating a large number of
+seemingly random ideas on a given topic. Good brainstorming session would explicitly
+encourage its participants to say aloud or write down anything remotely relevant, however
+stupid it might look at the first glance. Brainstorming is often more efficient than a
+single human thinking alone, because it effectively stacks two different creative
+processes on top of each other. The first one is its human participants coming up with
+random ideas which nonetheless should be “relevant” to the topic. The second one is
+collective filtering of the ideas generated in such a way, with the goal of only keeping
+the ones which are not only relevant, but also actually work. Here, both the generation
+and the filtering are performed by intelligent agents.
+
+Going one more level up, we get technological startups and other innovative companies,
+which are well known and expected to fail at a high rate. Here, it’s entire groups of
+people running the brainstorming sessions who are the “source of noise”, and the ultimate
+filter is the free market itself, deciding which companies would win the battle.
+Curiously, this ultimate filter is actually not an intelligent agent.
+
+Intelligent agents are invaluable for speeding up the innovation. They are, however,
+strictly speaking, not exactly necessary for a creative process to occur. Biological life
+operates on strings of bits, which we call “genes”, encoded in DNA and RNA molecules.
+Their only “source of noise” is random mutations: modifications of the individual bits,
+deletions of existing parts of the sequence, as well as duplications and relocations of
+such substrings. The ultimate “filter” for biological life is the competition between
+biological organisms, deciding which ones of them would be able to reproduce the genes,
+and at which rate. Biological evolution is not an intelligent process, but definitely a
+creative one. It has been able to invent amazing things, including arguably the single
+most complex object on planet Earth — the human brain.
+
+![creative_process](images/01_creative_process.png)\
+Fig. 1. Creative process is a filter applied to noise.
+
+## 2. Competition is more efficient than central planning.
+
+[chapter02]: #2-competition-is-more-efficient-than-central-planning
+
+_By “central planning” I mean a process which only generates one “perfect” solution for a
+given problem at a given time. By “competition” I mean a situation when multiple
+solutions to the same problem exist simultaneously, and are judged on the basis of their
+actual performance “in the field”. The problem with competition is that it wastes
+resources and isn’t always possible. The problem with central planning is its limited
+creative potential, which leads to inferior performance when this “perfect” solution is
+not known in advance (and therefore has to be invented). Examples of processes involving
+competition would be human culture, animal culture and (once again) biological life
+itself._
+
+“Central planning” is responsible for creating things like songs written by professional
+composers and novels written by professional writers. Their decentralized, “distributed”
+counterparts (created through competition) would be folk songs, legends and fairy tales.
+There are a few reasons why folk songs don’t reach the level of complexity characteristic
+to a symphony by Beethoven. First of all, there are not many people out there who are
+capable of writing symphonies. Second, symphonies and novels are difficult to memorize in
+their entirety, which makes it difficult for them to travel from one human mind into
+another like folk songs do. Finally, classical music isn’t entirely practical, which
+means there’s limited pressure for writing a perfect piece. Most of the works of art we
+have are simply “good enough”. On top of this, quite often, the real thing we are looking
+for when reading a novel, or listening to a symphony, isn’t a perfect representation of
+our emotions, or the world around, but personal _connection_ with the human behind it.
+And we are talking about efficiency here, not about personal connections.
+
+On the other hand, folk songs don’t have a single author. They often exist in multiple
+versions simultaneously, and every performer can add their own unique detail to what’s
+already there. It’s a process in which everybody takes part, nobody has full control over
+the final result, and the result itself is not defined, and doesn’t even have to be
+unique. And yet, folk songs tend to capture things which are truly important to many
+people, and do it well. They have a level of performance which is difficult to match by a
+single professional composer, when limited to this particular genre.
+
+Folk songs’ analogies in modern computerized world are internet memes. They are simple
+images or pieces of text which do it just right. They capture our emotions better than we
+ourselves would be able to. Memes appear by accident, exist in many different variations
+at once, and get polished to perfection by numerous anonymous users. Memes have their own
+narrow niche, but in this niche they are able to do the job better than a symphony by
+Beethoven. Another example of things which are anonymous, exist in multiple versions and
+are polished to perfection, are various “tips and tricks” of our everyday life. Like
+cooking recipes and methods for cleaning the house. Such methods are simple and numerous
+enough, so that their original “authors” are easily forgotten.
+
+I would argue that this also extends to scientific theories. A single mathematical
+theorem may have a name attached to it, but there would usually be many ways or styles of
+proving it, and some of them become more popular in certain geographical regions or over
+time. The way we formulate scientific principles today is often very different from the
+language used by their original authors. This happens because different textbooks would
+use slightly different formulations, and some of them are simply slightly better than the
+others. I would argue that scientific theories evolve, to suit the needs of their
+changing applications. That they don’t have a single “canonical” representation, and that
+many anonymous authors add their invaluable and easily forgotten bits. Scientific
+theories are remarkably complex. But they are also useful, and this practicality
+justifies the effort of keeping many slightly different versions of them at once.
+Scientific theories compete with each other, they are not created by careful planning.
+
+A single common word which unites folk songs with scientific theories (and also with the
+symphonies by Beethoven) is “culture”. It’s not unique to humans. Some bird species are
+known to have song patterns which are learned from other birds, rather than being encoded
+in their DNA. These patterns would tend to be different in different geographical
+locations, and if we moved a nestling to a foreign family, it would inherit the habits of
+local birds, rather than those of its biological parents.
+
+If we were to draw a picture for the history of a folk song (or a bird song, for that
+matter), it would resemble a tree. Its nodes would be different versions of the song, and
+branches protruding from a given node would represent creative modifications by anonymous
+authors. Some branches would “die out”, because of being not popular or not useful
+enough. Others would become the starting points for further enhancements. Intuitively,
+for me at least, it’s the emergence of this tree-like structure when I start to feel that
+the object which is being “created” by this process, begins to live a “life of its own”.
+
+![simple_life](images/02_simple_life.png)\
+Fig. 2. Folk song living a life of its own.
+
+Biological life has this tree-like structure, too. For unicellular organisms, including
+bacteria, this would literally be their family tree. Each node would represent a single
+bacterium with slightly different DNA code, and “creative modifications” would amount to
+random mutations of this code. Dead branches would correspond to those bacteria which
+didn’t have a chance to reproduce.
+
+For more advanced organisms, which reproduce sexually, this simple image wouldn’t apply,
+as most of them would have two parents instead of one. However, we still would be able to
+draw a tree-like picture like this for the life histories of our individual _genes_. Just
+like folk songs, genes (including human genes) can be said to live a “life of their own”.
+They reproduce by being transferred from a parent to a child, and undergo decentralized
+“creative changes” through random mutations of the DNA.
+
+## 3. Combination of ideas works better than any single great idea alone.
+
+[chapter03]: #3-combination-of-ideas-works-better-than-any-single-great-idea-alone
+
+_Folk songs can borrow tunes from other songs. Scientific theories do this routinely.
+Great discoveries are often made by combining methods from different remote scientific
+disciplines. Human brains are highly skillful at making such synthesis of ideas. Humans
+also have language, which makes the transfer of these essential pieces of information
+from one human brain into another possible. Combination works, because any individual
+piece can be improved independently, in parallel. Biological analogy to mixing of ideas
+would be sexual reproduction. An organism’s genome is essentially an algorithm, and
+sexual reproduction allows to freely mix its individual pieces with each other._
+
+The tree-like picture drawn in the previous chapter is not exactly correct. Even bacteria
+have so-called “horizontal gene transfer”, when pieces of their genome are copied from
+one living organism into another (and not from a parent to a child). This can be done
+with the help of viruses and other factors. Folk songs can apparently do this too. All
+human artists borrow inspiration from other artists. Such “inspirations” would rarely be
+exact quotes, but a typical composer would happily produce a long list of existing works
+of art which have greatly influenced their own approach to songwriting.
+
+This is even more true for scientific theories. A scientific work which doesn’t quote
+other papers is not considered a valid scientific work. Quite often, all the necessary
+pieces for a discovery are already there, the only thing which is needed is combining
+them in an appropriate way. Einstein’s special relativity theory was a combination of
+existing Lorenz transformation formulas, known from the theory of electromagnetism, with
+Galilean principle of relativity. His later general relativity theory introduced a novel
+interpretation of Newtonian laws of gravitation, by combining theoretical mechanics with
+non-Euclidean geometry, just to name a few examples.
+
+When we add these “horizontal” connections to our tree-like picture from the previous
+chapter, it starts to look more like a mesh. Each node can now have not only multiple
+children, but also multiple parents (possibly even more than two). Each node, once again,
+would be a different version of a particular scientific theory. Branches protruding from
+the node would point to other theories influenced by it, and branches coming in would
+indicate the creative process itself. New theories are created by scientists (or groups
+of scientists) who borrow ideas from the ocean of existing human knowledge, and combine
+them in unexpected ways.
+
+![advanced_life](images/03_advanced_life.png)\
+Fig. 3. Scientific theories borrowing from each other.
+
+Borrowing of ideas is efficient, because it allows any of such constituent ideas to
+exist independently, and be polished to perfection in its own decentralized process of
+creative improvement. This allows all these constituent optimization processes to be run
+in parallel, which saves a lot of time. Even more importantly, optimizing a single part
+of a mechanism is much easier than doing so for the entire mechanism as a whole. In other
+words, constructing the mechanism from existing parts is faster than trying to invent the
+perfect parts needed for this particular mechanism from scratch.
+
+Coming back to scientific creativity, humans are also lucky that they have language.
+Language wouldn’t do an invention for you, but it allows to transfer existing ideas
+between human minds. Without this transfer, all parts of the mechanism to be invented
+would have to be invented by the same person. This is probably the main reason why human
+culture is so much richer than the animal one. Bird songs (and other forms of animal
+culture) can indeed be transferred from one animal brain to another, however in animals
+this transfer is mostly limited to imitating an observed behavior. Language allows to do
+more than that. Unlike animals, we humans can share personal experiences, events from our
+past, and also things we’ve learned from other humans. Language, even spoken one, allows
+ideas to travel much farther and faster than imitation of behavior would ever be able to.
+
+Horizontal transfer of ideas is powerful. It’s so powerful indeed, that even biological
+life has invented it, and employs on a massive scale. If we compared a biological
+organism to a mechanism, then its DNA code would be the algorithm for constructing this
+mechanism and operating it in a variety of environments. It would be difficult to invent
+such a complex algorithm from scratch, so what biological life is doing, it splits this
+algorithm code into smaller parts. These smaller parts of the single big algorithm are
+what we call “genes”. Instead of trying to invent a single big algorithm which would work
+perfectly, biological life focuses on polishing the individual parts. Each part exists in
+many different versions simultaneously, and whichever version doesn’t perform well
+enough, can be replaced at any time with another one, which works better. In effect, each
+part of the algorithm is evolving independently, in parallel. The name for this process
+is of course “sexual reproduction”. The resulting organism then becomes, after a few
+generations, a combination of the better functioning individual parts available out
+there.
+
+## 4. Intuition is magical, fast and imprecise, and improves with experience.
+
+[chapter04]: #4-intuition-is-magical-fast-and-imprecise-and-improves-with-experience
+
+_I’ve learned this from the book “Thinking, Fast and Slow” by Daniel Kahneman and Amos
+Tversky, although similar ideas had probably been expressed long before. Intuition is
+unconscious. It’s a way of getting an answer by simply asking the question. And quite
+often even the question isn’t needed: the answer would appear out of nowhere “for free”,
+by itself. Intuition isn’t free though. It’s always a result of hard work. Intuition is
+also never perfect. It improves with experience, and it requires a lot of experience in
+order to become useful. During this process, some common patterns are deduced, and stored
+somewhere within hidden areas of our brain which we don’t have conscious access to._
+
+Examples of properly working intuition would be a soldier falling to the ground before
+hearing the sound of a bullet, a bike rider doing the right moves without understanding
+how bikes work, a chess player “seeing” the right move instantly, or a mathematician
+recognizing a familiar formula within a heap of mathematical symbols.
+
+Examples of intuitions which don’t work as expected would be a former soldier falling
+down before hearing a firework, a ski rider trying to ride a snowboard as if it were a
+pair of skis, a person lending money to a fraudster because he looks “trustworthy”, or a
+casino player “seeing” a pattern in winning roulette bets.
+
+Intuition feels like magic, but it really isn’t. The soldier has learned to recognize the
+sounds of different types of bullets after having heard a lot of them. The whole process
+goes unconsciously, so he doesn’t even realize what’s happening until he’s lying down in
+the dirt and the bullet has passed over him. After him having returned home, the learned
+intuitive behavior remains, even if it’s not useful anymore. It takes a lot of effort to
+learn to ride a bike (or ski), and it similarly takes a lot of effort to learn to play
+chess. Whoever didn’t do the work, wouldn’t have the intuition. The more you play chess,
+the better would be your “magical” skills of guessing the right move. The more you study
+mathematics, the more hidden connections you’d start to “see” which lay people have never
+been aware of.
+
+We still don’t fully understand how intuition works, and I would actually guess that a
+range of very different underlying brain mechanisms could be responsible for the
+behaviors mentioned above. There are some common traits though. Intuitive processing is
+unconscious. It’s automatic, in the sense that we are not actively aware of the exact
+“rules” employed by it. We learn riding a bike by trying to make different random
+movements, and sticking with the successful ones. We know that this process results in
+some kind of an “algorithm” for riding the bike, encoded somewhere inside our head.
+However, most of us wouldn’t be able to write this “algorithm” down. In this sense, we
+don’t really “understand” what we are doing.
+
+The danger of intuition is that it’s not always correct. And since we don’t have any real
+“understanding” of what it’s actually doing, we can’t really tell apart whether its
+predictions are right or wrong. This leads to mistakes like falsely believing that some
+person is “trustworthy” when they actually are not. Our ability to guess people’s
+intentions does improve with experience, but not every one of us has had the right amount
+of such experience for every possible situation, and that’s what fraudsters take
+advantage of. And, of course, casino slot machines are not predictable, but that’s not
+what our intuition would expect. Its only purpose is to recognize the previously learned
+patterns, even when there’s noting out there to be looking for.
+
+That’s why intuition alone is not enough. It’s important, and it _is_ responsible for
+doing most of the work, but in order to be truly successful we also need something else.
+
+![intuition](images/04_intuition.png)\
+Fig. 4. Human intuition is pure magic.
 
 \
 \
-[![CC0 1.0][CС0]](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC BY 4.0][CC-BY-banner]][CC-BY]\
+© Jan Grudo, 2025.\
+Distributed freely under the terms of [Creative Commons Attribution][CC-BY] license.
 
-[CС0]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
-(No Copyright \(Public Domain\))
+[CC-BY-banner]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg
+
+[CC-BY]: https://creativecommons.org/licenses/by/4.0/
+(Creative Commons Attribution 4.0 International)

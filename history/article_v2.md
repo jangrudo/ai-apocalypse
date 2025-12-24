@@ -1,6 +1,16 @@
-﻿[This article is also available in “popular science” form.][README.md]
+﻿Version history:\
+v1.0: [Original popular science text][v1] (English, [Polish][v1_pl])\
+v2.2: Re-write in scientific style (_this article_, English)\
+v3.0: [Extended popular science text][v3] (English)
 
-[README.md]: https://github.com/jangrudo/ai-apocalypse
+[v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1.md
+[v1_pl]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1_pl.md
+[v2]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.md
+[v3]: https://github.com/jangrudo/ai-apocalypse
+
+[Questions and comments](https://github.com/jangrudo/ai-apocalypse/discussions)
+
+---
 
 AI turns human culture from friend to enemy
 ===========================================

@@ -1,16 +1,19 @@
-﻿To jest oryginalna „popularnonaukowa” wersja artykułu.\
-[Szkic odpowiedniej pracy naukowej można znaleźć tu.][article.md]
+﻿Historia wersji:\
+v1.0: Oryginalny popularno-naukowy tekst (_ten artykuł_, polski, [angielski][v1])\
+v2.2: [Przepisanie w stylu naukowym][v2] (angielski)\
+v3.0: [Rozszerzony popularno-naukowy tekst][v3] (angielski)
 
-[article.md]: https://github.com/jangrudo/ai-apocalypse/blob/main/article.md
+[v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1.md
+[v1_pl]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v1_pl.md
+[v2]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/article_v2.md
+[v3]: https://github.com/jangrudo/ai-apocalypse
 
 [Pytania i komentarze](https://github.com/jangrudo/ai-apocalypse/discussions)
 
+---
+
 Apokalipsa AI: ewolucja wiedzy i nieunikniony upadek ludzkości
 ==============================================================
-
-[Oryginalna wersja w języku angielskim][README.md]
-
-[README.md]: https://github.com/jangrudo/ai-apocalypse
 
 Życie sprowadza się do samoodtwarzania jednostek informacji. Od dawnych czasów, co
 najmniej dwie odmienne formy życia współistniały ze sobą na planecie Ziemia. Jedna z nich
@@ -472,7 +475,8 @@ jesteśmy śmiertelnikami, wiedzieliśmy o tym od zawsze.
 
 \
 \
-[![CC0 1.0][CС0]](https://creativecommons.org/publicdomain/zero/1.0/deed.pl)
+[![CC0 1.0][CС0]](https://creativecommons.org/publicdomain/zero/1.0/deed.pl)\
+Narzędzia AI nie były wykorzystywane podczas pracy nad tym artykułem.
 
 [CС0]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
 (Brak praw autorskich \(Domena publiczna\))
