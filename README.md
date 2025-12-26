@@ -43,7 +43,7 @@ look wrong or unfamiliar.
 
 **Neural networks**
 
-8. Artificial neural networks are algorithms, written automatically.
+8. [Artificial neural networks are algorithms, written automatically.][chapter08]
 9. Artificial neural networks simulate the mechanism of human intuition.
 10. Artificial neural networks can have broader intuitions than humans.
 11. “Chain of thought” algorithms simulate the basics of human reasoning.
@@ -508,12 +508,13 @@ _Newton had been famously “standing on the shoulders of giants”, and most in
 wouldn’t even be possible without appropriate technology, invented earlier. This happens
 because one human can only do a limited amount of work in their lifetime. On the other
 hand, similar inventions have numerous times been done independently by unrelated people.
-Scientific discovery is a race. It has its winners, but it also has the runners-up.
-Success in innovation requires efficient education, diversity of thought and the exchange
-of ideas between people with different scientific backgrounds. Connections between humans
-are more important than individual human minds, and given an environment with enough
-connections and enough diversity, human knowledge can evolve “by itself”, by simply
-picking right ideas out of “noise”._
+Scientific discovery is a competition. It has its winners, but it also has the
+runners-up — the ones who lost by a small margin. Success in innovation requires
+efficient education, diversity of thought and the exchange of ideas between people with
+different scientific backgrounds. Connections between humans are more important than
+individual human minds, and given an environment with enough connections and enough
+diversity, human knowledge can evolve “by itself”, by simply picking right ideas out of
+“noise”._
 
 We already know that scientists borrow a lot from other scientists. Reusing an idea which
 has already been thoroughly studied and tested by others is simply less work than trying
@@ -578,7 +579,7 @@ combining existing ideas in unexpected ways, and they need a lot of different id
 order to come up with something truly new.
 
 Ethnicity of the humans making the discoveries is not important. Success of individual
-inventors is determined by the culture they grew up with, not the other way around. In
+inventors is determined by the culture they grow up with, not the other way around. In
 this whole process of scientific discovery, it’s ideas who are the main actors, not
 humans. If a human goes away, her idea would survive. If an idea becomes extinct, it
 would have to be invented anew, through a laborious process of combining and merging of
@@ -587,8 +588,126 @@ the more lucky ones which might still remain in existence.
 From the point of view of ideas, humans are merely an “environment” they could be living
 in. Humans are also this “source of noise” which makes the creative process possible.
 Ideas therefore don’t need any single human genius. A single genius wouldn’t be a good
-source of “noise”. Ideas need a great number of very different human minds, connected
-together, all at once.
+enough source of “noise”. Ideas need a great number of very different human minds,
+connected together, all of them at once.
+
+## 8. Artificial neural networks are algorithms, written automatically.
+
+[chapter08]: #8-artificial-neural-networks-are-algorithms-written-automatically
+
+_Not every algorithm is a neural network, but every neural network is an algorithm.
+Artificial neural networks are merely crunching numbers, there’s no “magic” in there.
+True magic comes from the fact that these algorithms are not written by humans. Every
+single step of the algorithm is well known, however the entire picture is overly complex
+to be grasped by human conscious reasoning. These algorithms are also never perfect, by
+design. And every time you try to build one, even for exact same problem, you’d get a
+slightly different version of it. Artificial neural networks were inspired by human
+brain, but the way they actually work deviates significantly from the biological
+original._
+
+In a sense, artificial neural network isn’t really a single algorithm, but rather a broad
+_class_ of algorithms. In other words, it’s an algorithm with a large number of
+parameters. Depending on which parameters you choose, you get a different algorithm. By
+picking one set of parameters you might get an algorithm which is able to tell apart dogs
+from cats. Choose a slightly different set of parameters, and you’d get an algorithm for
+distinguishing a Mercedes Benz from a BMW.
+
+This broad _class_ of algorithms is what they might call a “neural network architecture”.
+A simple architecture might only be able to come up with algorithms capable of telling
+apart two classes of pictures. Like dogs and cats. A more advanced architecture would be
+capable of producing algorithms for classifying the picture simultaneously into 100
+categories. Like 100 different breeds of dogs and cats (with one particular set of
+parameters), or 100 specific models of cars (with a slightly different set of
+parameters). The key objective in designing a neural network architecture is its
+_flexibility_. Which means, the total range of algorithms to be achievable, in theory,
+with this architecture (by picking up suitable sets of parameters), should be as large
+and as diverse as possible.
+
+There can be no such thing as “universal neural network architecture”. Some of them would
+only work with pictures (often of a particular size only). Others would only accept sound
+input, or only work with strings of text. Modern neural networks are actually more
+robust, and can often work with any combination of these. Regardless of its flexibility
+though, the total range of the algorithms implementable with any given architecture is
+always limited. Still, it can be truly, truly large. Modern neural networks can reach
+trillions of individual parameters. I don’t even want to think about how many different
+algorithms it’s possible to implement by picking different combinations of them.
+
+Once we have selected an appropriate architecture, the unknown parameters can be fit
+through a mathematical optimization process. Any algorithm, by definition, should take
+some input (like an image), and produce some output (for example a single number, with
+“0” meaning “dog”, “1” meaning “cat”, and anything in between meaning that the algorithm
+isn’t exactly sure). The fitting of the parameters is done by preparing a large set of
+expected input-output pairs (pictures of dogs and cats along with their correct
+classifications), and trying to find out the parameters which would result in an
+algorithm producing these expected results.
+
+This is not an easy task, I should say. And there’s no perfect way of solving it. Still,
+we do have approximate methods which work remarkably well. It took our best scientists
+more than half a century to come up with these methods, but we do have them now. Once a
+useful idea is discovered, it has high chances of remaining alive, even after its
+creators have long been dead. These methods work by writing down the algorithm to be
+discovered in the form of a mathematical function, differentiable by any of the
+algorithm’s parameters. We then apply this function to the expected input-output pairs,
+and try to minimize the difference, typically with the mathematical method of “gradient
+descent”. In order to implement the gradient descent method, we need to compute the
+function’s derivative by any of its parameters (the so-called “Jacobian matrix”), which
+we do with a special kind of algorithm, specific to neural networks, which is called
+“backpropagation”.
+
+Since this whole method mentioned above is not precise, the result we get is never
+perfect. Which means, we never build the best algorithm ever possible for solving the
+problem we wanted to solve. But we get pretty close. We manage to get pretty amazing
+results, that is. Another important property of this algorithm we get with this whole
+process, is that this algorithm is always slightly different. Even if we repeat the
+entire procedure with exactly the same set of expected input-output pairs, we’d get a
+slightly different algorithm. This happens because these methods mentioned above involve
+some randomness in the process. Our best scientists couldn’t come up with anything better
+than that.
+
+Once our algorithm has been constructed though, it’s perfectly deterministic. (Unless we
+tweak it manually afterwards, which we sometimes do, especially with large language
+models). If we were building an algorithm for telling apart dogs from cats, we would then
+be able to apply this algorithm to any image (of a suitable size), and get the output (a
+single number, in this case) as the result. If everything was done correctly, this
+algorithm would then be able to correctly classify not only the example images we trained
+it on, but also totally unfamiliar pictures of dogs and cats (by producing numbers close
+to 0 for pictures of dogs, numbers close to 1 for pictures of cats, and some other random
+numbers for pictures which are neither cats nor dogs).
+
+Nowhere in this entire process of training and running the resulting algorithm there’s
+anything which might remotely look like magic. These algorithms do nothing else but
+crunching numbers (a lot of them). If we wanted, we could take such an algorithm, and
+write any of its steps down on a sufficiently large sheet of paper. The only problem
+would be that this clearly and unambiguously formulated list of instructions wouldn’t fit
+into our head. It would be more complex than our conscious reasoning could handle. In
+this specific sense, we don’t really understand what artificial neural networks are
+doing.
+
+We know that they should somehow mimic the inner workings of our brain. Curiously, one of
+the reasons scientists built artificial neural networks in the first place, was to better
+understand ourselves. Our nerve cells (the neurons) have modifiable parameters as well.
+These are the strengths of the so-called “synaptic connections” between the neurons. By
+choosing appropriate values for these parameters, it is possible to “tweak” our brain
+circuits to perform different processing tasks. Living neuron cells have direct analogies
+in artificial neural networks. These analogies however are not living cells anymore, but
+merely long vectors of numbers, processed mostly by means of matrix multiplications (with
+a tiny bit of special non-linear functions applied on top of this).
+
+We still don’t fully understand how our biological brain circuits are updating their
+synaptic connections. And if you have a weird feeling that the training methods mentioned
+above — the calculations of derivatives by trillions of parameters, and the gradient
+descent — aren’t what our brain is capable of doing, you are actually right. Our brain
+can’t do these things in this exact fashion. It probably does something similar though.
+And it most likely does this much less efficiently than our digital computers can do with
+all these math functions built into them.
+
+Artificial neural networks were inspired, in part, by the need to understand ourselves.
+Inadvertently, we have created something which works in many aspects differently from its
+original biological inspiration. And in many aspects more efficiently too. Despite all
+that progress though, we are still struggling with understanding ourselves.
+
+![08_no_magic.png](images/08_no_magic.png)\
+Fig. 8. Neural networks are algorithms, written automatically.
 
 \
 \
