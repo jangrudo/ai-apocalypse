@@ -44,7 +44,7 @@ look wrong or unfamiliar.
 **Neural networks**
 
 8. [Artificial neural networks are algorithms, written automatically.][chapter08]
-9. Artificial neural networks simulate the mechanism of human intuition.
+9. [Artificial neural networks simulate the mechanism of human intuition.][chapter09]
 10. Artificial neural networks can have broader intuitions than humans.
 11. “Chain of thought” algorithms simulate the basics of human reasoning.
 
@@ -58,7 +58,7 @@ look wrong or unfamiliar.
 17. When things become more complex, they become harder to understand.
 18. Unlike artificial algorithms, human brains cannot be easily improved.
 19. A skill which isn’t learned, degenerates within a few generations.
-20. People get praised for using AI, but less so for checking the results.
+20. Humans love improving their efficiency at the expense of other humans.
 21. Infectious diseases adapt, so they don’t kill their hosts overly fast.
 22. Coexistence of humans and culture has been mutually beneficial.
 23. Culture has had profound impact on human biology.
@@ -708,6 +708,167 @@ that progress though, we are still struggling with understanding ourselves.
 
 ![08_no_magic.png](images/08_no_magic.png)\
 Fig. 8. Neural networks are algorithms, written automatically.
+
+## 9. Artificial neural networks simulate the mechanism of human intuition.
+
+[chapter09]: #9-artificial-neural-networks-simulate-the-mechanism-of-human-intuition
+
+_Quality of artificial neural networks is limited by the quality of their training data.
+Artificial neural networks are never fully reliable, however their performance improves
+with more training. Once an algorithm has already been discovered by the network, its
+execution is fast, compared to the overall effort which went into the training process.
+All of the above is also typical to human intuition. Similar to human intuition, the
+inner workings of artificial neural networks cannot be understood by humans who are using
+them. Similar to human intuition, some aspects of these inner workings can be deduced by
+careful analysis. Unlike human intuition, artificial neural networks are easily
+cloneable, which makes them essentially immortal._
+
+There can be a few reasons why an artificial neural network might fail to fulfil its
+intended purpose. First of all, as has already been mentioned in the previous chapter,
+the training process of artificial neural networks is inherently randomized. Which means
+that even though the resulting algorithm itself is always deterministic, each time we run
+the training process, we would be getting a slightly different version of the algorithm.
+“Different versions” means different algorithms. Each of them might perform better in
+certain specific situations, and in other situations it might perform worse. Finding an
+ideal solution (a perfect algorithm for every case) has actually never been considered
+possible. It’s always a tradeoff.
+
+Humans have this problem too. Depending on the order in which you studied mathematical
+theorems in school (or in the university), as well as on some other factors like your
+personal predispositions, you would become more familiar with some of the theorems than
+with the others. When solving a real-life mathematical problem, you’d therefore have a
+“preference” for certain paths of thinking over others. Depending on which problem you
+are solving, different preferences like these may improve or hinder your ability to “see”
+the right solution to the problem, thus affecting your performance. Similarly, when
+driving a car, you might develop slightly different “preferences” for using the brakes or
+the steering wheel when handling unexpected or dangerous situations on the road. Neither
+of these “preferences” is perfect: it all depends on the actual situation you will be
+dealing with.
+
+Neural networks can also fail because of not having had enough training. If an algorithm
+has been trained to recognize a range of breeds of dogs, it might have trouble
+recognizing an unfamiliar breed, which has never appeared in the example dataset it has
+been trained on. Just like human intuition, performance of artificial neural networks
+improves with experience.
+
+Yet another reason why a neural network architecture might prove inefficient for a
+particular task, is insufficient number of parameters. An algorithm for telling apart
+dogs from cats is not a simple one, and if you tried to build it with an architecture
+which only had 100 parameters available, you probably wouldn’t be able to. Definitely not
+for all the possible breeds.
+
+The amount of knowledge which can fit into a human’s head is similarly limited. Things
+you were skillful at while studying in the college, would get slowly replaced with other
+skills, more relevant to whatever job you might be currently doing. If you moved to a
+foreign country, and switched to using its local language in your everyday life, you’d
+experience, over time, increased difficulty with speaking your own mother tongue. Some
+skills would remain though. The ones which are universal, and therefore are relevant to
+any domain of knowledge and any job. Such as critical thinking. Critical thinking can be
+trained too. Because of being universal, skills like these are reinforced by every kind
+of activity, even if (like any intuition) they might be difficult to formalize and put
+into words. As one famous saying goes, “education is what remains after everything you’ve
+learned has been forgotten”.
+
+Artificial neural network can exhibit this kind of “forgetting” too. This happens when
+you take a network which has already been trained to solve a particular problem, an try
+to modify it, by training on some extra set of expected input-output pairs. For example,
+when you take a network which is already able to recognize a range of breeds of dogs, and
+train it with examples of some extra, more obscure breeds. Depending on the network’s
+total number of parameters, it might not be able to accommodate all the rules for all the
+required sub-algorithms. It would then become less proficient in some of them, most
+likely prioritizing the breeds of dogs it has been “taught” more recently.
+
+Neural networks would also fail when they are not flexible enough for the particular type
+of problem you are trying to solve. In order for the training process to succeed, there
+must exist, in theory at least, a combination of the parameters resulting in the desired
+algorithm. If such a combination doesn’t exist, no amount of training would help. There
+could be many ways to design a neural network architecture, and they are by no means
+limited to choosing the number of parameters and picking the kind of data the network
+would be dealing with (like images, sound or text). Most of the effort in artificial
+neural network research has in fact been put into designing and tweaking the
+architecture.
+
+Biological neural networks are known to have different architectures too. The most
+important types of neural circuits within a human brain would be the ones employed by
+cerebellum and the neocortex. Neocortex is the huge folded structure which most of us
+would associate with the image of the brain itself. Cerebellum is similarly folded, but
+is much smaller and therefore looks less prominent. It’s located at the lower back of the
+head, and despite its smaller size actually contains a few times more neurons than the
+entire neocortex. The folded nature of both of these “subsystems” comes from the fact
+they are duplications of the same design copied over and over again. In other words, both
+cerebellum and the neocortex consist of a large number of similarly structured “modules”.
+
+The modules of the cerebellum are in fact known to be independent of each other. They
+most famously perform motor tasks, like walking or dancing, but are also known to be
+involved in things like language processing and others. The modules of the neocortex
+have, on the other hand, a lot of connections between them, and are much more poorly
+understood. Different areas of the neocortex are responsible for things like speech
+recognition, speech synthesis, visual processing, planning of complex movements, and also
+various cognitive tasks, including moral judgement. Just like with artificial neural
+networks, flexibility seems to be the key here. At some point in history, biological
+evolution has come up with a single design which was flexible enough to be able to
+perform any of the different tasks mentioned above. And then, the only thing remaining
+was to replicate this same design many times, and then fold the large surface resulting
+from this replication, so that it fits into the limited space of human head.
+
+Similar to human intuition, artificial neural networks are a kind of “fast” thinking. A
+typical neural network performing classification of images would require exactly the same
+number of operations for processing any kind of image. Even though the total amount of
+required computation is impressive, it’s also entirely predictable. And it’s always a
+tiny fraction of time and effort needed for training the network in the first place. This
+is different from a typical human “conscious reasoning” task, like solving a complicated
+mathematical problem, which would require different amount of time depending on the level
+of complexity of the task.
+
+We are still not sure if our artificial networks would be able, in theory, to reproduce
+every kind of human intuition (with appropriate training data). They do, however, achieve
+super-human performance in tasks like recognizing images (including dogs and cats),
+recognizing speech, and also in more complex cognitive activities, like predicting the
+next best move in chess. Artificial neural networks have also been able to solve problems
+which have never been accessible to human minds, like predicting the shape of proteins
+from their DNA code. (This problem, the so-called “protein folding”, has been the subject
+of 2024 Nobel prize in chemistry).
+
+What unites all the different tasks like recognizing dogs and cats (or rabbits, for that
+matter), recognizing spoken words, planning the next move while walking, and coming up
+with the brilliant idea for your next move in chess, is that they can all happen
+unconsciously in humans, and they have all been shown to be achievable by artificial
+neural networks, too.
+
+Curiously, in both cases we get an algorithm which we don’t really understand. We don’t
+understand how our intuitions work because they are unconscious. And we can’t understand
+our artificial neural networks because they are overly complex for our conscious
+reasoning to handle. In both cases though, we can improve our understanding. We may
+deduce the inner workings of our intuition by locking ourselves in a room and “playing”
+with our thoughts while sitting in there, by asking our intuition different questions,
+getting the answers (instantly), and trying to guess what the hidden algorithm behind
+might actually be doing. And we can do the same with artificial neural networks, by
+running the algorithm with carefully designed input data, and trying to deduce the hidden
+rules behind it. In fact, with artificial networks we have much more options for doing
+the research, because, unlike with intuition, we also have direct access to any of the
+internal intermediate states of the algorithm, not only to the input-output pairs.
+
+So far, it looks therefore that artificial neural networks are nothing especially new nor
+dangerous. They are simply artificial intuitions. The ones which many people can have
+instant access to.
+
+The problem with human intuitions is that they are not merely “hidden” (and therefore
+cannot be directly transferred from one human mind into another), but also mortal. Every
+one of us has their own version of the algorithm for telling apart dogs and cats (unless
+we haven’t seen a dog or a cat in our life). Every one of us, however, had to learn this
+algorithm from scratch. That’s why educating a human takes such a long time. We have to
+teach our kids all the algorithms which we adults already have. And the resulting copy is
+by no means guaranteed to be better than original. Quite often it’s actually worse.
+
+It’s so much different with the artificial intuitions though. Artificial neural networks
+can be duplicated effortlessly. We can take a copy of an existing network, try to teach
+it with different teaching methods, and see which of them works better. And if none of
+the methods proves efficient, we can always restore the original state. If a copy
+performs worse than the original, we can simply discard the copy. If it performs better,
+in whatever single aspect, we can keep it. In this sense, artificial neural networks are
+immortal. They never get worse. For any single artificial intuition, we can store its
+entire family tree, to make sure that anything useful which may have ever been invented,
+is never lost.
 
 \
 \
