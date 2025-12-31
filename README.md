@@ -31,15 +31,18 @@ about the sad picture outlined above. The argument is structured in such a way, 
 you could skip the points to which you already agree, and only focus on those which might
 look wrong or unfamiliar.
 
-**Culture and biology**
+**Creativity and evolution**
 
 1. [Creativity requires only two things: a source of noise and a filter.][chapter01]
 2. [Competition is more efficient than central planning.][chapter02]
 3. [Combination of ideas works better than any single great idea alone.][chapter03]
-4. [Intuition is magical, fast and imprecise, and improves with experience.][chapter04]
-5. [Humans operate by a combination of intuition and conscious reasoning.][chapter05]
-6. [Intuition and conscious reasoning improve each other iteratively.][chapter06]
-7. [Inventions depend on earlier inventions, not on humans making them.][chapter07]
+4. [Inventions depend on earlier inventions, not on humans making them.][chapter04]
+
+**Intuition and reason**
+
+5. [Intuition is magical, fast and imprecise, and improves with experience.][chapter05]
+6. [Humans operate by a combination of intuition and conscious reasoning.][chapter06]
+7. [Intuition and conscious reasoning improve each other iteratively.][chapter07]
 
 **Neural networks**
 
@@ -51,12 +54,15 @@ look wrong or unfamiliar.
 **Breaking free**
 
 12. Large language models are capable of storing cultural artifacts.
-13. Internals of neural networks are not easily accessible to human minds.
-14. Different AI models store slightly different versions of human culture.
-15. When an evolving entity is not controlled, it aims at self-replication.
-16. It’s difficult to control something which we don’t understand.
-17. When things become more complex, they become harder to understand.
-18. Unlike artificial algorithms, human brains cannot be easily improved.
+13. Different AI models store slightly different versions of human culture.
+14. When an evolving entity is not controlled, it aims at self-replication.
+15. Internals of neural networks are not easily accessible to human minds.
+16. Unlike artificial algorithms, human brains cannot be easily improved.
+17. It’s difficult to control something which we don’t understand.
+18. When things become more complex, they become harder to understand.
+
+**Slippery slope**
+
 19. A skill which isn’t learned, degenerates within a few generations.
 20. Humans love improving their efficiency at the expense of other humans.
 21. Infectious diseases adapt, so they don’t kill their hosts overly fast.
@@ -306,9 +312,101 @@ is of course “sexual reproduction”. The resulting organism then becomes, aft
 generations, a combination of the better functioning individual parts available out
 there.
 
-## 4. Intuition is magical, fast and imprecise, and improves with experience.
+## 4. Inventions depend on earlier inventions, not on humans making them.
 
-[chapter04]: #4-intuition-is-magical-fast-and-imprecise-and-improves-with-experience
+[chapter04]: #4-inventions-depend-on-earlier-inventions-not-on-humans-making-them
+
+_Newton had been famously “standing on the shoulders of giants”, and most inventions
+wouldn’t even be possible without appropriate technology, invented earlier. This happens
+because one human can only do a limited amount of work in their lifetime. On the other
+hand, similar inventions have numerous times been done independently by unrelated people.
+Scientific discovery is a competition. It has its winners, but it also has the
+runners-up — the ones who lost by a small margin. Success in innovation requires
+efficient education, diversity of thought and the exchange of ideas between people with
+different scientific backgrounds. Connections between humans are more important than
+individual human minds, and given an environment with enough connections and enough
+diversity, human knowledge can evolve “by itself”, by simply picking right ideas out of
+“noise”._
+
+We already know that scientists borrow a lot from other scientists. Reusing an idea which
+has already been thoroughly studied and tested by others is simply less work than trying
+to reinvent the wheel over and over again. If we needed to invent the wheel, we’d have
+less time left for doing something else. Our lifes are inherently limited in time, and
+they can be interrupted at any moment, too. So we have to hurry up. Luckily, if we die,
+other people would be able to continue from where we left off. When a famous inventor
+passes away, it’s a tragedy, but it doesn’t stop the progress of science. It merely slows
+it down.
+
+The list of disputed scientific discoveries is a long one. Establishing the priority of
+one researcher over another often requires a research of its own. If you have invented
+something new, and are preparing it for publication, chances are high that someone else
+is doing exactly the same somewhere else at the same time. We tend to remember people who
+had crossed the finish line first, but often forget about the ones who would’ve been
+second.
+
+Einstein is duly credited for being the first to correctly formulate the theory of
+relativity. He did have his competitors though. If Einstein didn’t exist, the guy to
+finish second (for special relativity at least), would have probably been Henri Poincaré.
+He did almost everything right, and he did it before Einstein. The difference between the
+works on special relativity by Poincaré and Einstein is merely the _interpretation_ of
+the underlying physical reality. With respect to mathematical formulas, priority actually
+goes to Poincaré (together with many other scientists). This difference in the
+formulation of the theory is real, but actually small. It almost feels like a
+“philosophical” one.
+
+The basis of the general theory of relativity (the one which superseded Newtonian theory
+of gravity, an ultimately led to the discovery of black holes) is another seemingly
+“philosophical” idea, which claims that if acceleration and gravity _feel_ the same, it
+probably means that they actually _are_ the same. It’s a remarkably simple idea, even if
+a totally unconventional one. Everything else (the notion that acceleration and gravity
+are both side effects of traveling along a curved path in non-Euclidean space-time)
+follows from this postulate. Einstein was the first to formulate this brilliant basic
+principle. He did, however, struggle with deducing the mathematical concepts following
+from it, and needed help from professional mathematicians in order to finish the job.
+
+Einstein also didn’t invent black holes. He actually tried to prove that they don’t make
+sense. And later in life, he famously disbelieved in random nature of quantum mechanics,
+saying that “God doesn’t play dice”. To our best current understanding, he was wrong.
+Einstein wasn’t pure genius. He was the right man in the right place at the right time.
+Had he been born before the theory of electromagnetism was formulated, he wouldn’t have
+been able to come up with the theory of relativity. Had he been born a few years later,
+it might have already been too late. Without this luck, Einstein might have well remained
+an ordinary patent clerk, little-known to anyone.
+
+We know that inherent intellectual capabilities of people in different cultures are the
+same. Hunter-gatherers from the jungle of Amazon are no less intelligent than traders
+from Wall Street. Deep inside these forests there may be dwelling humans even more
+capable of creating novel theories than Einstein was. They don’t have access to formal
+education and public libraries, and therefore their “scientific intuitions” about modern
+physics are incorrect. They do have vastly superior intuitions about plants and animals
+though.
+
+It has been shown that countries which have greater cognitive diversity, also have higher
+innovation rate. This includes accepting immigrants from other countries which have a
+history of innovation of their own. Even when such immigrants don’t get due credit for
+their random contributions, their influence can be clearly traced in statistics like the
+frequency of filed patents. This happens because the number of ideas which are traceable
+to their original authors is actually much smaller than the total number of ideas which
+are genuinely important for the discovery process to occur. Inventions are done by
+combining existing ideas in unexpected ways, and they need a lot of different ideas in
+order to come up with something truly new.
+
+Ethnicity of the humans making the discoveries is not important. Success of individual
+inventors is determined by the culture they grow up with, not the other way around. In
+this whole process of scientific discovery, it’s ideas who are the main actors, not
+humans. If a human goes away, her idea would survive. If an idea becomes extinct, it
+would have to be invented anew, through a laborious process of combining and merging of
+the more lucky ones which might still remain in existence.
+
+From the point of view of ideas, humans are merely an “environment” they could be living
+in. Humans are also this “source of noise” which makes the creative process possible.
+Ideas therefore don’t need any single human genius. A single genius wouldn’t be a good
+enough source of “noise”. Ideas need a great number of very different human minds,
+connected together, all of them at once.
+
+## 5. Intuition is magical, fast and imprecise, and improves with experience.
+
+[chapter05]: #5-intuition-is-magical-fast-and-imprecise-and-improves-with-experience
 
 _I’ve learned this from the book “Thinking, Fast and Slow” by Daniel Kahneman and Amos
 Tversky, although similar ideas had probably been expressed long before. Intuition is
@@ -366,9 +464,9 @@ doing most of the work, but in order to be truly successful we also need somethi
 ![04_intuition.png](images/04_intuition.png)\
 Fig. 4. Human intuition is pure magic.
 
-## 5. Humans operate by a combination of intuition and conscious reasoning.
+## 6. Humans operate by a combination of intuition and conscious reasoning.
 
-[chapter05]: #5-humans-operate-by-a-combination-of-intuition-and-conscious-reasoning
+[chapter06]: #6-humans-operate-by-a-combination-of-intuition-and-conscious-reasoning
 
 _I similarly borrow this idea from “Thinking, Fast and Slow”, although it’s not limited
 to this particular book. Human reasoning can roughly be separated into two systems. First
@@ -438,9 +536,9 @@ verification, this “slow thinking” process seems to be critical for our intu
 develop in the first place. Because intuitions don’t appear out of thin air, they are
 learned though a laborious process of trial and error.
 
-## 6. Intuition and conscious reasoning improve each other iteratively.
+## 7. Intuition and conscious reasoning improve each other iteratively.
 
-[chapter06]: #6-intuition-and-conscious-reasoning-improve-each-other-iteratively
+[chapter07]: #7-intuition-and-conscious-reasoning-improve-each-other-iteratively
 
 _Conscious reasoning cannot work alone, without intuition, because it’s very slow, and
 besides can only focus on one thing at a time. Good scientific intuition is therefore
@@ -482,7 +580,7 @@ way of doing science. But not the only one. When we study mathematics in school,
 by learning primitive arithmetic. After we’ve got intuitive understanding of arithmetic,
 we learn algebra. Having reached intuitive understanding of some of algebra, we may start
 learning calculus. It wouldn’t be possible to understand how derivative functions and
-integrals work if the basic operations of addition and multiplication don’t already look
+integrals work if the basic operations of addition and multiplication didn’t already look
 familiar and obvious enough. We can use our primitive intuitions to solve simple
 problems, learn new intuitions by solving them, then use these enhanced intuitions to
 solve more complicated problems, and so on. It’s a positive feedback loop: the better is
@@ -499,97 +597,6 @@ would be that our intuitions are actually updated during sleep. Which is why sol
 complex problem might require “sleeping” with it a few times (all while actively working
 on the problem throughout the day). This may be a correct intuition, or a wrong one. In
 any case, it’s a sound foundation for further research.
-
-## 7. Inventions depend on earlier inventions, not on humans making them.
-
-[chapter07]: #7-inventions-depend-on-earlier-inventions-not-on-humans-making-them
-
-_Newton had been famously “standing on the shoulders of giants”, and most inventions
-wouldn’t even be possible without appropriate technology, invented earlier. This happens
-because one human can only do a limited amount of work in their lifetime. On the other
-hand, similar inventions have numerous times been done independently by unrelated people.
-Scientific discovery is a competition. It has its winners, but it also has the
-runners-up — the ones who lost by a small margin. Success in innovation requires
-efficient education, diversity of thought and the exchange of ideas between people with
-different scientific backgrounds. Connections between humans are more important than
-individual human minds, and given an environment with enough connections and enough
-diversity, human knowledge can evolve “by itself”, by simply picking right ideas out of
-“noise”._
-
-We already know that scientists borrow a lot from other scientists. Reusing an idea which
-has already been thoroughly studied and tested by others is simply less work than trying
-to reinvent the wheel over and over again. If we needed to invent the wheel, we’d have
-less time left for doing something else. Our lifes are inherently limited in time, and
-they can be interrupted at any moment, too. So we have to hurry up. Luckily, if we die,
-other people would be able to continue from where we left off. When a famous inventor
-passes away, it’s a tragedy, but it doesn’t stop the progress of science. It merely slows
-it down.
-
-The list of disputed scientific discoveries is a long one. Establishing the priority of
-one researcher over another often requires a research of its own. If you have invented
-something new, and are preparing it for publication, chances are high that someone else
-is doing exactly the same somewhere else at the same time. We tend to remember people who
-had crossed the finish line first, but often forget about the ones who would’ve been
-second.
-
-Einstein is duly credited for being the first to correctly formulate the theory of
-relativity. He did have his competitors though. If Einstein didn’t exist, the guy to
-finish second (for special relativity at least), would have probably been Henri Poincaré.
-He did almost everything right, and he did it before Einstein. The difference between the
-works on special relativity by Poincaré and Einstein is merely the _interpretation_ of
-the underlying physical reality. With respect to mathematical formulas, priority actually
-goes to Poincaré (together with many other scientists). This difference in the
-formulation of the theory is real, but actually small. It almost feels like a
-“philosophical” one.
-
-The basis of the general theory of relativity (the one which superseded Newtonian theory
-of gravity, an ultimately led to the discovery of black holes) is another seemingly
-“philosophical” idea, which claims that if acceleration and gravity _feel_ the same, it
-probably means that they actually _are_ the same. It’s a remarkably simple idea, even if
-a totally unconventional one. Everything else (the notion that acceleration and gravity
-are both side effects of traveling along a curved path in non-Euclidean space-time)
-follows from this postulate. Einstein was the first to formulate this brilliant basic
-principle. He did, however, struggle with deducing the mathematical concepts following
-from it, and needed help from professional mathematicians in order to finish the job.
-
-Einstein also didn’t invent black holes. He actually tried to prove that they don’t make
-sense. And later in life, he famously disbelieved in random nature of quantum mechanics,
-saying that “God doesn’t play dice”. To our best current understanding, he was wrong.
-Einstein wasn’t pure genius. He was the right man in the right place at the right time.
-Had he been born before the theory of electromagnetism was formulated, he wouldn’t be
-able to come up with the theory of relativity. Had he been born a few years later, it
-might have already been too late. Without this luck, Einstein might have well remained an
-ordinary patent clerk, little-known to anyone.
-
-We know that inherent intellectual capabilities of people in different cultures are the
-same. Hunter-gatherers from the jungle of Amazon are no less intelligent than traders
-from Wall Street. Deep inside these forests there may be dwelling humans even more
-capable of creating novel theories than Einstein was. They don’t have access to formal
-education and public libraries, and therefore their intuitions about modern physics are
-incorrect. They do have vastly superior intuitions about plants and animals though.
-
-It has been shown that countries which have greater cognitive diversity, also have higher
-innovation rate. This includes accepting immigrants from other countries which have a
-history of innovation of their own. Even when such immigrants don’t get due credit for
-their random contributions, their influence can be clearly traced in statistics like the
-frequency of filed patents. This happens because the number of ideas which are traceable
-to their original authors is actually much smaller than the total number of ideas which
-are genuinely important for the discovery process to occur. Inventions are done by
-combining existing ideas in unexpected ways, and they need a lot of different ideas in
-order to come up with something truly new.
-
-Ethnicity of the humans making the discoveries is not important. Success of individual
-inventors is determined by the culture they grow up with, not the other way around. In
-this whole process of scientific discovery, it’s ideas who are the main actors, not
-humans. If a human goes away, her idea would survive. If an idea becomes extinct, it
-would have to be invented anew, through a laborious process of combining and merging of
-the more lucky ones which might still remain in existence.
-
-From the point of view of ideas, humans are merely an “environment” they could be living
-in. Humans are also this “source of noise” which makes the creative process possible.
-Ideas therefore don’t need any single human genius. A single genius wouldn’t be a good
-enough source of “noise”. Ideas need a great number of very different human minds,
-connected together, all of them at once.
 
 ## 8. Artificial neural networks are algorithms, written automatically.
 
@@ -879,7 +886,7 @@ brains. Convolutional neural networks use “cloned” copies of the same neuron
 remote areas of the same image simultaneously (a task which animal brains can only
 perform sequentially). Transformer architecture similarly employs massive copying of its
 neurons. It collects data from many “cloned” neurons simultaneously, and compares
-“cloned” neurons to each other pairwise. This is part of the so-called “attention
+“cloned” neurons to each other pairwise. The latter is part of the so-called “attention
 mechanism”, which doesn’t have analogies in animal brains. Overall, such “tricks” allow
 artificial networks to employ fast “intuitive” processing in some tasks (including
 language processing), which human brains can’t handle without relying on complex
