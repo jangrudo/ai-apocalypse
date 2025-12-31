@@ -45,7 +45,7 @@ look wrong or unfamiliar.
 
 8. [Artificial neural networks are algorithms, written automatically.][chapter08]
 9. [Artificial neural networks simulate the mechanism of human intuition.][chapter09]
-10. Artificial neural networks can have broader intuitions than humans.
+10. [Artificial neural networks can have broader intuitions than humans.][chapter10]
 11. “Chain of thought” algorithms simulate the basics of human reasoning.
 
 **Breaking free**
@@ -706,8 +706,8 @@ Inadvertently, we have created something which works in many aspects differently
 original biological inspiration. And in many aspects more efficiently too. Despite all
 that progress though, we are still struggling with understanding ourselves.
 
-![08_no_magic.png](images/08_no_magic.png)\
-Fig. 8. Neural networks are algorithms, written automatically.
+![06_no_magic.png](images/06_no_magic.png)\
+Fig. 6. Neural networks are algorithms, written automatically.
 
 ## 9. Artificial neural networks simulate the mechanism of human intuition.
 
@@ -869,6 +869,238 @@ in whatever single aspect, we can keep it. In this sense, artificial neural netw
 immortal. They never get worse. For any single artificial intuition, we can store its
 entire family tree, to make sure that anything useful which may have ever been invented,
 is never lost.
+
+## 10. Artificial neural networks can have broader intuitions than humans.
+
+[chapter10]: #10-artificial-neural-networks-can-have-broader-intuitions-than-humans
+
+_Artificial neural networks can rely on “tricks” which are not accessible to biological
+brains. Convolutional neural networks use “cloned” copies of the same neuron to process
+remote areas of the same image simultaneously (a task which animal brains can only
+perform sequentially). Transformer architecture similarly employs massive copying of its
+neurons. It collects data from many “cloned” neurons simultaneously, and compares
+“cloned” neurons to each other pairwise. This is part of the so-called “attention
+mechanism”, which doesn’t have analogies in animal brains. Overall, such “tricks” allow
+artificial networks to employ fast “intuitive” processing in some tasks (including
+language processing), which human brains can’t handle without relying on complex
+mechanisms like memory and conscious reasoning._
+
+Neural networks typically process input data in stages (also known as “layers”). In
+visual processing tasks (like telling apart dogs from cats), the first of such stages
+would usually detect so-called “edges”, or abrupt changes in color or brightness. This
+stage would calculate directions in which different colors change around every point
+within the picture, along with the intensity of such changes. The second layer would take
+the “edge” information calculated by the first stage as its input, and by comparing the
+patterns of neighboring “edges” should ideally be able to detect textures, like grass,
+woven fabric, foam or sand. Later processing stages would detect objects of ever
+increasing size and complexity, starting from simple shapes like tennis balls, bricks,
+eyes and noses, and gradually leading to the recognition of faces, muzzles, ears and
+tails. And finally, by comparing the types of detected muzzles and tails against their
+expected values, the network should be able to make its ultimate judgement about whether
+the picture represents a dog, or a cat.
+
+Quite early in the history of artificial intelligence (in the 1980s at least), with the
+advent of the so-called “convolutional neural networks”, it had been noticed that the
+desirable detection rules, at every processing stage, should’t depend on the location
+within the image where the processing occurs. In other words, the rules for detecting the
+grass texture must be the same everywhere, be it in the lower left corner of the picture,
+the upper right one, or at the pictures’s very center. What it means, is that it would be
+totally sufficient to only construct the sub-algorithm for grass detection once, and
+reuse it everywhere across the image’s entire visual field. The same would, of course,
+apply to all other sub-algorithms, like those detecting whiskers or different styles of
+fur.
+
+Our final algorithm (the one able to detect dogs and cats) would then contain only one
+single module (set of rules) for every processing stage: one for detecting the “edges”,
+another one for textures, and so on. At every stage, we would apply this same set of
+rules to every possible area within the picture. Or, to say the same slightly
+differently, we’d have the same module “cloned” multiple times, with all the “cloned”
+copies doing the processing simultaneously, by applying identical algorithm steps to
+different input data.
+
+Doing something like this is a no-brainer when you have access to a modern multi-core
+digital computer (or a graphics card). However, biological neural networks within our
+brains don’t really work in such a way. Our brain performs computations with the help of
+living cells (neurons), and every such living cell is unique. If we wanted to make a
+“copy” of some “module” within our brain, it would have to be a physical copy (a bunch of
+similarly connected neurons, placed somewhere else within the brain). If we wanted such
+sister “modules” to do the processing identically, we would have to make sure that any of
+their internal connections are indeed the same. And achieving such a level of
+synchronization between physically separated areas within a living brain is not an easy
+task. Especially if you needed to tweak these connections once in a while, in order to
+adapt to new experiences (like the discovery of an entirely new breed of dogs).
+
+Therefore any serious visual processing within our brain doesn’t happen in parallel. In
+fact, our “cameras” (the eyes) don’t even have enough hardware resolution for doing so.
+Most of our light receptors are limited to a tiny area at the very center of our visual
+field. We can’t see much outside of this central spot (except for trivial processing,
+most notably motion detection, or noticing sudden changes in color or brightness). If
+something  unusual is detected in this peripheral area, we’d have to move our eyes, and
+let this highly sensitive central spot examine more carefully, what exactly it was.
+Whenever we need to make sense of a complicated picture we’ve never seen before (like a
+painting in a museum), our eyes would have to _scan_ it. Moving the eyes isn’t trivial,
+it requires precise coordination between a bunch of different muscles. Our brain has to
+plan for such movements in advance. And it has to decide which areas should be scanned
+first, too. Most of this planning is unconscious though, so we are rarely aware of it
+actually happening.
+
+Computer vision doesn’t look like this. Duplicating an existing software module many
+times is easy and cheap (we would only need to allocate memory for more data, the
+algorithm itself can be shared). Besides, this allows to bypass all the complex planning
+and motor coordination steps. Automated surveillance cameras have therefore perfectly
+acute vision across their entire visual field, and they process all the different areas
+of it simultaneously, in parallel. If you happened to watch “Squid game” (a Korean drama
+series), it has this famous scene with a huge robotic doll monitoring a crowd of people.
+This doll had its eyes moving while doing so, and it was totally unrealistic. Real robots
+don’t move their eyes. They are able to capture the entire scene, with its every minute
+detail, in a single grasp.
+
+Thanks to the parallel processing, it would take such a system exactly the same time to
+detect all the dogs and cats present on a given picture, along with their breeds, as it
+would have taken it to classify any single dog or cat alone. And with this processing
+being fast (and also actually imprecise), it should therefore still be considered a kind
+of “intuitive” thinking (similar to detecting a single dog or cat). It’s a massively
+parallel intuition though. Something which we humans are not capable of doing.
+
+![07_convolution.png](images/07_convolution.png)\
+Fig. 7. Convolutional networks involve a lot of cloning.
+
+One problem with convolutional neural networks is that they would typically only process
+data locally. We detect textures by analyzing neighboring “edges”, discover small objects
+(like an eye) by correlating a bunch of adjacent textures, and make sense of larger
+objects (like a face) by combining a few simpler objects located nearby (like eyes, nose
+and ears). This often results in a pyramid-like structure of the network architecture,
+with deeper layers being responsible for detection of objects which are larger in size.
+Such local-only processing doesn’t work well though, when the picture contains a few
+related smaller objects, which are separated in space, and therefore don’t constitute a
+single bigger object. For example, a pair of humans sitting in opposite corners of a room
+(or a pair of dogs or cats, for that matter). Depending on how these humans look at each
+other (and whether they do it at all), the overall meaning of such a picture might be
+very different in fact.
+
+Non-local processing is even more crucial when dealing with text (or sound). An example
+would be a character introduced in one chapter of a book, which in later chapters is only
+referenced by their name. In order to make sense of these later chapters, the reader
+would have to correlate the name with the description made elsewhere.
+
+There have been a lot of ways to achieve such non-locality, however we would focus here
+on the single most famous and important one. It’s called the Transformer architecture,
+and it was invented in 2017, by a group of people with remarkably diverse cultural
+backgrounds (coming originally from a range of countries including former East Germany,
+India, United States, Poland and Ukraine). The name itself doesn’t mean a lot; it came,
+among other things, from one of the authors’ passion for transformer robot toys as a kid.
+
+Similar to convolutional architectures described above, Transformer neural networks
+consist of a bunch of layers (or processing stages, if you wish). Each layer would
+correspond to a single “algorithm module” (a set of rules, specific to this particular
+layer, to be discovered during the training process). Transformers also similarly involve
+a lot of “cloning”. They would typically split input data into a long sequence of basic
+elements (so-called “tokens”), and a separate “copy” of each module would then be
+instantiated for every input “token”. Just like before, all these “cloned” modules would
+work together, simultaneously, at every processing stage.
+
+Transformer architecture is amazingly flexible. It can do everything what “classical”
+neural networks (including those described above) were already capable of doing, and it
+can do much more. Thanks to this flexibility, it can also work with different types of
+input data. Its input “tokens” could be pieces of text (like letters, combinations of
+letters or entire words). But they could equally well be small pieces of a picture. Or
+sound samples. Transformer architecture can handle any of these (with appropriate
+training). And it can handle a combination of these, too.
+
+The reason behind this flexibility is the way in which Transformers manage to connect
+their neighboring processing stages with each other. First of all, any of the “cloned”
+modules at a given processing stage can collect data from any of the modules from the
+previous stage (a limited number of them, that is). Second, the algorithm for choosing
+the modules to collect the data from is itself _parameterized_ (and independently so for
+each layer). Which means that these algorithms for picking the connections are discovered
+automatically, during the training process. Some layers may thus “choose” to collect data
+locally, just like convolutional networks do. Others might end up finding similar objects
+located far away. The total list of opportunities is actually quite large. When the
+training is complete, the final algorithm can thus achieve a highly specialized
+connection pattern for every processing stage, “handcrafted” for solving the specific
+problem it has been trained on. None of the network’s connections are hard-coded in
+advance.
+
+Curiously, this entire method which allows Transformers to connect their layers with each
+other in such a flexible way, is actually entirely non-biological, in the sense that it
+never occurs in living animal brains. The official name for it is “attention mechanism”,
+however it has little (if anything) in common with how actual human attention really
+works.
+
+“Attention mechanism” creates a connection by testing all the candidates (essentially,
+all the possible module pairs), and only picking the ones which better satisfy some
+required criteria (which are themselves defined by the tunable parameters, discoverable
+through training). None of biological brains have _ever_ been able to do something like
+this. First of all, living brains don’t have “cloned” neural circuits in the first place
+(because of these synchronization issues). Second, this test for estimating the candidate
+connection has to be run on some “neuronal” hardware as well, and it has to be run for
+every _pair_ of the “cloned” modules, each time with different data. Living brains can’t
+re-wire their connections at such a speed, and they don’t have enough space to duplicate
+the test circuit itself _that many_ times.
+
+“Attention mechanism” is a purely artificial construct. It’s also the reason why most
+modern AI models can only work with “contexts” of limited size. “Context” means the total
+number of input tokens, and it’s limited, because doing the computation for every _pair_
+of modules (each of them corresponding to a different input “token”) means that the
+processing time is proportional not to the size of the input (i. e. the total number of
+tokens), as it would typically be for “classical” neural networks, but rather to the
+_square_ of this total count. Which means this computational cost increases very fast
+with every extra token.
+
+And still, I would classify Transformers as examples of “fast” thinking. Once the
+training of our Transformer neural network is finished, its processing time is entirely
+predictable. Given the number of input tokens, we can always tell exactly how long it
+would take to produce the output. The resulting algorithm is always a predefined sequence
+of steps, and every processing stage is only run once. There’s no feedback involved in
+this process, no loops. Due to this lack of feedback, the output (as it usually happens
+with neural networks) isn’t guaranteed to be perfect. Even though the quality of our
+Transformer-based algorithm would improve with more training, we can never be sure it
+would run correctly in every possible case. Whatever such an algorithm may generate as
+its output, is not a result of careful and balanced thinking. It’s an _intuition_.
+
+It’s a truly powerful intuition though. We humans cannot really process speech, including
+written text, unconsciously (except for individual words or maybe trivial phrases).
+Whenever we need to make sense of a radio announcement, even a short one, we have to
+dedicate our entire conscious reasoning to this activity. Transformers, on the other
+hand, are able to make sense of much longer texts, and they do this by grasping this
+entire long text in its entirety, all at once.
+
+Transformers can also do without the help of external memory. They do this because they
+run on modern digital computers, which have tons of random-access memory already built
+in, and they use it a lot. By making all these innumerable “cloned” copies of the same
+algorithm module, and letting every such copy run with different data, Transformers
+essentially get access to all these data all at once. Such data, calculated and stored
+for every token, would contain tons of information, including whether the text around
+this token represents a description of a person, and if so, what their name is, and what
+this description has said so far about their character traits. When noticing a name
+elsewhere, an appropriate module (the one responsible for correlating names with
+descriptions) would search all the available data, and pick the token whose data entry
+would contain the most complete description of a person with the given name. It would
+then copy part of this information into the data entry associated with the token
+mentioning the name later in the book. This way, the name becomes not merely a name, but
+a name with a story attached to it.
+
+Recalling a person’s character by their name wouldn’t be possible without some kind of
+memory. Not having random-access memory available, our human brains had to rely on
+something different (and probably much less efficient). We still don’t fully understand
+how human (or animal) memory really works. We know that there are many very different
+mechanisms and different neural networks involved into this process, and that we actually
+have a lot of different types of memory available (like short-term, working and
+long-term). We also know that our memory has limited capacity, and that it isn’t always
+reliable.
+
+Artificial neural networks may look very simple compared to the enormous complexity of a
+living human brain. However, they can cut corners too. By being able to run identical
+algorithm modules on different data, and having instant access to all these data,
+artificial networks can skip a lot of truly complicated activities which humans and other
+animals can’t live without. Convolutional networks can see the entire picture, all at
+once, without ever moving the camera. And Transformers can go by pure intuition in some
+tasks, like processing of language, which humans cannot handle without relying heavily on
+different kinds of memory, as well as on the very marvel of human cognitive ability,
+which is conscious reasoning.
+
+![08_transformers.png](images/08_transformers.png)\
+Fig. 8. Transformers employ massive cloning too.
 
 \
 \
