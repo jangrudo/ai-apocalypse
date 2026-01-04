@@ -31,6 +31,9 @@ about the sad picture outlined above. The argument is structured in such a way, 
 you could skip the points to which you already agree, and only focus on those which might
 look wrong or unfamiliar.
 
+_(This article is a work in progress. Chapters with a link have already been written;
+others are not available yet)._
+
 **Creativity and evolution**
 
 1. [Creativity requires only two things: a source of noise and a filter.][chapter01]
@@ -49,7 +52,7 @@ look wrong or unfamiliar.
 8. [Artificial neural networks are algorithms, written automatically.][chapter08]
 9. [Artificial neural networks simulate the mechanism of human intuition.][chapter09]
 10. [Artificial neural networks can have broader intuitions than humans.][chapter10]
-11. “Chain of thought” algorithms simulate the basics of human reasoning.
+11. [“Chain of thought” models simulate the basics of conscious reasoning.][chapter11]
 
 **Breaking free**
 
@@ -1059,9 +1062,9 @@ training of our Transformer neural network is finished, its processing time is e
 predictable. Given the number of input tokens, we can always tell exactly how long it
 would take to produce the output. The resulting algorithm is always a predefined sequence
 of steps, and every processing stage is only run once. There’s no feedback involved in
-this process, no loops. Due to this lack of feedback, the output (as it usually happens
-with neural networks) isn’t guaranteed to be perfect. Even though the quality of our
-Transformer-based algorithm would improve with more training, we can never be sure it
+this process, no dead ends. Due to this lack of feedback, the output (as it usually
+happens with neural networks) isn’t guaranteed to be perfect. Even though the quality of
+our Transformer-based algorithm would improve with more training, we can never be sure it
 would run correctly in every possible case. Whatever such an algorithm may generate as
 its output, is not a result of careful and balanced thinking. It’s an _intuition_.
 
@@ -1073,9 +1076,9 @@ hand, are able to make sense of much longer texts, and they do this by grasping 
 entire long text in its entirety, all at once.
 
 Transformers can also do without the help of external memory. They do this because they
-run on modern digital computers, which have tons of random-access memory already built
-in, and they use it a lot. By making all these innumerable “cloned” copies of the same
-algorithm module, and letting every such copy run with different data, Transformers
+run on modern digital computers, which have huge amounts of random-access memory already
+built in, and they use it a lot. By making all these innumerable “cloned” copies of the
+same algorithm module, and letting every such copy run with different data, Transformers
 essentially get access to all these data all at once. Such data, calculated and stored
 for every token, would contain tons of information, including whether the text around
 this token represents a description of a person, and if so, what their name is, and what
@@ -1109,13 +1112,172 @@ which is conscious reasoning.
 ![08_transformers.png](images/08_transformers.png)\
 Fig. 8. Transformers employ massive cloning too.
 
+## 11. “Chain of thought” models simulate the basics of conscious reasoning.
+
+[chapter11]: #11-chain-of-thought-models-simulate-the-basics-of-conscious-reasoning
+
+_Even though Transformer architecture is impressive, it’s not enough for solving
+complicated problems, and it cannot, by itself, replicate human thinking. Human conscious
+reasoning involves some kinds of feedback and trial and error, and algorithms discovered
+by most neural networks lack either of these. “Chain of thought” models are built on top
+of existing neural networks, and are examples of “slow” thinking. They might not be truly
+universal yet, but do seem to capture the essence of conscious reasoning, and achieve
+astonishing results. One limitation of such models is that their “intuitions” (the
+underlying neural networks) don’t change. Another is that a single intelligent being,
+even the smartest one, isn’t enough to make an invention._
+
+Transformer architecture is the key technology behind modern large language models (also
+known as “LLMs”). Last letter “T” in “ChatGPT” (the first globally successful LLM)
+actually stands for “Transformer”. Key difference between Transformers and their
+predecessors is vastly improved flexibility. They also rely on a few powerful techniques
+(described in the previous chapter), which are only available in digital computers and
+cannot be reproduced in living animal brains. Together, these traits allow Transformers
+to perform some kinds of very complex processing very easily, without relying on
+time-consuming and unpredictable techniques like trial and error.
+
+Transformers, similar to most other neural networks, work more like a pipe. You throw
+some data in, it travels through the pipe, and then some other piece of data comes out.
+The actual travel path might be convoluted, with all these numerous “attention mechanism”
+blocks on the way, but it’s known in advance. The same applies to human intuition. You
+throw a question in (which might as well be some unconscious sensory experience), and you
+get the answer out, within a predictable amount of time. On the other hand, human
+conscious reasoning is more like a labyrinth. It contains a lot of paths, and some of
+them are better than the others. It doesn’t always have a way out, and even if it does,
+you might get stuck in there for an indefinite amount of time. When entering a labyrinth,
+you never know what happens next.
+
+The reason why most artificial neural networks behave more like a single “pipe”, rather
+than a tree of possibilities, might probably be related to the fact that they are
+modelled as mathematical functions, differentiable by every parameter. It looks like all
+these mathematical optimization methods and other algorithms, like backpropagation and
+gradient descent, don’t really work that well when the algorithm being optimized cannot
+be represented as a reasonably straightforward sequence of steps. In order for an
+algorithm to be discoverable by a neural network, it has to be learnable from experience,
+and this fact severely limits the range of available algorithms (and architectures). This
+same requirement (discoverability from experience) might actually explain the limited
+nature of human intuition itself.
+
+Up until as late as middle 2024, I used to believe that simulating human conscious
+reasoning would be a difficult task. Because it’s so much different and more complicated
+than intuition, and also because it’s conscious. We still have no idea what consciousness
+really is, why is it needed in the first place, and how it works. My current intuition
+would be instead that consciousness is somehow related to memory (not to the long-term
+memory which is stored in connections between the neurons and might probably be updated
+during sleep, but to some other kind of memory which we rely upon during the day). It’s a
+totally wild intuition, and I don’t claim it to be true (and I don’t even know how this
+type of memory should be properly called). It might explain though, why not every neural
+activity in our brain is conscious. In my opinion, consciousness has nothing to do with
+intelligence. Most of our intelligence is intuitive, and we are completely unaware of
+what’s happening under the hood.
+
+Leaving intuitive processing aside, conscious reasoning seems to mostly amount to trial
+and error. Trying different approaches until one of them works is what we do when dealing
+with an unfamiliar mathematical problem. That’s what Archimedes did when he looked at
+every object around in search of anything which might be of help for measuring the volume
+of the crown (until he sat into the bath). And intuitions are the shortcuts which help us
+assess whether a given approach would work or not even before trying. Without good
+intuitions, our search would take ages to finish. With intuitions alone, there wouldn’t
+be any search in the first place. Conscious reasoning should also involve comparing the
+results, which our different kinds of intuitions might provide, with each other. In fact,
+it’s known that consciousness only arises when different regions of the brain are working
+simultaneously, and become in some way connected together.
+
+Reading a book also counts as conscious reasoning activity (in humans, at least). Which
+is why you can’t be reading a book and solving a math problem at the same time. It’s not
+clear to me why exactly reading a book should require conscious activity. Maybe that’s
+because it involves memory (and memory recall, in some extreme cases at least, might well
+resemble “trial and error” in humans). Or maybe the task of processing language is so
+complex that it cannot be done without engaging a lot of different independent submodules
+within the brain. In any case, Transformer architecture doesn’t have this limitation.
+Transformer-based neural networks can handle reading a book (and making sense of it) by
+means of “fast thinking” alone. And this brings us to an interesting situation. Which is,
+we tend to hugely overestimate and underestimate true potential of these neural networks
+at the same time.
+
+A typical (“non-thinking”) large language model cannot handle trial and error. And
+without trial and error, it cannot do a lot. It can handle language though. And since we
+humans know intuitively that language processing is “hard”, and we also see that this
+model can do it so effortlessly, we tend to believe it should therefore be omnipotent.
+It’s not. On the other hand, since we’re not aware that this model’s language processing
+is merely “intuitive”, we tend to compare its quality with what we humans can do. And we
+then quickly start to complain about all these inaccuracies and logical errors in the
+model’s “thinking”. What we don’t realize though, is that these models haven’t even
+_started_ to think. And _that’s_ what makes them truly amazing.
+
+Turns out, simulating conscious reasoning in large language models isn’t that difficult
+either. One of the easiest ways of implementing this relies on the fact that large
+language models aren’t truly deterministic. They have a tiny extra step added on top of
+the underlying neural network manually by humans. Which leads to the model giving
+different results every time, even with identical input (and despite of the fact that the
+underlying neural network algorithm itself is in fact perfectly predictable).
+
+This means that if you ask the model to solve the same problem three times, it would
+produce a slightly different output every time. And some of these outputs might be better
+than others. That’s what I call “noise”. And then, having all the outputs already printed
+out, the model might be able to compare them, and decide (“intuitively”) which of the
+generated solutions better suits the original goal. Which is what I call the “filter”.
+And this “filter” is intelligent, I should say. This is what the most primitive
+“chain of thought” language model would look like.
+
+There are also other ways of implementing this. Some of the most successful (and famous)
+neural networks have actually been “hybrid” in design. By which I mean that they consist
+of an “intuitive” neural network core with a “trial and error” algorithm, written
+manually by humans, added on top of it. One example would be AlphaGo, the model which
+overcame humans in the game of Go, popular in East Asia (and considered to be much more
+difficult than Chess). Another example is AlphaGeometry, which is known for its great
+results in mathematics. It looks like combining “intuition” with “trial and error”
+actually works.
+
+Modern “thinking” models, however, prefer not to depend on such “manual” human
+interventions. The goal is to build a system which would be flexible enough to handle
+different types of problems, across a variety of domains. Being a kind of “slow thinking”
+(compared to intuitive “fast thinking”), these models are slow. They require a lot of
+iterations for finishing the work, and their run time (unlike the run time of classical
+“non-thinking” LLMs) is not predictable. They are also known to solve problems which
+classical models have never been able to.
+
+In 2025, a model by Google reached the level of gold medal at International Mathematical
+Olympiad. It didn’t win the first place (there are multiple gold medals awarded), but it
+correctly solved 5 problems out of 6, within official time limit, by only getting plain
+text with mathematical formulas as input, and producing human-readable solutions as
+output, verified by the competition’s official jury. The authors claim that this model
+was based on an “advanced version” of their mainstream thinking model, enriched with a
+lot of specialized training and a range of “novel reinforcement learning techniques”.
+
+International Mathematical Olympiad is not an easy competition. Even though it’s
+conducted among high school students, it really pushes human creative ability to the
+limit. If an algorithm can do _this_, nothing else is impossible. I no longer believe
+conscious reasoning is unique to humans. Digital computers can do it too. It’s a pity
+though that we haven’t learned anything about consciousness in the process.
+
+Now, the question is: if these models are so smart, why haven’t they taken the world over
+already? I have an answer to that. Modern “thinking” models don’t update their intuitions
+while working on a given task. Which is, their parameters are fixed. And they work alone.
+Humans rarely accomplish something significant within a single day. They have to “sleep”
+with the problem a few nights, to make sure that their human intuitions get updated and
+upgraded properly to the level of the task they are trying to finish. Even more
+importantly, humans rarely accomplish anything important in solitude. In order to
+succeed, humans need a _team_ of very diverse human minds working on the same problem
+together. From a random passerby making a random comment which drives your thought in
+unexpected direction, to a close friend spending his time listening to you without really
+understanding what you are talking about, until you yourself finally realize, from his
+reaction, what you were doing wrong. Not everybody on the list gets due credit, but
+everybody is important. A single human alone can do nothing.
+
+![09_labyrinth.png](images/09_labyrinth.png)\
+Fig. 9. Intuition doesn’t involve trial and error.
+
 \
 \
+_To be continued._
+
 [![CC BY 4.0][CC-BY-banner]][CC-BY]\
-© Jan Grudo, 2025.\
+© Jan Grudo, 2025–2026.\
 Distributed freely under the terms of [Creative Commons Attribution][CC-BY] license.
 
 [CC-BY-banner]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg
 
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/
 (Creative Commons Attribution 4.0 International)
+
+No AI tools were used while writing this article.
