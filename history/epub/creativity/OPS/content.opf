@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package unique-identifier="ai-apocalypse" version="2.0" xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata>
+    <dc:title>AI is merely a step in evolution of culture, and humans are the stepping stone</dc:title>
+    <dc:language>en</dc:language>
+    <dc:creator>Jan Grudo</dc:creator>
+    <dc:rights>© Jan Grudo, 2026</dc:rights>
+    <dc:description>AI is deadly to humans exactly because it’s nothing new.</dc:description>
+    <dc:identifier id="ai-apocalypse">https://github.com/jangrudo/ai-apocalypse</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="intro.html" id="intro" media-type="application/xhtml+xml"/>
+    <item href="points.html" id="points" media-type="application/xhtml+xml"/>
+    <item href="chapter01.html" id="chapter01" media-type="application/xhtml+xml"/>
+    <item href="chapter02.html" id="chapter02" media-type="application/xhtml+xml"/>
+    <item href="chapter03.html" id="chapter03" media-type="application/xhtml+xml"/>
+    <item href="chapter04.html" id="chapter04" media-type="application/xhtml+xml"/>
+    <item href="chapter05.html" id="chapter05" media-type="application/xhtml+xml"/>
+    <item href="chapter06.html" id="chapter06" media-type="application/xhtml+xml"/>
+    <item href="chapter07.html" id="chapter07" media-type="application/xhtml+xml"/>
+    <item href="chapter08.html" id="chapter08" media-type="application/xhtml+xml"/>
+    <item href="chapter09.html" id="chapter09" media-type="application/xhtml+xml"/>
+    <item href="chapter10.html" id="chapter10" media-type="application/xhtml+xml"/>
+    <item href="chapter11.html" id="chapter11" media-type="application/xhtml+xml"/>
+    <item href="chapter12.html" id="chapter12" media-type="application/xhtml+xml"/>
+    <item href="chapter13.html" id="chapter13" media-type="application/xhtml+xml"/>
+    <item href="chapter14.html" id="chapter14" media-type="application/xhtml+xml"/>
+    <item href="chapter15.html" id="chapter15" media-type="application/xhtml+xml"/>
+    <item href="chapter16.html" id="chapter16" media-type="application/xhtml+xml"/>
+    <item href="chapter17.html" id="chapter17" media-type="application/xhtml+xml"/>
+    <item href="chapter18.html" id="chapter18" media-type="application/xhtml+xml"/>
+    <item href="chapter19.html" id="chapter19" media-type="application/xhtml+xml"/>
+    <item href="chapter20.html" id="chapter20" media-type="application/xhtml+xml"/>
+    <item href="chapter21.html" id="chapter21" media-type="application/xhtml+xml"/>
+    <item href="chapter22.html" id="chapter22" media-type="application/xhtml+xml"/>
+    <item href="chapter23.html" id="chapter23" media-type="application/xhtml+xml"/>
+    <item href="chapter24.html" id="chapter24" media-type="application/xhtml+xml"/>
+    <item href="chapter25.html" id="chapter25" media-type="application/xhtml+xml"/>
+    <item href="chapter26.html" id="chapter26" media-type="application/xhtml+xml"/>
+    <item href="chapter27.html" id="chapter27" media-type="application/xhtml+xml"/>
+    <item href="chapter28.html" id="chapter28" media-type="application/xhtml+xml"/>
+    <item href="chapter29.html" id="chapter29" media-type="application/xhtml+xml"/>
+    <item href="chapter30.html" id="chapter30" media-type="application/xhtml+xml"/>
+    <item href="chapter31.html" id="chapter31" media-type="application/xhtml+xml"/>
+    <item href="solution.html" id="solution" media-type="application/xhtml+xml"/>
+    <item href="license.html" id="license" media-type="application/xhtml+xml"/>
+    <item href="images/01_creative_process.png" id="01_creative_process.png" media-type="image/png"/>
+    <item href="images/02_simple_life.png" id="02_simple_life.png" media-type="image/png"/>
+    <item href="images/03_advanced_life.png" id="03_advanced_life.png" media-type="image/png"/>
+    <item href="images/04_intuition.png" id="04_intuition.png" media-type="image/png"/>
+    <item href="images/05_conscious_reasoning.png" id="05_conscious_reasoning.png" media-type="image/png"/>
+    <item href="images/06_no_magic.png" id="06_no_magic.png" media-type="image/png"/>
+    <item href="images/07_convolution.png" id="07_convolution.png" media-type="image/png"/>
+    <item href="images/08_transformers.png" id="08_transformers.png" media-type="image/png"/>
+    <item href="images/09_labyrinth.png" id="09_labyrinth.png" media-type="image/png"/>
+    <item href="images/10_matrix.png" id="10_matrix.png" media-type="image/png"/>
+    <item href="images/11_knowledge_transfer.png" id="11_knowledge_transfer.png" media-type="image/png"/>
+    <item href="images/12_choice.png" id="12_choice.png" media-type="image/png"/>
+    <item href="images/13_artificial_culture.png" id="13_artificial_culture.png" media-type="image/png"/>
+    <item href="images/14_safety_line.png" id="14_safety_line.png" media-type="image/png"/>
+    <item href="images/15_progress_bar.png" id="15_progress_bar.png" media-type="image/png"/>
+    <item href="images/license.png" id="license.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="intro"/>
+    <itemref idref="points"/>
+    <itemref idref="chapter01"/>
+    <itemref idref="chapter02"/>
+    <itemref idref="chapter03"/>
+    <itemref idref="chapter04"/>
+    <itemref idref="chapter05"/>
+    <itemref idref="chapter06"/>
+    <itemref idref="chapter07"/>
+    <itemref idref="chapter08"/>
+    <itemref idref="chapter09"/>
+    <itemref idref="chapter10"/>
+    <itemref idref="chapter11"/>
+    <itemref idref="chapter12"/>
+    <itemref idref="chapter13"/>
+    <itemref idref="chapter14"/>
+    <itemref idref="chapter15"/>
+    <itemref idref="chapter16"/>
+    <itemref idref="chapter17"/>
+    <itemref idref="chapter18"/>
+    <itemref idref="chapter19"/>
+    <itemref idref="chapter20"/>
+    <itemref idref="chapter21"/>
+    <itemref idref="chapter22"/>
+    <itemref idref="chapter23"/>
+    <itemref idref="chapter24"/>
+    <itemref idref="chapter25"/>
+    <itemref idref="chapter26"/>
+    <itemref idref="chapter27"/>
+    <itemref idref="chapter28"/>
+    <itemref idref="chapter29"/>
+    <itemref idref="chapter30"/>
+    <itemref idref="chapter31"/>
+    <itemref idref="solution"/>
+    <itemref idref="license"/>
+  </spine>
+</package>

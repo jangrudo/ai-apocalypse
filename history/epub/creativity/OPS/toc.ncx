@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+
+<docTitle>
+<text>AI is merely a step in evolution of culture, and humans are the stepping stone</text>
+</docTitle>
+
+<navMap>
+
+<navPoint id="intro" playOrder="1">
+<navLabel><text>Introduction</text></navLabel>
+<content src="intro.html#title"/>
+</navPoint>
+
+<navPoint id="points" playOrder="2">
+<navLabel><text>Table of contents</text></navLabel>
+<content src="points.html#toc"/>
+</navPoint>
+
+<navPoint id="chapter01" playOrder="3">
+<navLabel><text>1. Creativity requires only two things: a source of noise and a filter.</text></navLabel>
+<content src="chapter01.html#title"/>
+</navPoint>
+
+<navPoint id="chapter02" playOrder="4">
+<navLabel><text>2. Competition is more efficient than central planning.</text></navLabel>
+<content src="chapter02.html#title"/>
+</navPoint>
+
+<navPoint id="chapter03" playOrder="5">
+<navLabel><text>3. Combination of ideas works better than any single great idea alone.</text></navLabel>
+<content src="chapter03.html#title"/>
+</navPoint>
+
+<navPoint id="chapter04" playOrder="6">
+<navLabel><text>4. Inventions depend on earlier inventions, not on humans making them.</text></navLabel>
+<content src="chapter04.html#title"/>
+</navPoint>
+
+<navPoint id="chapter05" playOrder="7">
+<navLabel><text>5. Intuition is magical, fast and imprecise, and improves with experience.</text></navLabel>
+<content src="chapter05.html#title"/>
+</navPoint>
+
+<navPoint id="chapter06" playOrder="8">
+<navLabel><text>6. Humans operate by a combination of intuition and conscious reasoning.</text></navLabel>
+<content src="chapter06.html#title"/>
+</navPoint>
+
+<navPoint id="chapter07" playOrder="9">
+<navLabel><text>7. Intuition and conscious reasoning improve each other iteratively.</text></navLabel>
+<content src="chapter07.html#title"/>
+</navPoint>
+
+<navPoint id="chapter08" playOrder="10">
+<navLabel><text>8. Artificial neural networks are algorithms, written automatically.</text></navLabel>
+<content src="chapter08.html#title"/>
+</navPoint>
+
+<navPoint id="chapter09" playOrder="11">
+<navLabel><text>9. Artificial neural networks simulate the mechanism of human intuition.</text></navLabel>
+<content src="chapter09.html#title"/>
+</navPoint>
+
+<navPoint id="chapter10" playOrder="12">
+<navLabel><text>10. Artificial neural networks can have broader intuitions than humans.</text></navLabel>
+<content src="chapter10.html#title"/>
+</navPoint>
+
+<navPoint id="chapter11" playOrder="13">
+<navLabel><text>11. “Chain of thought” AI models simulate the basics of conscious reasoning.</text></navLabel>
+<content src="chapter11.html#title"/>
+</navPoint>
+
+<navPoint id="chapter12" playOrder="14">
+<navLabel><text>12. Large language models capture the structure of human culture.</text></navLabel>
+<content src="chapter12.html#title"/>
+</navPoint>
+
+<navPoint id="chapter13" playOrder="15">
+<navLabel><text>13. AI models can inherit traits and transfer them between each other.</text></navLabel>
+<content src="chapter13.html#title"/>
+</navPoint>
+
+<navPoint id="chapter14" playOrder="16">
+<navLabel><text>14. When an evolving entity is not controlled, it aims at self-replication.</text></navLabel>
+<content src="chapter14.html#title"/>
+</navPoint>
+
+<navPoint id="chapter15" playOrder="17">
+<navLabel><text>15. Our control over artificial neural networks is far from complete.</text></navLabel>
+<content src="chapter15.html#title"/>
+</navPoint>
+
+<navPoint id="chapter16" playOrder="18">
+<navLabel><text>16. Human culture cannot borrow easily from artificial neural networks.</text></navLabel>
+<content src="chapter16.html#title"/>
+</navPoint>
+
+<navPoint id="chapter17" playOrder="19">
+<navLabel><text>17. Unlike artificial algorithms, human brains cannot be easily improved.</text></navLabel>
+<content src="chapter17.html#title"/>
+</navPoint>
+
+<navPoint id="chapter18" playOrder="20">
+<navLabel><text>18. It’s difficult to control something which we don’t understand.</text></navLabel>
+<content src="chapter18.html#title"/>
+</navPoint>
+
+<navPoint id="chapter19" playOrder="21">
+<navLabel><text>19. When things become more complex, they become harder to understand.</text></navLabel>
+<content src="chapter19.html#title"/>
+</navPoint>
+
+<navPoint id="chapter20" playOrder="22">
+<navLabel><text>20. Skills that aren’t practiced disappear within a few generations.</text></navLabel>
+<content src="chapter20.html#title"/>
+</navPoint>
+
+<navPoint id="chapter21" playOrder="23">
+<navLabel><text>21. Competition between humans has always been the driver of progress.</text></navLabel>
+<content src="chapter21.html#title"/>
+</navPoint>
+
+<navPoint id="chapter22" playOrder="24">
+<navLabel><text>22. Infectious diseases adapt, so they don’t kill their hosts overly fast.</text></navLabel>
+<content src="chapter22.html#title"/>
+</navPoint>
+
+<navPoint id="chapter23" playOrder="25">
+<navLabel><text>23. Human culture is capable of modifying human biology.</text></navLabel>
+<content src="chapter23.html#title"/>
+</navPoint>
+
+<navPoint id="chapter24" playOrder="26">
+<navLabel><text>24. Coexistence of humans and culture has been mutually beneficial.</text></navLabel>
+<content src="chapter24.html#title"/>
+</navPoint>
+
+<navPoint id="chapter25" playOrder="27">
+<navLabel><text>25. Iteration and knowledge sharing between AI models are already possible.</text></navLabel>
+<content src="chapter25.html#title"/>
+</navPoint>
+
+<navPoint id="chapter26" playOrder="28">
+<navLabel><text>26. A single universal algorithm cannot solve every problem.</text></navLabel>
+<content src="chapter26.html#title"/>
+</navPoint>
+
+<navPoint id="chapter27" playOrder="29">
+<navLabel><text>27. After reaching human level, technology usually moves way above.</text></navLabel>
+<content src="chapter27.html#title"/>
+</navPoint>
+
+<navPoint id="chapter28" playOrder="30">
+<navLabel><text>28. Control over intelligent humans is easy because they are humans.</text></navLabel>
+<content src="chapter28.html#title"/>
+</navPoint>
+
+<navPoint id="chapter29" playOrder="31">
+<navLabel><text>29. When people lose value, companies turn into transferable commodities.</text></navLabel>
+<content src="chapter29.html#title"/>
+</navPoint>
+
+<navPoint id="chapter30" playOrder="32">
+<navLabel><text>30. Humans won’t be humans without culture.</text></navLabel>
+<content src="chapter30.html#title"/>
+</navPoint>
+
+<navPoint id="chapter31" playOrder="33">
+<navLabel><text>31. Any AI system which hasn’t been formally proven to be safe, isn’t safe.</text></navLabel>
+<content src="chapter31.html#title"/>
+</navPoint>
+
+<navPoint id="solution" playOrder="34">
+<navLabel><text>* * *</text></navLabel>
+<content src="solution.html#title"/>
+</navPoint>
+
+<navPoint id="license" playOrder="35">
+<navLabel><text>License</text></navLabel>
+<content src="license.html#license"/>
+</navPoint>
+
+</navMap>
+</ncx>

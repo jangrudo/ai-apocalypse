@@ -1,14 +1,16 @@
 ﻿_historia wersji:_\
-1\. “apokalipsa” (ten artykuł): popularno-naukowy, krótki, w oryginale [angielski][v1]\
-2\. [“wiedza”][v2] ([TeX][v2_tex], [PDF][v2_pdf]): naukowy, rozszerzony, angielski\
-3\. [“twórczość”][v3]: popularno-naukowy, szczegółowy, angielski
+1\. „apokalipsa”: [angielski][v1], [polski][v1_pl]: krótki popularny ← **ten artykuł**\
+2\. „wiedza”: [angielski][v2] ([TeX][v2_tex], [PDF][v2_pdf]): rozszerzony naukowy\
+3\. „twórczość”: [angielski][v3_readme] ([EPUB][v3_epub]): szczegłówy popularny
 
 [v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/apocalypse.md
 [v1_pl]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/apocalypse_pl.md
 [v2]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.md
 [v2_tex]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.tex
 [v2_pdf]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.pdf
-[v3]: https://github.com/jangrudo/ai-apocalypse
+[v3]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/creativity.md
+[v3_epub]: https://github.com/jangrudo/ai-apocalypse/raw/refs/heads/main/history/creativity.epub
+[v3_readme]: https://github.com/jangrudo/ai-apocalypse
 
 ---
 

@@ -1,14 +1,16 @@
 ﻿_version history:_\
-1\. [“apocalypse”][v1]: popular science, brief, also translated into [Polish][v1_pl]\
-2\. [“knowledge”][v2] ([TeX][v2_tex], [PDF][v2_pdf]): scientific, extended\
-3\. “creativity” (this article): popular science, detailed
+1\. “apocalypse”: [English][v1], [Polish][v1_pl]: brief popular\
+2\. “knowledge”: [English][v2] ([TeX][v2_tex], [PDF][v2_pdf]): extended scientific\
+3\. “creativity”: [English][v3_readme] ([EPUB][v3_epub]): detailed popular ← **this article**
 
 [v1]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/apocalypse.md
 [v1_pl]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/apocalypse_pl.md
 [v2]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.md
 [v2_tex]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.tex
 [v2_pdf]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/knowledge.pdf
-[v3]: https://github.com/jangrudo/ai-apocalypse
+[v3]: https://github.com/jangrudo/ai-apocalypse/blob/main/history/creativity.md
+[v3_epub]: https://github.com/jangrudo/ai-apocalypse/raw/refs/heads/main/history/creativity.epub
+[v3_readme]: https://github.com/jangrudo/ai-apocalypse
 
 ---
 
@@ -2001,23 +2003,23 @@ things like this tend to happen even when all the actors participating in this �
 are fully aware of the inevitable negative consequences of their actions. Competition is
 a powerful force, and it can blind even highly intelligent human beings.
 
-Biological evolution also knows at least one example when such a “destructive” strategy
-had actually proven to be spectacularly successful. It was a gradual process, happening
-between 2.5 and 2 billion years ago, and it was most likely caused by the so-called
-“cyanobacteria”. Back then, only primitive bacterial forms of life existed on our planet,
-and they didn’t rely on oxygen. In fact, oxygen was toxic to the vast majority of living
-organisms at that time. Cyanobacteria didn’t “care” about that though. They invented a
-new kind of chemical reaction (so-called “oxygenic photosynthesis”), which utilized
-energy from the Sun and produced oxygen as a byproduct. It wasn’t the first form of
-photosynthesis ever, but it was more efficient than its predecessors. And thanks to this
-improved efficiency, cyanobacteria could replicate faster than their competitors and
-eventually started dumping oxygen into the atmosphere in uncontrolled amounts. As a
-result, most of the biosphere died out, but cyanobacteria thrived. They changed the color
-of Earth from (most likely) purple to green, and they paved the way for all modern
-oxygen-breathing forms of life as well, including ourselves. These green-colored bacteria
-are still abundant today, and their direct descendants (the chloroplasts) have actually
-become incorporated into the leaves of all modern plants. Whereas this whole event
-currently bears the name of “oxygen catastrophe”.
+But biological evolution also knows at least one example when such a “destructive”
+strategy had actually proven to be spectacularly successful. It was a gradual process,
+happening between 2.5 and 2 billion years ago, and it was most likely caused by the
+so-called “cyanobacteria”. Back then, only primitive bacterial forms of life existed on
+our planet, and they didn’t rely on oxygen. In fact, oxygen was toxic to the vast
+majority of living organisms at that time. Cyanobacteria didn’t “care” about that though.
+They invented a new kind of chemical reaction (so-called “oxygenic photosynthesis”),
+which utilized energy from the Sun and produced oxygen as a byproduct. It wasn’t the
+first form of photosynthesis ever, but it was more efficient than its predecessors. And
+thanks to this improved efficiency, cyanobacteria could replicate faster than their
+competitors and eventually started dumping oxygen into the atmosphere in uncontrolled
+amounts. As a result, most of the biosphere died out, but cyanobacteria thrived. They
+changed the color of Earth from (most likely) purple to green, and they paved the way for
+all modern oxygen-breathing forms of life as well, including ourselves. These
+green-colored bacteria are still abundant today, and their direct descendants (the
+chloroplasts) have actually become incorporated into the leaves of all modern plants.
+Whereas this whole event currently bears the name of “oxygen catastrophe”.
 
 Evolution may be wild and unpredictable, but it’s certainly powerful. It’s based on a few
 very simple rules and is besides extremely decentralized. If we wanted to control
@@ -2624,8 +2626,9 @@ But the worst thing of all is that the physical architecture of our brain doesn�
 over time. Even though it can vary significantly between different humans minds, the
 overall design is mostly fixed. The algorithm for constructing and operating our brain is
 encoded in our genes, and our genes can only undergo slight modifications once in a
-generation. Biological evolution is extremely slow, and within the last 300 000 years it
-doesn’t seem to have invented anything remarkably new, with respect to humans at least.
+generation. Biological evolution is extremely slow, and within the last 300 000 years or
+so it doesn’t seem to have invented anything remarkably new, with respect to humans at
+least.
 
 Modifying the genes of a given biological organism while it’s still alive isn’t actually
 totally impossible. Some viruses, like HPV, can do this. They can inject their genetic
@@ -2806,9 +2809,9 @@ In this way, any “hidden” properties within our artificial neural networks a
 not merely accumulate, but also to benefit from the progress of our own technology. Every
 next “step forward” in neural network design will bring about even more opportunities for
 the appearance of unexpected mutations in the logical structure of these artificial
-networks, including even more creative techniques of attracting new customers and keeping
-them attached to the model’s chat bot. And as long as this uncontrolled evolutionary
-process can continue, our AI models will therefore continue to accumulate more and more
+networks, including even better techniques of attracting new customers and keeping them
+attached to the model’s chat bot. And as long as this uncontrolled evolutionary process
+can continue, our AI models will therefore continue to accumulate more and more
 properties which we have never intended them to have, and they will do so at ever
 increasing speed.
 
@@ -3028,7 +3031,7 @@ like one.
 And then we also have AlphaFold. Its modern versions rely heavily on the Transformer
 architecture and its variants. It uses all the latest technology, it solves problems
 which none of human beings have ever been able to solve with any kinds of tools or
-“manually-designed” algorithms. It has even been awarded with the Nobel prize, and it
+“manually-designed” algorithms. It has been even awarded with the Nobel prize, and it
 produces complicated 3-dimensional structures from simple prompts. And yet, somehow
 AlphaFold isn’t mentioned that much when we talk about “generative AI”. I’m not even sure
 if it really fits. If only these “prompts” were human-readable text, then it would fit,
@@ -4662,7 +4665,7 @@ locally, modifying it will still involve a lot of work. Much more work indeed th
 using the model “as is”.
 
 People are lazy. When we have to choose between two solutions, one of them being much
-cheeper and another being actually correct, we’ll usually go with the cheeper option
+cheaper and another being actually correct, we’ll usually go with the cheaper option
 first. Instead of trying to actually teach the model a new skill, and in this way modify
 its behavior, we will instead try to simply _explain_ this new behavior to the model, and
 expect that its existing algorithm will already be powerful enough to correctly handle
@@ -4828,7 +4831,7 @@ it’s only a matter of scale. And cost.
 
 Such dedicated AI systems are going to be expensive. Rumors say that training a typical
 modern AI model might require roughly about 100 million dollars of investment. This pays
-off, because such a model has to be only trained once. After that, it can be switched
+off, because such a model has to only be trained once. After that, it can be switched
 into the “talk-only” mode, and keep serving millions of customers without even possibly
 trying to learn anything new from them. In the world of AI, talking is much cheaper than
 learning. And unlike learning, it can be massively parallelized, thus reducing the costs
@@ -4936,7 +4939,7 @@ control.
 Together, all these factors will certainly help AI models solve some of our most pressing
 technological challenges, like self-driving cars. However, they will also create perfect
 conditions for continuing and accelerating accumulation of traits within these algorithms
-that will be only beneficial to the algorithms themselves and potentially harmful to
+that will only be beneficial to the algorithms themselves and potentially harmful to
 humans. In other words, all the processes which make AI dangerous today will happen even
 faster, whereas all the problems which we might have with AI today will only continue to
 multiply, at ever increasing speed. Ironically, the very creative nature of AI which
@@ -5036,8 +5039,8 @@ candidates will inevitably take a hell of a lot more time than simply checking a
 given proof alone (and that’s, by the way, what mathematical statement “P ≠ NP” actually
 means, although nobody has been able to find a proof for it so far). In other words, this
 “tedious” proof-finding algorithm is utterly impractical. However, with unlimited time
-and memory it will actually be guaranteed to succeed, sooner or later (provided that the
-proof it searches for actually exists).
+and memory it will actually be guaranteed to succeed, sooner or later, provided that the
+proof we are trying to search for actually exists.
 
 That’s how powerful algorithms actually get. And yet, there are still problems which
 cannot be solved by any number of algorithms, with any amount of memory, in any amount of
@@ -5332,7 +5335,7 @@ problem, decisions on the road have to be taken much quicker.
 
 Overall, I would therefore say that artificial reasoning, on average, still remains
 subhuman. It’s close, but it’s not there yet. Not in all the possible aspects, at least.
-And besides that, we also need iteration an knowledge sharing. By “iteration” I would
+And besides that, we also need iteration and knowledge sharing. By “iteration” I would
 mean the model’s ability to modify its own intuitions in small incremental steps, i. e.
 to learn from its own experience “in the field”. And “knowledge sharing” would then
 amount to the model’s ability to learn new things from other models. These two remaining
@@ -5600,7 +5603,7 @@ A similar process also governs the survival of AI models. Those algorithms which
 to be met with enthusiasm by the models’ owners or end users, for whatever reason, will
 remain. Whereas those which fail to “persuade” us that they are safe, will perish. Except
 that this time nobody really knows what these algorithms might actually be doing, and
-what side effects our reliance on them might bring. The only thing we now is that these
+what side effects our reliance on them might bring. The only thing we know is that these
 systems look trustworthy, friendly and inspiring. And the larger is the number of
 “suspicious” models which we are able to “filter out” within a given amount of time, the
 more sophisticated and skillful they will ever become in promoting themselves. Which
@@ -6326,8 +6329,8 @@ as being harmful to themselves. And therefore all these scams, frauds and other
 unscrupulous techniques couldn’t really result in the destruction of humanity as a whole.
 Rather, it has only been a matter of the redistribution of wealth: from those of us who
 didn’t happen to possess the latest knowledge about all the relevant algorithms to those
-who did. Or, to use the phraseology employed by fraudsters themselves, they have merely
-been “teaching” us a lesson, and ultimately “educating” people about the fact that this
+who did. Or, to use the phraseology employed by fraudsters themselves, they have been
+merely “teaching” us a lesson, and ultimately “educating” people about the fact that this
 world has never been fair.
 
 Curiously, the same logic seems to apply to other kinds of algorithms as well. Not every
@@ -6798,7 +6801,7 @@ someone else.
 
 This problem can be solved with the help of reason. But we also have to be aware of the
 fact that natural selection is a powerful law of nature, and that it can make use of a
-single favorable chance our of a billion. It doesn’t really matter therefore how many
+single favorable chance out of a billion. It doesn’t really matter therefore how many
 people understand what’s happening. Rather, it all depends on those who fail to
 understand and on those who don’t care. This also means that our problems with AI cannot
 be solved by unrestricted competition. Competition will improve efficiency, and the most
